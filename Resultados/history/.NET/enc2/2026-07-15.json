@@ -1,0 +1,656 @@
+{
+  "players": [
+    {
+      "rank": 4875426,
+      "name": 849093083,
+      "pts": 460,
+      "villages": 44
+    },
+    {
+      "rank": 4721163,
+      "name": 849110944,
+      "pts": 482,
+      "villages": 19
+    },
+    {
+      "rank": 4683935,
+      "name": 849298982,
+      "pts": 496,
+      "villages": 53
+    },
+    {
+      "rank": 4561561,
+      "name": 849395122,
+      "pts": 463,
+      "villages": 19
+    },
+    {
+      "rank": 4512890,
+      "name": 849379512,
+      "pts": 468,
+      "villages": 44
+    },
+    {
+      "rank": 4431418,
+      "name": 3969476,
+      "pts": 385,
+      "villages": 44
+    },
+    {
+      "rank": 4387233,
+      "name": 11458079,
+      "pts": 465,
+      "villages": 19
+    },
+    {
+      "rank": 4373300,
+      "name": 11425437,
+      "pts": 446,
+      "villages": 44
+    },
+    {
+      "rank": 4284264,
+      "name": 11379141,
+      "pts": 415,
+      "villages": 44
+    },
+    {
+      "rank": 3983559,
+      "name": 8515455,
+      "pts": 442,
+      "villages": 53
+    },
+    {
+      "rank": 3846260,
+      "name": 9907796,
+      "pts": 384,
+      "villages": 53
+    },
+    {
+      "rank": 3799228,
+      "name": 849377429,
+      "pts": 384,
+      "villages": 19
+    },
+    {
+      "rank": 3681305,
+      "name": 848907513,
+      "pts": 352,
+      "villages": 21
+    },
+    {
+      "rank": 3515754,
+      "name": 848940839,
+      "pts": 354,
+      "villages": 169
+    },
+    {
+      "rank": 3472378,
+      "name": 11553680,
+      "pts": 373,
+      "villages": 19
+    },
+    {
+      "rank": 3358540,
+      "name": 849239594,
+      "pts": 317,
+      "villages": 21
+    },
+    {
+      "rank": 3308527,
+      "name": 849129682,
+      "pts": 340,
+      "villages": 169
+    },
+    {
+      "rank": 3259319,
+      "name": 849388139,
+      "pts": 302,
+      "villages": 71
+    },
+    {
+      "rank": 3251831,
+      "name": 3205705,
+      "pts": 303,
+      "villages": 21
+    },
+    {
+      "rank": 3247009,
+      "name": 849372972,
+      "pts": 321,
+      "villages": 53
+    },
+    {
+      "rank": 3111486,
+      "name": 849153427,
+      "pts": 300,
+      "villages": 21
+    },
+    {
+      "rank": 3081133,
+      "name": 11592630,
+      "pts": 308,
+      "villages": 44
+    },
+    {
+      "rank": 3023332,
+      "name": 11581767,
+      "pts": 315,
+      "villages": 48
+    },
+    {
+      "rank": 2939851,
+      "name": 9490112,
+      "pts": 281,
+      "villages": 21
+    },
+    {
+      "rank": 2903216,
+      "name": 2185422,
+      "pts": 299,
+      "villages": 27
+    },
+    {
+      "rank": 2869758,
+      "name": 849112737,
+      "pts": 305,
+      "villages": 27
+    },
+    {
+      "rank": 2739202,
+      "name": 9547857,
+      "pts": 267,
+      "villages": 44
+    },
+    {
+      "rank": 2718238,
+      "name": 849130849,
+      "pts": 268,
+      "villages": 53
+    },
+    {
+      "rank": 2520369,
+      "name": 9433546,
+      "pts": 265,
+      "villages": 48
+    },
+    {
+      "rank": 2494217,
+      "name": 11434342,
+      "pts": 288,
+      "villages": 53
+    },
+    {
+      "rank": 2437625,
+      "name": 849120665,
+      "pts": 244,
+      "villages": 19
+    },
+    {
+      "rank": 2390568,
+      "name": 11531581,
+      "pts": 253,
+      "villages": 44
+    },
+    {
+      "rank": 2390102,
+      "name": 10845623,
+      "pts": 247,
+      "villages": 21
+    },
+    {
+      "rank": 2383020,
+      "name": 849128221,
+      "pts": 246,
+      "villages": 53
+    },
+    {
+      "rank": 2293817,
+      "name": 849396140,
+      "pts": 230,
+      "villages": 21
+    },
+    {
+      "rank": 2033215,
+      "name": 7669475,
+      "pts": 262,
+      "villages": 0
+    },
+    {
+      "rank": 1988094,
+      "name": 849395468,
+      "pts": 207,
+      "villages": 19
+    },
+    {
+      "rank": 1864881,
+      "name": 11355124,
+      "pts": 182,
+      "villages": 21
+    },
+    {
+      "rank": 1850711,
+      "name": 849367034,
+      "pts": 186,
+      "villages": 27
+    },
+    {
+      "rank": 1748102,
+      "name": 4118295,
+      "pts": 192,
+      "villages": 29
+    },
+    {
+      "rank": 1534788,
+      "name": 849392299,
+      "pts": 158,
+      "villages": 113
+    },
+    {
+      "rank": 1342580,
+      "name": 849233633,
+      "pts": 132,
+      "villages": 113
+    },
+    {
+      "rank": 1338003,
+      "name": 11350294,
+      "pts": 133,
+      "villages": 86
+    },
+    {
+      "rank": 1248380,
+      "name": 11493808,
+      "pts": 138,
+      "villages": 113
+    },
+    {
+      "rank": 1148437,
+      "name": 849233395,
+      "pts": 161,
+      "villages": 29
+    },
+    {
+      "rank": 1038218,
+      "name": 11169179,
+      "pts": 122,
+      "villages": 39
+    },
+    {
+      "rank": 870289,
+      "name": 4702944,
+      "pts": 161,
+      "villages": 164
+    },
+    {
+      "rank": 546995,
+      "name": 849397127,
+      "pts": 59,
+      "villages": 171
+    },
+    {
+      "rank": 510904,
+      "name": 9984094,
+      "pts": 57,
+      "villages": 54
+    },
+    {
+      "rank": 508025,
+      "name": 849299337,
+      "pts": 56,
+      "villages": 54
+    }
+  ],
+  "tribes": [
+    {
+      "rank": 30705063,
+      "name": 44,
+      "tag": "WEED EXPERTS",
+      "pts": 8,
+      "villages": 30705063
+    },
+    {
+      "rank": 25369892,
+      "name": 19,
+      "tag": "Cosmic Chaos",
+      "pts": 8,
+      "villages": 25369892
+    },
+    {
+      "rank": 23376351,
+      "name": 53,
+      "tag": "Purple haze",
+      "pts": 7,
+      "villages": 23376351
+    },
+    {
+      "rank": 22896046,
+      "name": 21,
+      "tag": "Non-Aligned Movement",
+      "pts": 8,
+      "villages": 22896046
+    },
+    {
+      "rank": 7737739,
+      "name": 27,
+      "tag": "Chaos Is A Ladder",
+      "pts": 7,
+      "villages": 7737739
+    },
+    {
+      "rank": 6833674,
+      "name": 169,
+      "tag": "XXXX",
+      "pts": 5,
+      "villages": 6833674
+    },
+    {
+      "rank": 5544841,
+      "name": 48,
+      "tag": "Nugget Squires",
+      "pts": 5,
+      "villages": 5544841
+    },
+    {
+      "rank": 4155772,
+      "name": 113,
+      "tag": "Hail Hydra",
+      "pts": 6,
+      "villages": 4155772
+    },
+    {
+      "rank": 2888321,
+      "name": 29,
+      "tag": "1776",
+      "pts": 2,
+      "villages": 2888321
+    },
+    {
+      "rank": 3270020,
+      "name": 71,
+      "tag": "The Stuffed Turkeys",
+      "pts": 4,
+      "villages": 3270020
+    },
+    {
+      "rank": 870454,
+      "name": 164,
+      "tag": "BIGGUS DICKUS",
+      "pts": 1,
+      "villages": 870454
+    },
+    {
+      "rank": 1204398,
+      "name": 39,
+      "tag": "Always Be Around Here",
+      "pts": 4,
+      "villages": 1204398
+    },
+    {
+      "rank": 1234029,
+      "name": 54,
+      "tag": "Improvise Adapt Overcome",
+      "pts": 3,
+      "villages": 1234029
+    },
+    {
+      "rank": 1344942,
+      "name": 86,
+      "tag": "WEED",
+      "pts": 2,
+      "villages": 1344942
+    },
+    {
+      "rank": 357085,
+      "name": 130,
+      "tag": "**VETERANS**",
+      "pts": 7,
+      "villages": 357085
+    },
+    {
+      "rank": 547748,
+      "name": 171,
+      "tag": "Screaming Goat",
+      "pts": 1,
+      "villages": 547748
+    },
+    {
+      "rank": 219606,
+      "name": 122,
+      "tag": "West Coast Warrior",
+      "pts": 5,
+      "villages": 219606
+    },
+    {
+      "rank": 190053,
+      "name": 166,
+      "tag": "1776.B",
+      "pts": 4,
+      "villages": 190053
+    },
+    {
+      "rank": 182175,
+      "name": 153,
+      "tag": "Noble Alliance",
+      "pts": 1,
+      "villages": 182175
+    },
+    {
+      "rank": 44000,
+      "name": 151,
+      "tag": "PANDA Youngkhalifa",
+      "pts": 4,
+      "villages": 44000
+    },
+    {
+      "rank": 30062,
+      "name": 75,
+      "tag": "R0me",
+      "pts": 3,
+      "villages": 30062
+    },
+    {
+      "rank": 11355,
+      "name": 96,
+      "tag": "Cosmic-Chaos",
+      "pts": 1,
+      "villages": 11355
+    },
+    {
+      "rank": 16667,
+      "name": 4,
+      "tag": "+KNIGHTS-OF-CAMELOT+",
+      "pts": 3,
+      "villages": 16667
+    },
+    {
+      "rank": 6927,
+      "name": 1,
+      "tag": "Nightmare Watch",
+      "pts": 6,
+      "villages": 6927
+    },
+    {
+      "rank": 9995,
+      "name": 30,
+      "tag": "Home builders association",
+      "pts": 2,
+      "villages": 9995
+    },
+    {
+      "rank": 8513,
+      "name": 168,
+      "tag": "Just Chilling",
+      "pts": 1,
+      "villages": 8513
+    },
+    {
+      "rank": 6821,
+      "name": 85,
+      "tag": "NemesiS",
+      "pts": 3,
+      "villages": 6821
+    },
+    {
+      "rank": 16974,
+      "name": 124,
+      "tag": "Dule",
+      "pts": 2,
+      "villages": 16974
+    },
+    {
+      "rank": 10329,
+      "name": 135,
+      "tag": "1778",
+      "pts": 2,
+      "villages": 10329
+    },
+    {
+      "rank": 3799,
+      "name": 156,
+      "tag": "GENESIS",
+      "pts": 3,
+      "villages": 3799
+    },
+    {
+      "rank": 3152,
+      "name": 17,
+      "tag": "OVERLORDS",
+      "pts": 3,
+      "villages": 3152
+    },
+    {
+      "rank": 1556,
+      "name": 141,
+      "tag": "The Real French Empire 2",
+      "pts": 2,
+      "villages": 1556
+    },
+    {
+      "rank": 1589,
+      "name": 16,
+      "tag": "Anime Enjoyers",
+      "pts": 2,
+      "villages": 1589
+    },
+    {
+      "rank": 1970,
+      "name": 10,
+      "tag": "East Roman Empire",
+      "pts": 1,
+      "villages": 1970
+    },
+    {
+      "rank": 5224,
+      "name": 9,
+      "tag": "Sith Empire",
+      "pts": 1,
+      "villages": 5224
+    },
+    {
+      "rank": 1618,
+      "name": 65,
+      "tag": "Level-Up",
+      "pts": 1,
+      "villages": 1618
+    },
+    {
+      "rank": 0,
+      "name": 51,
+      "tag": "ROME1777",
+      "pts": 1,
+      "villages": 0
+    },
+    {
+      "rank": 0,
+      "name": 42,
+      "tag": "THE 11th Legion",
+      "pts": 1,
+      "villages": 0
+    },
+    {
+      "rank": 3850,
+      "name": 40,
+      "tag": "Sith Empire Academy",
+      "pts": 1,
+      "villages": 3850
+    },
+    {
+      "rank": 0,
+      "name": 31,
+      "tag": "Hrvatski Bojovnik",
+      "pts": 1,
+      "villages": 0
+    },
+    {
+      "rank": 2803,
+      "name": 74,
+      "tag": "SITH4 YOUNGKHALIFA",
+      "pts": 1,
+      "villages": 2803
+    },
+    {
+      "rank": 0,
+      "name": 64,
+      "tag": "Shapeshifters",
+      "pts": 1,
+      "villages": 0
+    },
+    {
+      "rank": 0,
+      "name": 77,
+      "tag": "NoName",
+      "pts": 1,
+      "villages": 0
+    },
+    {
+      "rank": 3231,
+      "name": 79,
+      "tag": "NO NAME",
+      "pts": 1,
+      "villages": 3231
+    },
+    {
+      "rank": 0,
+      "name": 129,
+      "tag": "The Real French Empire",
+      "pts": 1,
+      "villages": 0
+    },
+    {
+      "rank": 4016,
+      "name": 119,
+      "tag": "Jebi Me",
+      "pts": 1,
+      "villages": 4016
+    },
+    {
+      "rank": 0,
+      "name": 114,
+      "tag": "Unsupervised Adults!",
+      "pts": 2,
+      "villages": 0
+    },
+    {
+      "rank": 1534,
+      "name": 138,
+      "tag": "1111",
+      "pts": 1,
+      "villages": 1534
+    },
+    {
+      "rank": 1534,
+      "name": 155,
+      "tag": "1780",
+      "pts": 1,
+      "villages": 1534
+    },
+    {
+      "rank": 0,
+      "name": 152,
+      "tag": "Thailand",
+      "pts": 1,
+      "villages": 0
+    }
+  ]
+}
