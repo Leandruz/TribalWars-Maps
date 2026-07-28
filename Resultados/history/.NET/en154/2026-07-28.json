@@ -1,0 +1,656 @@
+{
+  "players": [
+    {
+      "rank": 15246238,
+      "name": 849363286,
+      "pts": 1457,
+      "villages": 407
+    },
+    {
+      "rank": 13461873,
+      "name": 561464,
+      "pts": 1268,
+      "villages": 93
+    },
+    {
+      "rank": 13256302,
+      "name": 11125816,
+      "pts": 1189,
+      "villages": 93
+    },
+    {
+      "rank": 13014362,
+      "name": 849308152,
+      "pts": 1090,
+      "villages": 93
+    },
+    {
+      "rank": 12347844,
+      "name": 849280143,
+      "pts": 1166,
+      "villages": 93
+    },
+    {
+      "rank": 11366425,
+      "name": 11166958,
+      "pts": 1096,
+      "villages": 407
+    },
+    {
+      "rank": 11239700,
+      "name": 11558274,
+      "pts": 945,
+      "villages": 93
+    },
+    {
+      "rank": 9291138,
+      "name": 849225074,
+      "pts": 865,
+      "villages": 93
+    },
+    {
+      "rank": 9168121,
+      "name": 848883676,
+      "pts": 918,
+      "villages": 93
+    },
+    {
+      "rank": 8750527,
+      "name": 8341605,
+      "pts": 813,
+      "villages": 171
+    },
+    {
+      "rank": 8273505,
+      "name": 849382511,
+      "pts": 769,
+      "villages": 93
+    },
+    {
+      "rank": 8245926,
+      "name": 11487532,
+      "pts": 777,
+      "villages": 171
+    },
+    {
+      "rank": 7848595,
+      "name": 849112260,
+      "pts": 746,
+      "villages": 171
+    },
+    {
+      "rank": 7472283,
+      "name": 849351101,
+      "pts": 718,
+      "villages": 407
+    },
+    {
+      "rank": 7440275,
+      "name": 849237355,
+      "pts": 724,
+      "villages": 407
+    },
+    {
+      "rank": 7403531,
+      "name": 848899147,
+      "pts": 693,
+      "villages": 163
+    },
+    {
+      "rank": 7307679,
+      "name": 11554206,
+      "pts": 674,
+      "villages": 93
+    },
+    {
+      "rank": 6758643,
+      "name": 11476286,
+      "pts": 623,
+      "villages": 213
+    },
+    {
+      "rank": 6661059,
+      "name": 9941625,
+      "pts": 650,
+      "villages": 93
+    },
+    {
+      "rank": 6614756,
+      "name": 9735896,
+      "pts": 619,
+      "villages": 407
+    },
+    {
+      "rank": 6266019,
+      "name": 10725639,
+      "pts": 615,
+      "villages": 93
+    },
+    {
+      "rank": 6046357,
+      "name": 10635927,
+      "pts": 579,
+      "villages": 407
+    },
+    {
+      "rank": 5880832,
+      "name": 10177562,
+      "pts": 535,
+      "villages": 227
+    },
+    {
+      "rank": 5750531,
+      "name": 849220024,
+      "pts": 585,
+      "villages": 407
+    },
+    {
+      "rank": 5163826,
+      "name": 11458366,
+      "pts": 503,
+      "villages": 93
+    },
+    {
+      "rank": 5128828,
+      "name": 11339712,
+      "pts": 473,
+      "villages": 163
+    },
+    {
+      "rank": 5118246,
+      "name": 1340513,
+      "pts": 458,
+      "villages": 163
+    },
+    {
+      "rank": 5060643,
+      "name": 11291357,
+      "pts": 473,
+      "villages": 163
+    },
+    {
+      "rank": 4946023,
+      "name": 848903334,
+      "pts": 557,
+      "villages": 407
+    },
+    {
+      "rank": 4735930,
+      "name": 849384458,
+      "pts": 500,
+      "villages": 163
+    },
+    {
+      "rank": 4484139,
+      "name": 849382613,
+      "pts": 439,
+      "villages": 407
+    },
+    {
+      "rank": 4459204,
+      "name": 131000,
+      "pts": 421,
+      "villages": 171
+    },
+    {
+      "rank": 4428623,
+      "name": 4448391,
+      "pts": 456,
+      "villages": 93
+    },
+    {
+      "rank": 4413773,
+      "name": 849278217,
+      "pts": 468,
+      "villages": 407
+    },
+    {
+      "rank": 4365446,
+      "name": 11134213,
+      "pts": 400,
+      "villages": 227
+    },
+    {
+      "rank": 4351444,
+      "name": 849368859,
+      "pts": 418,
+      "villages": 227
+    },
+    {
+      "rank": 4251196,
+      "name": 849181920,
+      "pts": 382,
+      "villages": 163
+    },
+    {
+      "rank": 4196789,
+      "name": 11458635,
+      "pts": 424,
+      "villages": 93
+    },
+    {
+      "rank": 4105448,
+      "name": 11253348,
+      "pts": 394,
+      "villages": 163
+    },
+    {
+      "rank": 4082435,
+      "name": 11172404,
+      "pts": 377,
+      "villages": 171
+    },
+    {
+      "rank": 4023134,
+      "name": 11489762,
+      "pts": 384,
+      "villages": 171
+    },
+    {
+      "rank": 3994219,
+      "name": 849371561,
+      "pts": 373,
+      "villages": 213
+    },
+    {
+      "rank": 3962866,
+      "name": 8499484,
+      "pts": 345,
+      "villages": 163
+    },
+    {
+      "rank": 3863930,
+      "name": 849025464,
+      "pts": 358,
+      "villages": 171
+    },
+    {
+      "rank": 3784174,
+      "name": 2819640,
+      "pts": 403,
+      "villages": 171
+    },
+    {
+      "rank": 3591000,
+      "name": 10627774,
+      "pts": 347,
+      "villages": 407
+    },
+    {
+      "rank": 3557330,
+      "name": 11457042,
+      "pts": 344,
+      "villages": 227
+    },
+    {
+      "rank": 3557267,
+      "name": 849202268,
+      "pts": 340,
+      "villages": 171
+    },
+    {
+      "rank": 3544251,
+      "name": 10884097,
+      "pts": 333,
+      "villages": 407
+    },
+    {
+      "rank": 3453960,
+      "name": 10074353,
+      "pts": 356,
+      "villages": 227
+    }
+  ],
+  "tribes": [
+    {
+      "rank": 133494951,
+      "name": 93,
+      "tag": "Adolfsbergsskolan",
+      "pts": 18,
+      "villages": 133494951
+    },
+    {
+      "rank": 92588158,
+      "name": 407,
+      "tag": "PiNK PoNY CLUb",
+      "pts": 16,
+      "villages": 92588158
+    },
+    {
+      "rank": 60700095,
+      "name": 171,
+      "tag": "Imagine TREEcation!",
+      "pts": 16,
+      "villages": 60700095
+    },
+    {
+      "rank": 49641660,
+      "name": 163,
+      "tag": "BoopGate",
+      "pts": 17,
+      "villages": 49641660
+    },
+    {
+      "rank": 40361787,
+      "name": 227,
+      "tag": "BaapGate",
+      "pts": 16,
+      "villages": 40361787
+    },
+    {
+      "rank": 16263630,
+      "name": 251,
+      "tag": "BeepGate",
+      "pts": 13,
+      "villages": 16263630
+    },
+    {
+      "rank": 16889231,
+      "name": 213,
+      "tag": "Adolfbergs Förskola",
+      "pts": 11,
+      "villages": 16889231
+    },
+    {
+      "rank": 13795010,
+      "name": 742,
+      "tag": "KICK AXE REFORMED",
+      "pts": 18,
+      "villages": 13795010
+    },
+    {
+      "rank": 2350610,
+      "name": 893,
+      "tag": "KICK AXE REFORMED 2",
+      "pts": 17,
+      "villages": 2350610
+    },
+    {
+      "rank": 2794321,
+      "name": 783,
+      "tag": "Lost Ones",
+      "pts": 3,
+      "villages": 2794321
+    },
+    {
+      "rank": 1862702,
+      "name": 1046,
+      "tag": "DRUNK",
+      "pts": 12,
+      "villages": 1862702
+    },
+    {
+      "rank": 2109459,
+      "name": 239,
+      "tag": "Milkmans",
+      "pts": 13,
+      "villages": 2109459
+    },
+    {
+      "rank": 1311139,
+      "name": 604,
+      "tag": "Myrmidon",
+      "pts": 7,
+      "villages": 1311139
+    },
+    {
+      "rank": 1205641,
+      "name": 490,
+      "tag": "Pervy Panda",
+      "pts": 15,
+      "villages": 1205641
+    },
+    {
+      "rank": 388678,
+      "name": 995,
+      "tag": "Killlas",
+      "pts": 7,
+      "villages": 388678
+    },
+    {
+      "rank": 461111,
+      "name": 181,
+      "tag": "Canada",
+      "pts": 4,
+      "villages": 461111
+    },
+    {
+      "rank": 584124,
+      "name": 25,
+      "tag": "Incoming Attacks",
+      "pts": 13,
+      "villages": 584124
+    },
+    {
+      "rank": 608852,
+      "name": 268,
+      "tag": "KickAxe4",
+      "pts": 12,
+      "villages": 608852
+    },
+    {
+      "rank": 359382,
+      "name": 1066,
+      "tag": "The Defender",
+      "pts": 7,
+      "villages": 359382
+    },
+    {
+      "rank": 301728,
+      "name": 165,
+      "tag": "S.N.O.B.S Empire",
+      "pts": 2,
+      "villages": 301728
+    },
+    {
+      "rank": 214297,
+      "name": 854,
+      "tag": "Kick Axe Reformed Academy",
+      "pts": 8,
+      "villages": 214297
+    },
+    {
+      "rank": 312535,
+      "name": 1170,
+      "tag": "Bulk",
+      "pts": 1,
+      "villages": 312535
+    },
+    {
+      "rank": 151052,
+      "name": 1153,
+      "tag": "Nightmare Watch",
+      "pts": 15,
+      "villages": 151052
+    },
+    {
+      "rank": 215992,
+      "name": 911,
+      "tag": "BraveHeart",
+      "pts": 2,
+      "villages": 215992
+    },
+    {
+      "rank": 220062,
+      "name": 1120,
+      "tag": "NightHawks",
+      "pts": 6,
+      "villages": 220062
+    },
+    {
+      "rank": 239139,
+      "name": 1123,
+      "tag": "CRATES",
+      "pts": 4,
+      "villages": 239139
+    },
+    {
+      "rank": 273003,
+      "name": 873,
+      "tag": "THE LAST OF THE MOHICANS",
+      "pts": 2,
+      "villages": 273003
+    },
+    {
+      "rank": 216571,
+      "name": 82,
+      "tag": "Kick Axes 3",
+      "pts": 2,
+      "villages": 216571
+    },
+    {
+      "rank": 253666,
+      "name": 1060,
+      "tag": "Orgolio",
+      "pts": 3,
+      "villages": 253666
+    },
+    {
+      "rank": 103015,
+      "name": 253,
+      "tag": "KOREA",
+      "pts": 9,
+      "villages": 103015
+    },
+    {
+      "rank": 112614,
+      "name": 65,
+      "tag": "This Is Fine",
+      "pts": 2,
+      "villages": 112614
+    },
+    {
+      "rank": 48706,
+      "name": 710,
+      "tag": "Garden",
+      "pts": 9,
+      "villages": 48706
+    },
+    {
+      "rank": 141050,
+      "name": 3,
+      "tag": "Assassins Masters",
+      "pts": 2,
+      "villages": 141050
+    },
+    {
+      "rank": 115992,
+      "name": 66,
+      "tag": "Green Bogey",
+      "pts": 3,
+      "villages": 115992
+    },
+    {
+      "rank": 42897,
+      "name": 236,
+      "tag": "Symphony Of Chaos",
+      "pts": 3,
+      "villages": 42897
+    },
+    {
+      "rank": 127693,
+      "name": 668,
+      "tag": "Boars Before Wars",
+      "pts": 1,
+      "villages": 127693
+    },
+    {
+      "rank": 76875,
+      "name": 781,
+      "tag": "The Rim Job...",
+      "pts": 1,
+      "villages": 76875
+    },
+    {
+      "rank": 91822,
+      "name": 198,
+      "tag": "Itim Na Araw",
+      "pts": 1,
+      "villages": 91822
+    },
+    {
+      "rank": 12801,
+      "name": 553,
+      "tag": "Christian Fellowship",
+      "pts": 6,
+      "villages": 12801
+    },
+    {
+      "rank": 59519,
+      "name": 1154,
+      "tag": "Last Stand",
+      "pts": 1,
+      "villages": 59519
+    },
+    {
+      "rank": 45158,
+      "name": 1075,
+      "tag": "J D I",
+      "pts": 2,
+      "villages": 45158
+    },
+    {
+      "rank": 12078,
+      "name": 978,
+      "tag": "Iron Brigade",
+      "pts": 1,
+      "villages": 12078
+    },
+    {
+      "rank": 64393,
+      "name": 180,
+      "tag": "Underdogs",
+      "pts": 4,
+      "villages": 64393
+    },
+    {
+      "rank": 39112,
+      "name": 730,
+      "tag": "TENAX",
+      "pts": 3,
+      "villages": 39112
+    },
+    {
+      "rank": 72510,
+      "name": 700,
+      "tag": "CHOSEN",
+      "pts": 2,
+      "villages": 72510
+    },
+    {
+      "rank": 17281,
+      "name": 1051,
+      "tag": "GENESIS 3",
+      "pts": 6,
+      "villages": 17281
+    },
+    {
+      "rank": 13028,
+      "name": 956,
+      "tag": "Badinageous Order of Bunniez",
+      "pts": 9,
+      "villages": 13028
+    },
+    {
+      "rank": 31533,
+      "name": 711,
+      "tag": "FALLOUT",
+      "pts": 6,
+      "villages": 31533
+    },
+    {
+      "rank": 26971,
+      "name": 413,
+      "tag": "House",
+      "pts": 6,
+      "villages": 26971
+    },
+    {
+      "rank": 20086,
+      "name": 825,
+      "tag": "Gentilis Regnum",
+      "pts": 4,
+      "villages": 20086
+    }
+  ]
+}
