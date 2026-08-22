@@ -513,18 +513,18 @@
       "villages": 136025
     },
     {
-      "rank": 40251,
-      "name": 645,
-      "tag": "EH-Lions",
-      "pts": 1,
-      "villages": 40251
-    },
-    {
       "rank": 104502,
       "name": 497,
       "tag": "Third Thing Here",
       "pts": 2,
       "villages": 104502
+    },
+    {
+      "rank": 40251,
+      "name": 645,
+      "tag": "EH-Lions",
+      "pts": 1,
+      "villages": 40251
     },
     {
       "rank": 102560,
@@ -541,6 +541,13 @@
       "villages": 68347
     },
     {
+      "rank": 79091,
+      "name": 224,
+      "tag": "Bolyen",
+      "pts": 3,
+      "villages": 79091
+    },
+    {
       "rank": 79497,
       "name": 177,
       "tag": "pppp",
@@ -555,13 +562,6 @@
       "villages": 46292
     },
     {
-      "rank": 17513,
-      "name": 3,
-      "tag": "Nightmare Watch",
-      "pts": 6,
-      "villages": 17513
-    },
-    {
       "rank": 74123,
       "name": 70,
       "tag": "ASMPT",
@@ -569,25 +569,11 @@
       "villages": 74123
     },
     {
-      "rank": 79091,
-      "name": 224,
-      "tag": "Bolyen",
-      "pts": 3,
-      "villages": 79091
-    },
-    {
-      "rank": 56248,
-      "name": 638,
-      "tag": "Vikings of Norway",
-      "pts": 2,
-      "villages": 56248
-    },
-    {
-      "rank": 48964,
-      "name": 746,
-      "tag": "TexasHoldem",
-      "pts": 1,
-      "villages": 48964
+      "rank": 17513,
+      "name": 3,
+      "tag": "Nightmare Watch",
+      "pts": 6,
+      "villages": 17513
     },
     {
       "rank": 78069,
@@ -597,11 +583,18 @@
       "villages": 78069
     },
     {
-      "rank": 68353,
-      "name": 681,
-      "tag": "Dads Army",
+      "rank": 48964,
+      "name": 746,
+      "tag": "TexasHoldem",
       "pts": 1,
-      "villages": 68353
+      "villages": 48964
+    },
+    {
+      "rank": 56248,
+      "name": 638,
+      "tag": "Vikings of Norway",
+      "pts": 2,
+      "villages": 56248
     },
     {
       "rank": 36783,
@@ -609,6 +602,13 @@
       "tag": "Pazzi Fottuti",
       "pts": 1,
       "villages": 36783
+    },
+    {
+      "rank": 68353,
+      "name": 681,
+      "tag": "Dads Army",
+      "pts": 1,
+      "villages": 68353
     },
     {
       "rank": 49257,
@@ -632,13 +632,6 @@
       "villages": 23533
     },
     {
-      "rank": 33938,
-      "name": 99,
-      "tag": "Banana",
-      "pts": 1,
-      "villages": 33938
-    },
-    {
       "rank": 22254,
       "name": 424,
       "tag": "Mr.Nibbles",
@@ -651,6 +644,13 @@
       "tag": "Tribie26",
       "pts": 1,
       "villages": 45140
+    },
+    {
+      "rank": 30795,
+      "name": 368,
+      "tag": "Good Boys Club",
+      "pts": 3,
+      "villages": 30795
     }
   ]
 }
