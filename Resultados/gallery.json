@@ -1,5 +1,5 @@
 {
-  "last_update": "26/08/2026 04:36:07",
+  "last_update": "27/08/2026 15:03:41",
   "servers": {
     ".BR": {
       "brs1": {
@@ -164,6 +164,16 @@
           {
             "title": "Ranking Pontos",
             "path": "Resultados/.BR/brc2/Tribes/mapa_top15_tribos_brc2.png"
+          }
+        ]
+      },
+      "br144": {
+        "name": "BR144",
+        "players": [],
+        "tribes": [
+          {
+            "title": "Ranking Pontos",
+            "path": "Resultados/.BR/br144/Tribes/mapa_top15_tribos_br144.png"
           }
         ]
       },
@@ -979,6 +989,26 @@
           {
             "title": "Ranking Pontos",
             "path": "Resultados/.DS/dec4/Tribes/mapa_top15_tribos_dec4.png"
+          }
+        ]
+      },
+      "de259": {
+        "name": "DE259",
+        "players": [],
+        "tribes": [
+          {
+            "title": "Ranking Pontos",
+            "path": "Resultados/.DS/de259/Tribes/mapa_top15_tribos_de259.png"
+          }
+        ]
+      },
+      "de258": {
+        "name": "DE258",
+        "players": [],
+        "tribes": [
+          {
+            "title": "Ranking Pontos",
+            "path": "Resultados/.DS/de258/Tribes/mapa_top15_tribos_de258.png"
           }
         ]
       },
@@ -2134,6 +2164,16 @@
           }
         ]
       },
+      "en157": {
+        "name": "EN157",
+        "players": [],
+        "tribes": [
+          {
+            "title": "Ranking Pontos",
+            "path": "Resultados/.NET/en157/Tribes/mapa_top15_tribos_en157.png"
+          }
+        ]
+      },
       "en156": {
         "name": "EN156",
         "players": [
@@ -2879,6 +2919,16 @@
           {
             "title": "Ranking Pontos",
             "path": "Resultados/.PT/ptc1/Tribes/mapa_top15_tribos_ptc1.png"
+          }
+        ]
+      },
+      "pt117": {
+        "name": "PT117",
+        "players": [],
+        "tribes": [
+          {
+            "title": "Ranking Pontos",
+            "path": "Resultados/.PT/pt117/Tribes/mapa_top15_tribos_pt117.png"
           }
         ]
       },
