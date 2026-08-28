@@ -1,5 +1,5 @@
 {
-  "last_update": "27/08/2026 15:03:41",
+  "last_update": "28/08/2026 15:50:52",
   "servers": {
     ".BR": {
       "brs1": {
@@ -2169,6 +2169,10 @@
         "players": [],
         "tribes": [
           {
+            "title": "Ranking ODA",
+            "path": "Resultados/.NET/en157/Tribes/mapa_top15_oda_tribos_en157.png"
+          },
+          {
             "title": "Ranking Pontos",
             "path": "Resultados/.NET/en157/Tribes/mapa_top15_tribos_en157.png"
           }
@@ -2926,6 +2930,10 @@
         "name": "PT117",
         "players": [],
         "tribes": [
+          {
+            "title": "Ranking ODA",
+            "path": "Resultados/.PT/pt117/Tribes/mapa_top15_oda_tribos_pt117.png"
+          },
           {
             "title": "Ranking Pontos",
             "path": "Resultados/.PT/pt117/Tribes/mapa_top15_tribos_pt117.png"
