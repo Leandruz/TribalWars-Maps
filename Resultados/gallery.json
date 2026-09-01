@@ -1,5 +1,5 @@
 {
-  "last_update": "31/08/2026 10:16:17",
+  "last_update": "01/09/2026 09:04:02",
   "servers": {
     ".BR": {
       "brs1": {
@@ -1051,6 +1051,10 @@
         "name": "DE258",
         "players": [
           {
+            "title": "Dominância K",
+            "path": "Resultados/.DS/de258/Players/mapa_top15_dominancia_jogadores_K_de258.png"
+          },
+          {
             "title": "Ranking Pontos",
             "path": "Resultados/.DS/de258/Players/mapa_top15_jogadores_de258.png"
           },
@@ -1061,9 +1065,21 @@
           {
             "title": "Ranking ODD",
             "path": "Resultados/.DS/de258/Players/mapa_top15_odd_jogadores_de258.png"
+          },
+          {
+            "title": "Ranking ODS",
+            "path": "Resultados/.DS/de258/Players/mapa_top15_ods_jogadores_de258.png"
+          },
+          {
+            "title": "Média de Noblagens",
+            "path": "Resultados/.DS/de258/Players/mapa_top15_xgoal_jogadores_de258.png"
           }
         ],
         "tribes": [
+          {
+            "title": "Dominância K",
+            "path": "Resultados/.DS/de258/Tribes/mapa_top15_dominancia_K_de258.png"
+          },
           {
             "title": "Ranking ODA",
             "path": "Resultados/.DS/de258/Tribes/mapa_top15_oda_tribos_de258.png"
@@ -2256,11 +2272,52 @@
       },
       "en157": {
         "name": "EN157",
-        "players": [],
+        "players": [
+          {
+            "title": "Dominância K",
+            "path": "Resultados/.NET/en157/Players/mapa_top15_dominancia_jogadores_K_en157.png"
+          },
+          {
+            "title": "Ranking Pontos",
+            "path": "Resultados/.NET/en157/Players/mapa_top15_jogadores_en157.png"
+          },
+          {
+            "title": "Ranking ODA",
+            "path": "Resultados/.NET/en157/Players/mapa_top15_oda_jogadores_en157.png"
+          },
+          {
+            "title": "Ranking ODD",
+            "path": "Resultados/.NET/en157/Players/mapa_top15_odd_jogadores_en157.png"
+          },
+          {
+            "title": "Ranking ODS",
+            "path": "Resultados/.NET/en157/Players/mapa_top15_ods_jogadores_en157.png"
+          },
+          {
+            "title": "Média de Noblagens",
+            "path": "Resultados/.NET/en157/Players/mapa_top15_xgoal_jogadores_en157.png"
+          }
+        ],
         "tribes": [
+          {
+            "title": "Análise Tática (Dinâmica)",
+            "path": "Resultados/.NET/en157/Tribes/mapa_conquest_hotspot_en157.png"
+          },
+          {
+            "title": "Conquistas (24h)",
+            "path": "Resultados/.NET/en157/Tribes/mapa_top15_conquistas_en157.png"
+          },
+          {
+            "title": "Dominância K",
+            "path": "Resultados/.NET/en157/Tribes/mapa_top15_dominancia_K_en157.png"
+          },
           {
             "title": "Ranking ODA",
             "path": "Resultados/.NET/en157/Tribes/mapa_top15_oda_tribos_en157.png"
+          },
+          {
+            "title": "Ranking ODD",
+            "path": "Resultados/.NET/en157/Tribes/mapa_top15_odd_tribos_en157.png"
           },
           {
             "title": "Ranking Pontos",
