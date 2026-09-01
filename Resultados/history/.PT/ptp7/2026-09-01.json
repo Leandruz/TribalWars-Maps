@@ -1,13 +1,13 @@
 {
   "players": [
     {
-      "rank": 2181759,
+      "rank": 2224585,
       "name": 848972880,
-      "pts": 219,
+      "pts": 223,
       "villages": 2
     },
     {
-      "rank": 1996246,
+      "rank": 1996411,
       "name": 31702,
       "pts": 197,
       "villages": 2
@@ -19,7 +19,7 @@
       "villages": 2
     },
     {
-      "rank": 1829276,
+      "rank": 1829201,
       "name": 848892418,
       "pts": 189,
       "villages": 2
@@ -49,7 +49,7 @@
       "villages": 2
     },
     {
-      "rank": 1297025,
+      "rank": 1297133,
       "name": 2572330,
       "pts": 132,
       "villages": 2
@@ -73,13 +73,13 @@
       "villages": 2
     },
     {
-      "rank": 1036124,
+      "rank": 1036161,
       "name": 2504238,
       "pts": 100,
       "villages": 2
     },
     {
-      "rank": 987095,
+      "rank": 986862,
       "name": 849033506,
       "pts": 98,
       "villages": 2
@@ -97,7 +97,7 @@
       "villages": 2
     },
     {
-      "rank": 774028,
+      "rank": 775279,
       "name": 848998917,
       "pts": 90,
       "villages": 2
@@ -109,7 +109,7 @@
       "villages": 2
     },
     {
-      "rank": 711744,
+      "rank": 711603,
       "name": 848888221,
       "pts": 73,
       "villages": 2
@@ -127,12 +127,6 @@
       "villages": 2
     },
     {
-      "rank": 686484,
-      "name": 3138425,
-      "pts": 68,
-      "villages": 14
-    },
-    {
       "rank": 677863,
       "name": 848996446,
       "pts": 73,
@@ -143,6 +137,12 @@
       "name": 3174015,
       "pts": 51,
       "villages": 2
+    },
+    {
+      "rank": 643775,
+      "name": 3138425,
+      "pts": 64,
+      "villages": 14
     },
     {
       "rank": 601347,
@@ -163,7 +163,7 @@
       "villages": 2
     },
     {
-      "rank": 470197,
+      "rank": 470194,
       "name": 848874770,
       "pts": 48,
       "villages": 2
@@ -178,7 +178,7 @@
       "rank": 467107,
       "name": 848983170,
       "pts": 46,
-      "villages": 30
+      "villages": 2
     },
     {
       "rank": 391685,
@@ -193,7 +193,7 @@
       "villages": 2
     },
     {
-      "rank": 386318,
+      "rank": 386819,
       "name": 848884109,
       "pts": 41,
       "villages": 2
@@ -217,7 +217,7 @@
       "villages": 2
     },
     {
-      "rank": 280161,
+      "rank": 278720,
       "name": 22336,
       "pts": 120,
       "villages": 2
@@ -235,7 +235,7 @@
       "villages": 30
     },
     {
-      "rank": 208110,
+      "rank": 206744,
       "name": 3168756,
       "pts": 21,
       "villages": 14
@@ -259,13 +259,13 @@
       "villages": 10
     },
     {
-      "rank": 154175,
+      "rank": 154370,
       "name": 500678,
       "pts": 17,
       "villages": 10
     },
     {
-      "rank": 127747,
+      "rank": 127753,
       "name": 1377144,
       "pts": 14,
       "villages": 14
@@ -303,46 +303,46 @@
   ],
   "tribes": [
     {
-      "rank": 31746738,
+      "rank": 32246633,
       "name": 2,
       "tag": "Boca do Lobo",
-      "pts": 37,
-      "villages": 31746738
+      "pts": 38,
+      "villages": 32246633
     },
     {
-      "rank": 2813629,
+      "rank": 2346522,
       "name": 30,
       "tag": "Boca do Lobo2",
-      "pts": 11,
-      "villages": 2813629
+      "pts": 10,
+      "villages": 2346522
     },
     {
-      "rank": 1879086,
+      "rank": 1845201,
       "name": 14,
       "tag": "Legio VII Ovelha Negra",
       "pts": 23,
-      "villages": 1879086
+      "villages": 1845201
     },
     {
-      "rank": 837758,
+      "rank": 837969,
       "name": 10,
       "tag": "Independence day",
       "pts": 15,
-      "villages": 837758
+      "villages": 837969
     },
     {
-      "rank": 258955,
+      "rank": 258991,
       "name": 26,
       "tag": "Gang",
       "pts": 9,
-      "villages": 258955
+      "villages": 258991
     },
     {
-      "rank": 87663,
+      "rank": 87136,
       "name": 77,
       "tag": "mao vasia",
       "pts": 8,
-      "villages": 87663
+      "villages": 87136
     },
     {
       "rank": 21184,
@@ -380,11 +380,11 @@
       "villages": 9835
     },
     {
-      "rank": 2183,
+      "rank": 2241,
       "name": 67,
       "tag": "ATDUHS",
       "pts": 1,
-      "villages": 2183
+      "villages": 2241
     }
   ]
 }
