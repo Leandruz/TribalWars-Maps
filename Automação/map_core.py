@@ -217,7 +217,8 @@ class TWData:
         if filename in self.cache: return self.cache[filename]
         url = f"{self.url_base}/{filename}"
         try:
-            resp = requests.get(url, timeout=15)
+            headers = {'User-Agent': 'Mozilla/5.0 (compatible; TribalWarsMapBot/2.2)'}
+            resp = requests.get(url, timeout=15, headers=headers)
             if resp.status_code != 200: return pd.DataFrame()
             df = pd.read_csv(StringIO(resp.text), header=None)
             for col in df.select_dtypes(include=['object']).columns:
