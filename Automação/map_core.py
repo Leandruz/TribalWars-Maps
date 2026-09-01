@@ -213,20 +213,27 @@ class TWData:
         self.url_base = f"https://{mundo}.{domain}/map"
         self.cache = {}
 
-    def fetch(self, filename):
+    def fetch(self, filename, retries=3):
         if filename in self.cache: return self.cache[filename]
         url = f"{self.url_base}/{filename}"
-        try:
-            headers = {'User-Agent': 'Mozilla/5.0 (compatible; TribalWarsMapBot/2.2)'}
-            resp = requests.get(url, timeout=15, headers=headers)
-            if resp.status_code != 200: return pd.DataFrame()
-            df = pd.read_csv(StringIO(resp.text), header=None)
-            for col in df.select_dtypes(include=['object']).columns:
-                df[col] = df[col].astype(str).apply(unquote_plus)
-            self.cache[filename] = df
-            return df
-        except:
-            return pd.DataFrame()
+        headers = {'User-Agent': 'Mozilla/5.0 (compatible; TribalWarsMapBot/2.2)'}
+        delays = [0, 2, 5]
+        for attempt in range(retries):
+            try:
+                if attempt > 0:
+                    time.sleep(delays[attempt])
+                resp = requests.get(url, timeout=20, headers=headers)
+                if resp.status_code != 200:
+                    continue
+                df = pd.read_csv(StringIO(resp.text), header=None)
+                for col in df.select_dtypes(include=['object']).columns:
+                    df[col] = df[col].astype(str).apply(unquote_plus)
+                self.cache[filename] = df
+                return df
+            except Exception as e:
+                if attempt == retries - 1:
+                    print(f"  [fetch] {filename} falhou após {retries} tentativas: {type(e).__name__}")
+        return pd.DataFrame()
 
 def generate_map(mundo, server_key, target_root, mode, entity="tribe", metric="points", war_config=None):
     """
@@ -244,14 +251,19 @@ def generate_map(mundo, server_key, target_root, mode, entity="tribe", metric="p
     df_player = data.fetch("player.txt")
     df_ally = data.fetch("ally.txt")
     
-    if df_village.empty or df_player.empty: 
-        print(f"Erro ao baixar dados base do {mundo}")
+    if df_village.empty or df_player.empty or df_ally.empty: 
+        print(f"Erro ao baixar dados base do {mundo} (algum arquivo vital está vazio ou falhou)")
         return
 
     # Mapear IDs
     df_player.columns = list(range(df_player.shape[1]))
     df_village.columns = list(range(df_village.shape[1]))
     
+    # FIX: Garante que as colunas de coordenadas e IDs são numéricas
+    for col in [2, 3, 4]:
+        df_village[col] = pd.to_numeric(df_village[col], errors='coerce').fillna(0).astype(int)
+    df_player[0] = pd.to_numeric(df_player[0], errors='coerce').fillna(0).astype(int)
+
     # FIX: Remove aldeias do K00 (bug de admin/outliers) de todos os mapas
     df_village = df_village[~(((df_village[3] // 100) == 0) & ((df_village[2] // 100) == 0))]
     
@@ -289,7 +301,11 @@ def generate_map(mundo, server_key, target_root, mode, entity="tribe", metric="p
                     df_kill = df_kill[[1, 2]].rename(columns={1: 0, 2: 'val'})
                     df_target = df_target.merge(df_kill, on=0, how='left')
                 
-                df_target['val'] = pd.to_numeric(df_target.get('val', 0), errors='coerce').fillna(0)
+                val_col = df_target.get('val', None)
+                if val_col is None or not hasattr(val_col, 'fillna'):
+                    df_target['val'] = 0.0
+                else:
+                    df_target['val'] = pd.to_numeric(val_col, errors='coerce').fillna(0)
                 label_metric = f"OD{metric[2:].upper()}"
                 # Tie-breaker: Se OD for igual (como 0), ordena por pontos (coluna 4)
                 sort_cols = ['val', 4]
@@ -322,7 +338,11 @@ def generate_map(mundo, server_key, target_root, mode, entity="tribe", metric="p
                     df_kill = df_kill[[1, 2]].rename(columns={1: 0, 2: 'val'})
                     df_target = df_target.merge(df_kill, on=0, how='left')
                 
-                df_target['val'] = pd.to_numeric(df_target.get('val', 0), errors='coerce').fillna(0)
+                val_col = df_target.get('val', None)
+                if val_col is None or not hasattr(val_col, 'fillna'):
+                    df_target['val'] = 0.0
+                else:
+                    df_target['val'] = pd.to_numeric(val_col, errors='coerce').fillna(0)
                 label_metric = f"OD{metric[2:].upper()}"
                 sort_cols = ['val', 'points']
             else:
