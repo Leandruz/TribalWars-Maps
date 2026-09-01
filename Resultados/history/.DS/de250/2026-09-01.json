@@ -1,37 +1,37 @@
 {
   "players": [
     {
-      "rank": 13442368,
+      "rank": 13443016,
       "name": 1576589861,
       "pts": 1113,
       "villages": 259
     },
     {
-      "rank": 11733687,
+      "rank": 11744005,
       "name": 1577216716,
-      "pts": 971,
+      "pts": 972,
       "villages": 264
     },
     {
-      "rank": 11663928,
+      "rank": 11664133,
       "name": 1577235971,
       "pts": 966,
       "villages": 324
     },
     {
-      "rank": 11621276,
+      "rank": 11621584,
       "name": 1576931999,
       "pts": 965,
       "villages": 264
     },
     {
-      "rank": 10293217,
+      "rank": 10301729,
       "name": 1186708,
-      "pts": 863,
+      "pts": 864,
       "villages": 264
     },
     {
-      "rank": 10273910,
+      "rank": 10274109,
       "name": 9693465,
       "pts": 851,
       "villages": 264
@@ -43,25 +43,25 @@
       "villages": 264
     },
     {
-      "rank": 9942852,
+      "rank": 9944828,
       "name": 1577303476,
       "pts": 828,
       "villages": 324
     },
     {
-      "rank": 8880013,
+      "rank": 8880030,
       "name": 9727559,
       "pts": 746,
       "villages": 264
     },
     {
-      "rank": 8806439,
+      "rank": 8842713,
       "name": 9390152,
       "pts": 824,
       "villages": 264
     },
     {
-      "rank": 8410775,
+      "rank": 8410980,
       "name": 1577006487,
       "pts": 792,
       "villages": 264
@@ -85,19 +85,19 @@
       "villages": 264
     },
     {
-      "rank": 7212080,
+      "rank": 7212326,
       "name": 1577489980,
       "pts": 606,
       "villages": 324
     },
     {
-      "rank": 7126471,
+      "rank": 7126536,
       "name": 455448,
       "pts": 691,
       "villages": 264
     },
     {
-      "rank": 7108246,
+      "rank": 7108480,
       "name": 1577518444,
       "pts": 644,
       "villages": 243
@@ -133,7 +133,7 @@
       "villages": 893
     },
     {
-      "rank": 5550863,
+      "rank": 5551183,
       "name": 1577503279,
       "pts": 604,
       "villages": 325
@@ -145,13 +145,13 @@
       "villages": 893
     },
     {
-      "rank": 4802291,
+      "rank": 4811862,
       "name": 885891,
-      "pts": 481,
+      "pts": 482,
       "villages": 243
     },
     {
-      "rank": 4544971,
+      "rank": 4545000,
       "name": 1577002498,
       "pts": 425,
       "villages": 264
@@ -163,9 +163,9 @@
       "villages": 264
     },
     {
-      "rank": 3804932,
+      "rank": 3815568,
       "name": 642206,
-      "pts": 361,
+      "pts": 362,
       "villages": 259
     },
     {
@@ -211,7 +211,7 @@
       "villages": 259
     },
     {
-      "rank": 2266796,
+      "rank": 2267415,
       "name": 1577332056,
       "pts": 205,
       "villages": 902
@@ -223,7 +223,7 @@
       "villages": 324
     },
     {
-      "rank": 1976182,
+      "rank": 1976114,
       "name": 1577185308,
       "pts": 201,
       "villages": 326
@@ -235,7 +235,7 @@
       "villages": 324
     },
     {
-      "rank": 1689629,
+      "rank": 1689575,
       "name": 1577443595,
       "pts": 176,
       "villages": 326
@@ -277,15 +277,15 @@
       "villages": 325
     },
     {
-      "rank": 946204,
+      "rank": 954384,
       "name": 1576727948,
-      "pts": 94,
+      "pts": 95,
       "villages": 255
     },
     {
-      "rank": 928071,
+      "rank": 938826,
       "name": 1706835,
-      "pts": 97,
+      "pts": 98,
       "villages": 283
     },
     {
@@ -295,7 +295,7 @@
       "villages": 326
     },
     {
-      "rank": 896826,
+      "rank": 896674,
       "name": 1577074133,
       "pts": 105,
       "villages": 878
@@ -471,13 +471,6 @@
       "villages": 33120
     },
     {
-      "rank": 11947,
-      "name": 726,
-      "tag": "Brüdis",
-      "pts": 4,
-      "villages": 11947
-    },
-    {
       "rank": 12723,
       "name": 465,
       "tag": "Donald",
@@ -485,18 +478,18 @@
       "villages": 12723
     },
     {
+      "rank": 11947,
+      "name": 726,
+      "tag": "Brüdis",
+      "pts": 4,
+      "villages": 11947
+    },
+    {
       "rank": 7889,
       "name": 786,
       "tag": "GERMANY",
       "pts": 4,
       "villages": 7889
-    },
-    {
-      "rank": 18802,
-      "name": 381,
-      "tag": "Zwangsenteignung",
-      "pts": 1,
-      "villages": 18802
     },
     {
       "rank": 32204,
@@ -513,11 +506,25 @@
       "villages": 9302
     },
     {
+      "rank": 18802,
+      "name": 381,
+      "tag": "Zwangsenteignung",
+      "pts": 1,
+      "villages": 18802
+    },
+    {
       "rank": 7088,
       "name": 112,
       "tag": "Die Ritter der Sesamstraße",
       "pts": 1,
       "villages": 7088
+    },
+    {
+      "rank": 3997,
+      "name": 898,
+      "tag": "VollmondStamm",
+      "pts": 3,
+      "villages": 3997
     },
     {
       "rank": 8619,
@@ -541,13 +548,6 @@
       "villages": 309
     },
     {
-      "rank": 3997,
-      "name": 898,
-      "tag": "VollmondStamm",
-      "pts": 3,
-      "villages": 3997
-    },
-    {
       "rank": 1716,
       "name": 29,
       "tag": "LonelyFersagers!3",
@@ -569,25 +569,18 @@
       "villages": 4270
     },
     {
-      "rank": 138,
-      "name": 207,
-      "tag": "Ghettos mcs",
+      "rank": 0,
+      "name": 863,
+      "tag": "Vicmel",
       "pts": 1,
-      "villages": 138
+      "villages": 0
     },
     {
-      "rank": 255,
-      "name": 725,
-      "tag": "Triforce",
-      "pts": 2,
-      "villages": 255
-    },
-    {
-      "rank": 1751,
-      "name": 658,
-      "tag": "Kein Proxy-Stamm",
+      "rank": 197,
+      "name": 853,
+      "tag": "Brotherhood",
       "pts": 1,
-      "villages": 1751
+      "villages": 197
     },
     {
       "rank": 101,
@@ -604,18 +597,11 @@
       "villages": 176
     },
     {
-      "rank": 0,
-      "name": 863,
-      "tag": "Vicmel",
+      "rank": 284,
+      "name": 885,
+      "tag": "Kaltduscherbande",
       "pts": 1,
-      "villages": 0
-    },
-    {
-      "rank": 197,
-      "name": 853,
-      "tag": "Brotherhood",
-      "pts": 1,
-      "villages": 197
+      "villages": 284
     },
     {
       "rank": 12130,
@@ -625,11 +611,25 @@
       "villages": 12130
     },
     {
-      "rank": 284,
-      "name": 885,
-      "tag": "Kaltduscherbande",
+      "rank": 255,
+      "name": 725,
+      "tag": "Triforce",
+      "pts": 2,
+      "villages": 255
+    },
+    {
+      "rank": 138,
+      "name": 207,
+      "tag": "Ghettos mcs",
       "pts": 1,
-      "villages": 284
+      "villages": 138
+    },
+    {
+      "rank": 482,
+      "name": 894,
+      "tag": "SiverJr.",
+      "pts": 1,
+      "villages": 482
     },
     {
       "rank": 100,
@@ -639,11 +639,11 @@
       "villages": 100
     },
     {
-      "rank": 482,
-      "name": 894,
-      "tag": "SiverJr.",
+      "rank": 1751,
+      "name": 658,
+      "tag": "Kein Proxy-Stamm",
       "pts": 1,
-      "villages": 482
+      "villages": 1751
     }
   ]
 }

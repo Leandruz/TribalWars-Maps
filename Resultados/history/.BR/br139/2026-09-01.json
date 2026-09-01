@@ -401,18 +401,18 @@
       "villages": 78378
     },
     {
-      "rank": 51383,
-      "name": 66,
-      "tag": "Os Templários.",
-      "pts": 2,
-      "villages": 51383
-    },
-    {
       "rank": 50294,
       "name": 2126,
       "tag": "Kakoko",
       "pts": 1,
       "villages": 50294
+    },
+    {
+      "rank": 51383,
+      "name": 66,
+      "tag": "Os Templários.",
+      "pts": 2,
+      "villages": 51383
     },
     {
       "rank": 71003,
@@ -464,6 +464,13 @@
       "villages": 22412
     },
     {
+      "rank": 58165,
+      "name": 1955,
+      "tag": "K...M...B",
+      "pts": 1,
+      "villages": 58165
+    },
+    {
       "rank": 53200,
       "name": 1231,
       "tag": "Renegados",
@@ -476,13 +483,6 @@
       "tag": "UMBRELLA",
       "pts": 1,
       "villages": 30716
-    },
-    {
-      "rank": 58165,
-      "name": 1955,
-      "tag": "K...M...B",
-      "pts": 1,
-      "villages": 58165
     },
     {
       "rank": 26848,
@@ -527,6 +527,20 @@
       "villages": 9229
     },
     {
+      "rank": 5204,
+      "name": 1881,
+      "tag": "VEMCOMIGO",
+      "pts": 1,
+      "villages": 5204
+    },
+    {
+      "rank": 8053,
+      "name": 89,
+      "tag": "Thomas Cochrane",
+      "pts": 1,
+      "villages": 8053
+    },
+    {
       "rank": 6814,
       "name": 2115,
       "tag": "*Vikings*",
@@ -541,11 +555,11 @@
       "villages": 2156
     },
     {
-      "rank": 8053,
-      "name": 89,
-      "tag": "Thomas Cochrane",
-      "pts": 1,
-      "villages": 8053
+      "rank": 20467,
+      "name": 658,
+      "tag": "Bolado$",
+      "pts": 2,
+      "villages": 20467
     },
     {
       "rank": 3762,
@@ -562,18 +576,18 @@
       "villages": 6536
     },
     {
-      "rank": 20467,
-      "name": 658,
-      "tag": "Bolado$",
-      "pts": 2,
-      "villages": 20467
+      "rank": 1553,
+      "name": 1994,
+      "tag": "DRAKO",
+      "pts": 1,
+      "villages": 1553
     },
     {
-      "rank": 5204,
-      "name": 1881,
-      "tag": "VEMCOMIGO",
+      "rank": 2469,
+      "name": 2030,
+      "tag": "MOITAS",
       "pts": 1,
-      "villages": 5204
+      "villages": 2469
     },
     {
       "rank": 26,
@@ -590,18 +604,11 @@
       "villages": 9106
     },
     {
-      "rank": 1553,
-      "name": 1994,
-      "tag": "DRAKO",
+      "rank": 1483,
+      "name": 2111,
+      "tag": "Muralha",
       "pts": 1,
-      "villages": 1553
-    },
-    {
-      "rank": 2469,
-      "name": 2030,
-      "tag": "MOITAS",
-      "pts": 1,
-      "villages": 2469
+      "villages": 1483
     },
     {
       "rank": 1249,
@@ -616,13 +623,6 @@
       "tag": "Fakes spy",
       "pts": 1,
       "villages": 1126
-    },
-    {
-      "rank": 1483,
-      "name": 2111,
-      "tag": "Muralha",
-      "pts": 1,
-      "villages": 1483
     }
   ]
 }

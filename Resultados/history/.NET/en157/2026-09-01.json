@@ -7,7 +7,7 @@
       "villages": 132
     },
     {
-      "rank": 4914,
+      "rank": 4967,
       "name": 11433890,
       "pts": 1,
       "villages": 112
@@ -25,16 +25,16 @@
       "villages": 132
     },
     {
+      "rank": 3999,
+      "name": 11514559,
+      "pts": 1,
+      "villages": 67
+    },
+    {
       "rank": 3959,
       "name": 849100017,
       "pts": 1,
       "villages": 112
-    },
-    {
-      "rank": 3933,
-      "name": 11514559,
-      "pts": 1,
-      "villages": 67
     },
     {
       "rank": 3877,
@@ -43,13 +43,13 @@
       "villages": 64
     },
     {
-      "rank": 3770,
+      "rank": 3779,
       "name": 849357558,
       "pts": 1,
       "villages": 0
     },
     {
-      "rank": 3728,
+      "rank": 3740,
       "name": 2356576,
       "pts": 1,
       "villages": 135
@@ -61,25 +61,25 @@
       "villages": 82
     },
     {
+      "rank": 3500,
+      "name": 11330785,
+      "pts": 1,
+      "villages": 208
+    },
+    {
       "rank": 3456,
       "name": 10820533,
       "pts": 1,
       "villages": 135
     },
     {
-      "rank": 3376,
-      "name": 11330785,
-      "pts": 1,
-      "villages": 208
-    },
-    {
-      "rank": 3149,
+      "rank": 3152,
       "name": 849400275,
       "pts": 4,
       "villages": 47
     },
     {
-      "rank": 3068,
+      "rank": 3086,
       "name": 849393908,
       "pts": 1,
       "villages": 193
@@ -103,7 +103,7 @@
       "villages": 0
     },
     {
-      "rank": 2852,
+      "rank": 2862,
       "name": 849112260,
       "pts": 1,
       "villages": 169
@@ -115,13 +115,13 @@
       "villages": 169
     },
     {
-      "rank": 2694,
+      "rank": 2715,
       "name": 11268401,
       "pts": 1,
       "villages": 132
     },
     {
-      "rank": 2567,
+      "rank": 2576,
       "name": 8516786,
       "pts": 1,
       "villages": 101
@@ -139,7 +139,7 @@
       "villages": 208
     },
     {
-      "rank": 2375,
+      "rank": 2404,
       "name": 849399395,
       "pts": 1,
       "villages": 210
@@ -169,7 +169,7 @@
       "villages": 208
     },
     {
-      "rank": 2138,
+      "rank": 2142,
       "name": 11302361,
       "pts": 1,
       "villages": 208
@@ -205,22 +205,16 @@
       "villages": 101
     },
     {
-      "rank": 1911,
-      "name": 10177562,
-      "pts": 1,
-      "villages": 67
-    },
-    {
-      "rank": 1909,
+      "rank": 1947,
       "name": 11419280,
       "pts": 1,
       "villages": 97
     },
     {
-      "rank": 1908,
-      "name": 849366311,
+      "rank": 1911,
+      "name": 10177562,
       "pts": 1,
-      "villages": 0
+      "villages": 67
     },
     {
       "rank": 1908,
@@ -229,10 +223,22 @@
       "villages": 112
     },
     {
+      "rank": 1908,
+      "name": 849366311,
+      "pts": 1,
+      "villages": 0
+    },
+    {
       "rank": 1896,
       "name": 11003547,
       "pts": 1,
       "villages": 135
+    },
+    {
+      "rank": 1886,
+      "name": 849234751,
+      "pts": 1,
+      "villages": 210
     },
     {
       "rank": 1867,
@@ -241,13 +247,7 @@
       "villages": 240
     },
     {
-      "rank": 1848,
-      "name": 849234751,
-      "pts": 1,
-      "villages": 210
-    },
-    {
-      "rank": 1844,
+      "rank": 1866,
       "name": 9270385,
       "pts": 1,
       "villages": 208
@@ -257,6 +257,12 @@
       "name": 11379158,
       "pts": 1,
       "villages": 109
+    },
+    {
+      "rank": 1837,
+      "name": 8917047,
+      "pts": 1,
+      "villages": 89
     },
     {
       "rank": 1827,
@@ -271,16 +277,10 @@
       "villages": 132
     },
     {
-      "rank": 1811,
+      "rank": 1818,
       "name": 849248662,
       "pts": 1,
       "villages": 71
-    },
-    {
-      "rank": 1795,
-      "name": 849396602,
-      "pts": 1,
-      "villages": 0
     },
     {
       "rank": 1795,
@@ -289,16 +289,16 @@
       "villages": 67
     },
     {
+      "rank": 1795,
+      "name": 849396602,
+      "pts": 1,
+      "villages": 0
+    },
+    {
       "rank": 1794,
       "name": 11116040,
       "pts": 1,
       "villages": 67
-    },
-    {
-      "rank": 1766,
-      "name": 8917047,
-      "pts": 1,
-      "villages": 89
     }
   ],
   "tribes": [
@@ -310,81 +310,11 @@
       "villages": 13847
     },
     {
-      "rank": 10850,
-      "name": 11,
-      "tag": "Kick Axe",
-      "pts": 18,
-      "villages": 10850
-    },
-    {
-      "rank": 8090,
-      "name": 15,
-      "tag": "+KNIGHTS-OF-CAMELOT+",
-      "pts": 18,
-      "villages": 8090
-    },
-    {
-      "rank": 10874,
-      "name": 12,
-      "tag": "Former100",
-      "pts": 18,
-      "villages": 10874
-    },
-    {
-      "rank": 9045,
-      "name": 108,
-      "tag": "INDONESIA PRIDE",
-      "pts": 18,
-      "villages": 9045
-    },
-    {
-      "rank": 11899,
-      "name": 90,
-      "tag": "Dragons Of Avalonia",
-      "pts": 18,
-      "villages": 11899
-    },
-    {
-      "rank": 13684,
-      "name": 88,
-      "tag": "_TH_",
-      "pts": 18,
-      "villages": 13684
-    },
-    {
-      "rank": 8185,
-      "name": 34,
-      "tag": "Sith Empire",
-      "pts": 18,
-      "villages": 8185
-    },
-    {
       "rank": 11174,
       "name": 72,
       "tag": "Mejeristerna",
       "pts": 18,
       "villages": 11174
-    },
-    {
-      "rank": 17779,
-      "name": 71,
-      "tag": "Elder Scroll V",
-      "pts": 18,
-      "villages": 17779
-    },
-    {
-      "rank": 17342,
-      "name": 84,
-      "tag": "ODD ANGRY SHOT",
-      "pts": 18,
-      "villages": 17342
-    },
-    {
-      "rank": 30542,
-      "name": 67,
-      "tag": "noBodY",
-      "pts": 18,
-      "villages": 30542
     },
     {
       "rank": 7466,
@@ -394,123 +324,18 @@
       "villages": 7466
     },
     {
-      "rank": 21261,
-      "name": 64,
-      "tag": "Amateur Hour",
-      "pts": 18,
-      "villages": 21261
-    },
-    {
-      "rank": 23387,
-      "name": 135,
-      "tag": "Internal Server Error",
-      "pts": 18,
-      "villages": 23387
-    },
-    {
-      "rank": 14631,
-      "name": 82,
-      "tag": "CALL OF THE WILD",
-      "pts": 18,
-      "villages": 14631
-    },
-    {
-      "rank": 15709,
-      "name": 99,
-      "tag": "SPQR",
-      "pts": 18,
-      "villages": 15709
-    },
-    {
-      "rank": 11020,
-      "name": 96,
-      "tag": "NERDS",
-      "pts": 18,
-      "villages": 11020
-    },
-    {
-      "rank": 16957,
-      "name": 107,
-      "tag": "The Dragon Confederacy",
-      "pts": 18,
-      "villages": 16957
-    },
-    {
-      "rank": 21249,
-      "name": 101,
-      "tag": "YUGO F1",
-      "pts": 18,
-      "villages": 21249
-    },
-    {
-      "rank": 11007,
-      "name": 46,
-      "tag": "Phoenix",
-      "pts": 18,
-      "villages": 11007
-    },
-    {
-      "rank": 10792,
-      "name": 113,
-      "tag": "Partidul Comunist Roman",
-      "pts": 18,
-      "villages": 10792
-    },
-    {
-      "rank": 27233,
-      "name": 208,
-      "tag": "Best of Both Worlds",
-      "pts": 18,
-      "villages": 27233
-    },
-    {
-      "rank": 12197,
-      "name": 205,
-      "tag": "Ancient Greek Empire 2",
-      "pts": 18,
-      "villages": 12197
-    },
-    {
-      "rank": 18592,
-      "name": 210,
-      "tag": "The Shadow Council",
-      "pts": 18,
-      "villages": 18592
-    },
-    {
-      "rank": 12664,
-      "name": 164,
-      "tag": "MAYHEM",
-      "pts": 18,
-      "villages": 12664
-    },
-    {
-      "rank": 12605,
-      "name": 167,
-      "tag": "ODD ANGRY SH0T",
-      "pts": 18,
-      "villages": 12605
-    },
-    {
-      "rank": 12067,
-      "name": 176,
-      "tag": "The Dragon Confederacy 2.0",
-      "pts": 18,
-      "villages": 12067
-    },
-    {
-      "rank": 8379,
-      "name": 177,
-      "tag": "Canada",
-      "pts": 18,
-      "villages": 8379
-    },
-    {
       "rank": 12385,
       "name": 163,
       "tag": "Pillagers",
       "pts": 18,
       "villages": 12385
+    },
+    {
+      "rank": 8185,
+      "name": 34,
+      "tag": "Sith Empire",
+      "pts": 18,
+      "villages": 8185
     },
     {
       "rank": 11500,
@@ -527,25 +352,18 @@
       "villages": 13388
     },
     {
-      "rank": 12397,
-      "name": 229,
-      "tag": "Mayhem II",
+      "rank": 14631,
+      "name": 82,
+      "tag": "CALL OF THE WILD",
       "pts": 18,
-      "villages": 12397
+      "villages": 14631
     },
     {
-      "rank": 11157,
-      "name": 204,
-      "tag": "TERMUL",
+      "rank": 23387,
+      "name": 135,
+      "tag": "Internal Server Error",
       "pts": 18,
-      "villages": 11157
-    },
-    {
-      "rank": 15468,
-      "name": 247,
-      "tag": "Original Gangstas",
-      "pts": 18,
-      "villages": 15468
+      "villages": 23387
     },
     {
       "rank": 12042,
@@ -555,32 +373,186 @@
       "villages": 12042
     },
     {
-      "rank": 7419,
-      "name": 149,
-      "tag": "The startup",
-      "pts": 17,
-      "villages": 7419
-    },
-    {
-      "rank": 19316,
-      "name": 169,
-      "tag": "Calculated Chaos",
-      "pts": 17,
-      "villages": 19316
-    },
-    {
-      "rank": 12716,
-      "name": 8,
-      "tag": "Seriously Casual",
+      "rank": 21249,
+      "name": 101,
+      "tag": "YUGO F1",
       "pts": 18,
-      "villages": 12716
+      "villages": 21249
     },
     {
-      "rank": 6560,
-      "name": 6,
-      "tag": "NUCLEAR MUSHROOMS",
-      "pts": 17,
-      "villages": 6560
+      "rank": 10792,
+      "name": 113,
+      "tag": "Partidul Comunist Roman",
+      "pts": 18,
+      "villages": 10792
+    },
+    {
+      "rank": 11020,
+      "name": 96,
+      "tag": "NERDS",
+      "pts": 18,
+      "villages": 11020
+    },
+    {
+      "rank": 11007,
+      "name": 46,
+      "tag": "Phoenix",
+      "pts": 18,
+      "villages": 11007
+    },
+    {
+      "rank": 9045,
+      "name": 108,
+      "tag": "INDONESIA PRIDE",
+      "pts": 18,
+      "villages": 9045
+    },
+    {
+      "rank": 12397,
+      "name": 229,
+      "tag": "Mayhem II",
+      "pts": 18,
+      "villages": 12397
+    },
+    {
+      "rank": 16957,
+      "name": 107,
+      "tag": "The Dragon Confederacy",
+      "pts": 18,
+      "villages": 16957
+    },
+    {
+      "rank": 12664,
+      "name": 164,
+      "tag": "MAYHEM",
+      "pts": 18,
+      "villages": 12664
+    },
+    {
+      "rank": 12605,
+      "name": 167,
+      "tag": "ODD ANGRY SH0T",
+      "pts": 18,
+      "villages": 12605
+    },
+    {
+      "rank": 21261,
+      "name": 64,
+      "tag": "Amateur Hour",
+      "pts": 18,
+      "villages": 21261
+    },
+    {
+      "rank": 11157,
+      "name": 204,
+      "tag": "TERMUL",
+      "pts": 18,
+      "villages": 11157
+    },
+    {
+      "rank": 17779,
+      "name": 71,
+      "tag": "Elder Scroll V",
+      "pts": 18,
+      "villages": 17779
+    },
+    {
+      "rank": 18592,
+      "name": 210,
+      "tag": "The Shadow Council",
+      "pts": 18,
+      "villages": 18592
+    },
+    {
+      "rank": 17342,
+      "name": 84,
+      "tag": "ODD ANGRY SHOT",
+      "pts": 18,
+      "villages": 17342
+    },
+    {
+      "rank": 27233,
+      "name": 208,
+      "tag": "Best of Both Worlds",
+      "pts": 18,
+      "villages": 27233
+    },
+    {
+      "rank": 12197,
+      "name": 205,
+      "tag": "Ancient Greek Empire 2",
+      "pts": 18,
+      "villages": 12197
+    },
+    {
+      "rank": 10850,
+      "name": 11,
+      "tag": "Kick Axe",
+      "pts": 18,
+      "villages": 10850
+    },
+    {
+      "rank": 10874,
+      "name": 12,
+      "tag": "Former100",
+      "pts": 18,
+      "villages": 10874
+    },
+    {
+      "rank": 8090,
+      "name": 15,
+      "tag": "+KNIGHTS-OF-CAMELOT+",
+      "pts": 18,
+      "villages": 8090
+    },
+    {
+      "rank": 11899,
+      "name": 90,
+      "tag": "Dragons Of Avalonia",
+      "pts": 18,
+      "villages": 11899
+    },
+    {
+      "rank": 15468,
+      "name": 247,
+      "tag": "Original Gangstas",
+      "pts": 18,
+      "villages": 15468
+    },
+    {
+      "rank": 30542,
+      "name": 67,
+      "tag": "noBodY",
+      "pts": 18,
+      "villages": 30542
+    },
+    {
+      "rank": 8379,
+      "name": 177,
+      "tag": "Canada",
+      "pts": 18,
+      "villages": 8379
+    },
+    {
+      "rank": 12067,
+      "name": 176,
+      "tag": "The Dragon Confederacy 2.0",
+      "pts": 18,
+      "villages": 12067
+    },
+    {
+      "rank": 13684,
+      "name": 88,
+      "tag": "_TH_",
+      "pts": 18,
+      "villages": 13684
+    },
+    {
+      "rank": 15709,
+      "name": 99,
+      "tag": "SPQR",
+      "pts": 18,
+      "villages": 15709
     },
     {
       "rank": 16386,
@@ -597,11 +569,11 @@
       "villages": 9846
     },
     {
-      "rank": 8856,
-      "name": 27,
-      "tag": "Midgards Vikings",
+      "rank": 7419,
+      "name": 149,
+      "tag": "The startup",
       "pts": 17,
-      "villages": 8856
+      "villages": 7419
     },
     {
       "rank": 28353,
@@ -611,6 +583,62 @@
       "villages": 28353
     },
     {
+      "rank": 19316,
+      "name": 169,
+      "tag": "Calculated Chaos",
+      "pts": 17,
+      "villages": 19316
+    },
+    {
+      "rank": 8856,
+      "name": 27,
+      "tag": "Midgards Vikings",
+      "pts": 17,
+      "villages": 8856
+    },
+    {
+      "rank": 12716,
+      "name": 8,
+      "tag": "Seriously Casual",
+      "pts": 18,
+      "villages": 12716
+    },
+    {
+      "rank": 6560,
+      "name": 6,
+      "tag": "NUCLEAR MUSHROOMS",
+      "pts": 17,
+      "villages": 6560
+    },
+    {
+      "rank": 11416,
+      "name": 103,
+      "tag": "The Order of the Lion",
+      "pts": 16,
+      "villages": 11416
+    },
+    {
+      "rank": 17743,
+      "name": 97,
+      "tag": "THRASHED",
+      "pts": 16,
+      "villages": 17743
+    },
+    {
+      "rank": 10415,
+      "name": 215,
+      "tag": "Old Hunters",
+      "pts": 16,
+      "villages": 10415
+    },
+    {
+      "rank": 13227,
+      "name": 154,
+      "tag": "EURO",
+      "pts": 16,
+      "villages": 13227
+    },
+    {
       "rank": 19209,
       "name": 240,
       "tag": "What The Duck",
@@ -618,39 +646,11 @@
       "villages": 19209
     },
     {
-      "rank": 7175,
-      "name": 246,
-      "tag": "kek bye",
+      "rank": 13313,
+      "name": 241,
+      "tag": "EUROS",
       "pts": 16,
-      "villages": 7175
-    },
-    {
-      "rank": 12977,
-      "name": 161,
-      "tag": "everyBodY",
-      "pts": 16,
-      "villages": 12977
-    },
-    {
-      "rank": 8189,
-      "name": 213,
-      "tag": "Warriors of Wrath 2",
-      "pts": 16,
-      "villages": 8189
-    },
-    {
-      "rank": 10951,
-      "name": 65,
-      "tag": "MoMoney",
-      "pts": 16,
-      "villages": 10951
-    },
-    {
-      "rank": 14977,
-      "name": 48,
-      "tag": "EUROPA",
-      "pts": 16,
-      "villages": 14977
+      "villages": 13313
     }
   ]
 }

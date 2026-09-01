@@ -1,9 +1,9 @@
 {
   "players": [
     {
-      "rank": 25903761,
+      "rank": 25913377,
       "name": 2208845,
-      "pts": 2618,
+      "pts": 2619,
       "villages": 102
     },
     {
@@ -19,25 +19,25 @@
       "villages": 0
     },
     {
-      "rank": 22602430,
+      "rank": 22602773,
       "name": 2281360,
       "pts": 2284,
       "villages": 335
     },
     {
-      "rank": 19837346,
+      "rank": 19861042,
       "name": 849001621,
-      "pts": 1671,
+      "pts": 1673,
       "villages": 102
     },
     {
-      "rank": 16648921,
+      "rank": 16649373,
       "name": 848938844,
       "pts": 1701,
       "villages": 335
     },
     {
-      "rank": 16626859,
+      "rank": 16628249,
       "name": 849039972,
       "pts": 1600,
       "villages": 102
@@ -49,15 +49,15 @@
       "villages": 102
     },
     {
-      "rank": 16156360,
+      "rank": 16158636,
       "name": 849036320,
       "pts": 1421,
       "villages": 320
     },
     {
-      "rank": 15947414,
+      "rank": 15984138,
       "name": 848986386,
-      "pts": 1341,
+      "pts": 1343,
       "villages": 102
     },
     {
@@ -67,19 +67,19 @@
       "villages": 320
     },
     {
-      "rank": 15236256,
+      "rank": 15235742,
       "name": 849038484,
       "pts": 1562,
       "villages": 102
     },
     {
-      "rank": 15212142,
+      "rank": 15176526,
       "name": 849041113,
-      "pts": 1309,
+      "pts": 1306,
       "villages": 280
     },
     {
-      "rank": 15112076,
+      "rank": 15111943,
       "name": 848893214,
       "pts": 1503,
       "villages": 102
@@ -91,13 +91,13 @@
       "villages": 102
     },
     {
-      "rank": 14240419,
+      "rank": 14322254,
       "name": 2747183,
-      "pts": 1533,
+      "pts": 1541,
       "villages": 0
     },
     {
-      "rank": 14020547,
+      "rank": 14021653,
       "name": 849036715,
       "pts": 1187,
       "villages": 102
@@ -109,15 +109,15 @@
       "villages": 0
     },
     {
-      "rank": 13232192,
+      "rank": 13233868,
       "name": 360559,
       "pts": 1304,
       "villages": 102
     },
     {
-      "rank": 12804838,
+      "rank": 12815168,
       "name": 2147212,
-      "pts": 1200,
+      "pts": 1201,
       "villages": 102
     },
     {
@@ -133,7 +133,7 @@
       "villages": 0
     },
     {
-      "rank": 11852559,
+      "rank": 11852724,
       "name": 3166293,
       "pts": 1169,
       "villages": 0
@@ -175,7 +175,7 @@
       "villages": 84
     },
     {
-      "rank": 10669492,
+      "rank": 10669751,
       "name": 848974238,
       "pts": 1043,
       "villages": 84
@@ -199,7 +199,7 @@
       "villages": 320
     },
     {
-      "rank": 9660739,
+      "rank": 9661690,
       "name": 849041760,
       "pts": 1038,
       "villages": 336
@@ -217,15 +217,15 @@
       "villages": 0
     },
     {
-      "rank": 8860797,
+      "rank": 8872454,
       "name": 849051797,
-      "pts": 854,
+      "pts": 855,
       "villages": 102
     },
     {
-      "rank": 8723779,
+      "rank": 8704514,
       "name": 1757780,
-      "pts": 927,
+      "pts": 925,
       "villages": 44
     },
     {
@@ -247,7 +247,7 @@
       "villages": 84
     },
     {
-      "rank": 7091936,
+      "rank": 7092165,
       "name": 849033506,
       "pts": 724,
       "villages": 84
@@ -271,13 +271,13 @@
       "villages": 84
     },
     {
-      "rank": 5439398,
+      "rank": 5449587,
       "name": 848962914,
-      "pts": 545,
+      "pts": 546,
       "villages": 102
     },
     {
-      "rank": 5290120,
+      "rank": 5288460,
       "name": 2953518,
       "pts": 522,
       "villages": 44
@@ -295,61 +295,61 @@
       "villages": 0
     },
     {
-      "rank": 4928315,
+      "rank": 4907772,
       "name": 3005066,
-      "pts": 491,
+      "pts": 489,
       "villages": 280
     }
   ],
   "tribes": [
     {
-      "rank": 228012740,
+      "rank": 228221211,
       "name": 102,
       "tag": "Os Visionários",
       "pts": 15,
-      "villages": 228012740
+      "villages": 228221211
     },
     {
-      "rank": 80718625,
+      "rank": 80720928,
       "name": 320,
       "tag": "Outra visionarios?",
       "pts": 8,
-      "villages": 80718625
+      "villages": 80720928
     },
     {
-      "rank": 68936170,
+      "rank": 68937239,
       "name": 84,
       "tag": "Visionarios",
       "pts": 9,
-      "villages": 68936170
+      "villages": 68937239
     },
     {
-      "rank": 39250751,
+      "rank": 39252321,
       "name": 335,
       "tag": "Welcome to The Jungle!",
       "pts": 2,
-      "villages": 39250751
+      "villages": 39252321
     },
     {
-      "rank": 38356918,
+      "rank": 38209523,
       "name": 280,
       "tag": "QualNome?",
       "pts": 5,
-      "villages": 38356918
+      "villages": 38209523
     },
     {
-      "rank": 22065627,
+      "rank": 22067331,
       "name": 336,
       "tag": "Sozinho",
       "pts": 2,
-      "villages": 22065627
+      "villages": 22067331
     },
     {
-      "rank": 22122444,
+      "rank": 22082783,
       "name": 44,
       "tag": "Nome Não Encontrado",
       "pts": 4,
-      "villages": 22122444
+      "villages": 22082783
     },
     {
       "rank": 11734801,
@@ -359,11 +359,11 @@
       "villages": 11734801
     },
     {
-      "rank": 89136,
+      "rank": 90269,
       "name": 333,
       "tag": "INDEPENDANCE DAY",
       "pts": 1,
-      "villages": 89136
+      "villages": 90269
     },
     {
       "rank": 191948,
@@ -373,11 +373,11 @@
       "villages": 191948
     },
     {
-      "rank": 3480,
+      "rank": 3487,
       "name": 327,
       "tag": "grogue",
       "pts": 6,
-      "villages": 3480
+      "villages": 3487
     },
     {
       "rank": 49845,
@@ -394,13 +394,6 @@
       "villages": 44
     },
     {
-      "rank": 6370,
-      "name": 339,
-      "tag": "Não Tavas Capaz Não Vinhas",
-      "pts": 1,
-      "villages": 6370
-    },
-    {
       "rank": 319,
       "name": 321,
       "tag": "MATATUDO",
@@ -408,32 +401,32 @@
       "villages": 319
     },
     {
-      "rank": 0,
-      "name": 195,
-      "tag": "pumbamos",
+      "rank": 6370,
+      "name": 339,
+      "tag": "Não Tavas Capaz Não Vinhas",
       "pts": 1,
-      "villages": 0
+      "villages": 6370
+    },
+    {
+      "rank": 380,
+      "name": 330,
+      "tag": "GOGO",
+      "pts": 1,
+      "villages": 380
+    },
+    {
+      "rank": 5011,
+      "name": 322,
+      "tag": "Parabéns V",
+      "pts": 1,
+      "villages": 5011
     },
     {
       "rank": 0,
-      "name": 164,
-      "tag": "Optimus",
+      "name": 312,
+      "tag": "GATO",
       "pts": 1,
       "villages": 0
-    },
-    {
-      "rank": 553,
-      "name": 91,
-      "tag": "Nova Ordem Mundial",
-      "pts": 1,
-      "villages": 553
-    },
-    {
-      "rank": 21,
-      "name": 93,
-      "tag": "Manekta-MOs",
-      "pts": 1,
-      "villages": 21
     },
     {
       "rank": 33,
@@ -443,18 +436,11 @@
       "villages": 33
     },
     {
-      "rank": 280,
-      "name": 42,
-      "tag": "Guerreiros",
-      "pts": 2,
-      "villages": 280
-    },
-    {
-      "rank": 372,
-      "name": 71,
-      "tag": "MIDGARD",
+      "rank": 520,
+      "name": 305,
+      "tag": "ryzen",
       "pts": 1,
-      "villages": 372
+      "villages": 520
     },
     {
       "rank": 1088,
@@ -462,27 +448,6 @@
       "tag": "Tribu",
       "pts": 1,
       "villages": 1088
-    },
-    {
-      "rank": 116,
-      "name": 166,
-      "tag": "Tribo 1",
-      "pts": 1,
-      "villages": 116
-    },
-    {
-      "rank": 4965,
-      "name": 322,
-      "tag": "Parabéns V",
-      "pts": 1,
-      "villages": 4965
-    },
-    {
-      "rank": 520,
-      "name": 305,
-      "tag": "ryzen",
-      "pts": 1,
-      "villages": 520
     },
     {
       "rank": 0,
@@ -493,10 +458,52 @@
     },
     {
       "rank": 0,
-      "name": 312,
-      "tag": "GATO",
+      "name": 195,
+      "tag": "pumbamos",
       "pts": 1,
       "villages": 0
+    },
+    {
+      "rank": 116,
+      "name": 166,
+      "tag": "Tribo 1",
+      "pts": 1,
+      "villages": 116
+    },
+    {
+      "rank": 0,
+      "name": 164,
+      "tag": "Optimus",
+      "pts": 1,
+      "villages": 0
+    },
+    {
+      "rank": 21,
+      "name": 93,
+      "tag": "Manekta-MOs",
+      "pts": 1,
+      "villages": 21
+    },
+    {
+      "rank": 573,
+      "name": 91,
+      "tag": "Nova Ordem Mundial",
+      "pts": 1,
+      "villages": 573
+    },
+    {
+      "rank": 372,
+      "name": 71,
+      "tag": "MIDGARD",
+      "pts": 1,
+      "villages": 372
+    },
+    {
+      "rank": 280,
+      "name": 42,
+      "tag": "Guerreiros",
+      "pts": 2,
+      "villages": 280
     },
     {
       "rank": 0,
@@ -504,13 +511,6 @@
       "tag": "||Visionarios||",
       "pts": 1,
       "villages": 0
-    },
-    {
-      "rank": 380,
-      "name": 330,
-      "tag": "GOGO",
-      "pts": 1,
-      "villages": 380
     }
   ]
 }

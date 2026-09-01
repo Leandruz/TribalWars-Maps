@@ -1,5 +1,5 @@
 {
-  "last_update": "01/09/2026 17:23:23",
+  "last_update": "01/09/2026 18:00:34",
   "servers": {
     ".BR": {
       "brs1": {
@@ -169,8 +169,41 @@
       },
       "br144": {
         "name": "BR144",
-        "players": [],
+        "players": [
+          {
+            "title": "Dominância K",
+            "path": "Resultados/.BR/br144/Players/mapa_top15_dominancia_jogadores_K_br144.png"
+          },
+          {
+            "title": "Ranking Pontos",
+            "path": "Resultados/.BR/br144/Players/mapa_top15_jogadores_br144.png"
+          },
+          {
+            "title": "Ranking ODD",
+            "path": "Resultados/.BR/br144/Players/mapa_top15_odd_jogadores_br144.png"
+          },
+          {
+            "title": "Média de Noblagens",
+            "path": "Resultados/.BR/br144/Players/mapa_top15_xgoal_jogadores_br144.png"
+          }
+        ],
         "tribes": [
+          {
+            "title": "Conquistas (24h)",
+            "path": "Resultados/.BR/br144/Tribes/mapa_top15_conquistas_br144.png"
+          },
+          {
+            "title": "Dominância K",
+            "path": "Resultados/.BR/br144/Tribes/mapa_top15_dominancia_K_br144.png"
+          },
+          {
+            "title": "Ranking ODA",
+            "path": "Resultados/.BR/br144/Tribes/mapa_top15_oda_tribos_br144.png"
+          },
+          {
+            "title": "Ranking ODD",
+            "path": "Resultados/.BR/br144/Tribes/mapa_top15_odd_tribos_br144.png"
+          },
           {
             "title": "Ranking Pontos",
             "path": "Resultados/.BR/br144/Tribes/mapa_top15_tribos_br144.png"
@@ -602,6 +635,18 @@
           {
             "title": "Dominância K",
             "path": "Resultados/.BR/br136/Tribes/mapa_top15_dominancia_K_br136.png"
+          },
+          {
+            "title": "Ranking ODA",
+            "path": "Resultados/.BR/br136/Tribes/mapa_top15_oda_tribos_br136.png"
+          },
+          {
+            "title": "Ranking ODD",
+            "path": "Resultados/.BR/br136/Tribes/mapa_top15_odd_tribos_br136.png"
+          },
+          {
+            "title": "Ranking Pontos",
+            "path": "Resultados/.BR/br136/Tribes/mapa_top15_tribos_br136.png"
           }
         ]
       },
@@ -1684,6 +1729,18 @@
           {
             "title": "Dominância K",
             "path": "Resultados/.DS/de247/Tribes/mapa_top15_dominancia_K_de247.png"
+          },
+          {
+            "title": "Ranking ODA",
+            "path": "Resultados/.DS/de247/Tribes/mapa_top15_oda_tribos_de247.png"
+          },
+          {
+            "title": "Ranking ODD",
+            "path": "Resultados/.DS/de247/Tribes/mapa_top15_odd_tribos_de247.png"
+          },
+          {
+            "title": "Ranking Pontos",
+            "path": "Resultados/.DS/de247/Tribes/mapa_top15_tribos_de247.png"
           }
         ]
       },
@@ -1782,6 +1839,18 @@
           {
             "title": "Dominância K",
             "path": "Resultados/.DS/de245/Tribes/mapa_top15_dominancia_K_de245.png"
+          },
+          {
+            "title": "Ranking ODA",
+            "path": "Resultados/.DS/de245/Tribes/mapa_top15_oda_tribos_de245.png"
+          },
+          {
+            "title": "Ranking ODD",
+            "path": "Resultados/.DS/de245/Tribes/mapa_top15_odd_tribos_de245.png"
+          },
+          {
+            "title": "Ranking Pontos",
+            "path": "Resultados/.DS/de245/Tribes/mapa_top15_tribos_de245.png"
           }
         ]
       },
@@ -1880,6 +1949,18 @@
           {
             "title": "Dominância K",
             "path": "Resultados/.DS/de243/Tribes/mapa_top15_dominancia_K_de243.png"
+          },
+          {
+            "title": "Ranking ODA",
+            "path": "Resultados/.DS/de243/Tribes/mapa_top15_oda_tribos_de243.png"
+          },
+          {
+            "title": "Ranking ODD",
+            "path": "Resultados/.DS/de243/Tribes/mapa_top15_odd_tribos_de243.png"
+          },
+          {
+            "title": "Ranking Pontos",
+            "path": "Resultados/.DS/de243/Tribes/mapa_top15_tribos_de243.png"
           }
         ]
       }
@@ -2750,6 +2831,18 @@
           {
             "title": "Dominância K",
             "path": "Resultados/.NET/en149/Tribes/mapa_top15_dominancia_K_en149.png"
+          },
+          {
+            "title": "Ranking ODA",
+            "path": "Resultados/.NET/en149/Tribes/mapa_top15_oda_tribos_en149.png"
+          },
+          {
+            "title": "Ranking ODD",
+            "path": "Resultados/.NET/en149/Tribes/mapa_top15_odd_tribos_en149.png"
+          },
+          {
+            "title": "Ranking Pontos",
+            "path": "Resultados/.NET/en149/Tribes/mapa_top15_tribos_en149.png"
           }
         ]
       },
@@ -2793,6 +2886,18 @@
           {
             "title": "Dominância K",
             "path": "Resultados/.NET/en148/Tribes/mapa_top15_dominancia_K_en148.png"
+          },
+          {
+            "title": "Ranking ODA",
+            "path": "Resultados/.NET/en148/Tribes/mapa_top15_oda_tribos_en148.png"
+          },
+          {
+            "title": "Ranking ODD",
+            "path": "Resultados/.NET/en148/Tribes/mapa_top15_odd_tribos_en148.png"
+          },
+          {
+            "title": "Ranking Pontos",
+            "path": "Resultados/.NET/en148/Tribes/mapa_top15_tribos_en148.png"
           }
         ]
       }
@@ -3553,6 +3658,18 @@
           {
             "title": "Dominância K",
             "path": "Resultados/.PT/pt109/Tribes/mapa_top15_dominancia_K_pt109.png"
+          },
+          {
+            "title": "Ranking ODA",
+            "path": "Resultados/.PT/pt109/Tribes/mapa_top15_oda_tribos_pt109.png"
+          },
+          {
+            "title": "Ranking ODD",
+            "path": "Resultados/.PT/pt109/Tribes/mapa_top15_odd_tribos_pt109.png"
+          },
+          {
+            "title": "Ranking Pontos",
+            "path": "Resultados/.PT/pt109/Tribes/mapa_top15_tribos_pt109.png"
           }
         ]
       }

@@ -373,13 +373,6 @@
       "villages": 61281
     },
     {
-      "rank": 18283,
-      "name": 2,
-      "tag": "Kickin Axes",
-      "pts": 2,
-      "villages": 18283
-    },
-    {
       "rank": 54546,
       "name": 135,
       "tag": "Farming Wang Panda",
@@ -387,11 +380,11 @@
       "villages": 54546
     },
     {
-      "rank": 29499,
-      "name": 65,
-      "tag": "Viking",
-      "pts": 1,
-      "villages": 29499
+      "rank": 18283,
+      "name": 2,
+      "tag": "Kickin Axes",
+      "pts": 2,
+      "villages": 18283
     },
     {
       "rank": 6054,
@@ -401,11 +394,11 @@
       "villages": 6054
     },
     {
-      "rank": 2214,
-      "name": 177,
-      "tag": "Legacy Fighting Aliance",
+      "rank": 29499,
+      "name": 65,
+      "tag": "Viking",
       "pts": 1,
-      "villages": 2214
+      "villages": 29499
     },
     {
       "rank": 2255,
@@ -413,6 +406,13 @@
       "tag": "Pazzi Fottuti",
       "pts": 1,
       "villages": 2255
+    },
+    {
+      "rank": 2214,
+      "name": 177,
+      "tag": "Legacy Fighting Aliance",
+      "pts": 1,
+      "villages": 2214
     },
     {
       "rank": 4090,
@@ -429,11 +429,11 @@
       "villages": 178
     },
     {
-      "rank": 543,
-      "name": 8,
-      "tag": "The Sacred Leaf",
+      "rank": 654,
+      "name": 114,
+      "tag": "LOLICA",
       "pts": 1,
-      "villages": 543
+      "villages": 654
     },
     {
       "rank": 65,
@@ -443,11 +443,11 @@
       "villages": 65
     },
     {
-      "rank": 654,
-      "name": 114,
-      "tag": "LOLICA",
+      "rank": 543,
+      "name": 8,
+      "tag": "The Sacred Leaf",
       "pts": 1,
-      "villages": 654
+      "villages": 543
     }
   ]
 }

@@ -457,11 +457,11 @@
       "villages": 37785
     },
     {
-      "rank": 58824,
-      "name": 371,
-      "tag": "Westeros",
-      "pts": 2,
-      "villages": 58824
+      "rank": 65561,
+      "name": 494,
+      "tag": "General e soldado",
+      "pts": 1,
+      "villages": 65561
     },
     {
       "rank": 47790,
@@ -478,11 +478,11 @@
       "villages": 78692
     },
     {
-      "rank": 65561,
-      "name": 494,
-      "tag": "General e soldado",
-      "pts": 1,
-      "villages": 65561
+      "rank": 58824,
+      "name": 371,
+      "tag": "Westeros",
+      "pts": 2,
+      "villages": 58824
     },
     {
       "rank": 67924,
@@ -527,13 +527,6 @@
       "villages": 12092
     },
     {
-      "rank": 21567,
-      "name": 533,
-      "tag": "Unimatrix",
-      "pts": 3,
-      "villages": 21567
-    },
-    {
       "rank": 37050,
       "name": 74,
       "tag": "Os Lusitanos",
@@ -541,18 +534,18 @@
       "villages": 37050
     },
     {
+      "rank": 21567,
+      "name": 533,
+      "tag": "Unimatrix",
+      "pts": 3,
+      "villages": 21567
+    },
+    {
       "rank": 40847,
       "name": 480,
       "tag": "Regresso",
       "pts": 1,
       "villages": 40847
-    },
-    {
-      "rank": 13173,
-      "name": 40,
-      "tag": "Gronelândia",
-      "pts": 2,
-      "villages": 13173
     },
     {
       "rank": 20903,
@@ -569,11 +562,11 @@
       "villages": 10502
     },
     {
-      "rank": 40574,
-      "name": 127,
-      "tag": "Fortaleza das PPS",
+      "rank": 13173,
+      "name": 40,
+      "tag": "Gronelândia",
       "pts": 2,
-      "villages": 40574
+      "villages": 13173
     },
     {
       "rank": 27515,
@@ -581,6 +574,13 @@
       "tag": "Eat, Sleep, Smoke, Repeat",
       "pts": 1,
       "villages": 27515
+    },
+    {
+      "rank": 40574,
+      "name": 127,
+      "tag": "Fortaleza das PPS",
+      "pts": 2,
+      "villages": 40574
     },
     {
       "rank": 8680,
@@ -611,6 +611,13 @@
       "villages": 14310
     },
     {
+      "rank": 72,
+      "name": 560,
+      "tag": "rabolho",
+      "pts": 2,
+      "villages": 72
+    },
+    {
       "rank": 4618,
       "name": 567,
       "tag": "Domínio Absoluto",
@@ -632,13 +639,6 @@
       "villages": 4016
     },
     {
-      "rank": 72,
-      "name": 560,
-      "tag": "rabolho",
-      "pts": 2,
-      "villages": 72
-    },
-    {
       "rank": 6604,
       "name": 196,
       "tag": "The Warriors",
@@ -646,11 +646,11 @@
       "villages": 6604
     },
     {
-      "rank": 556,
-      "name": 499,
-      "tag": "The Bulls",
+      "rank": 147,
+      "name": 17,
+      "tag": "RAIA",
       "pts": 1,
-      "villages": 556
+      "villages": 147
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "players": [
     {
-      "rank": 24142066,
+      "rank": 24151834,
       "name": 11449618,
-      "pts": 2208,
+      "pts": 2209,
       "villages": 123
     },
     {
@@ -19,31 +19,31 @@
       "villages": 63
     },
     {
-      "rank": 16357967,
+      "rank": 16360000,
       "name": 849147354,
       "pts": 1642,
       "villages": 63
     },
     {
-      "rank": 12534259,
+      "rank": 12534299,
       "name": 11553680,
       "pts": 1224,
       "villages": 63
     },
     {
-      "rank": 10379250,
+      "rank": 10379711,
       "name": 849341187,
       "pts": 1033,
       "villages": 63
     },
     {
-      "rank": 10078395,
+      "rank": 10078560,
       "name": 11381869,
       "pts": 1063,
       "villages": 63
     },
     {
-      "rank": 9469766,
+      "rank": 9469804,
       "name": 11385381,
       "pts": 1117,
       "villages": 63
@@ -55,19 +55,19 @@
       "villages": 63
     },
     {
-      "rank": 9147784,
+      "rank": 9147860,
       "name": 11562535,
       "pts": 892,
       "villages": 63
     },
     {
-      "rank": 8486385,
+      "rank": 8486396,
       "name": 849358983,
       "pts": 831,
       "villages": 70
     },
     {
-      "rank": 8347077,
+      "rank": 8347357,
       "name": 849363499,
       "pts": 793,
       "villages": 73
@@ -85,13 +85,13 @@
       "villages": 6
     },
     {
-      "rank": 7921373,
+      "rank": 7921538,
       "name": 849263998,
       "pts": 761,
       "villages": 6
     },
     {
-      "rank": 7722330,
+      "rank": 7722439,
       "name": 982025,
       "pts": 860,
       "villages": 63
@@ -103,7 +103,7 @@
       "villages": 61
     },
     {
-      "rank": 7632932,
+      "rank": 7633449,
       "name": 10777281,
       "pts": 752,
       "villages": 6
@@ -127,15 +127,15 @@
       "villages": 73
     },
     {
-      "rank": 7072125,
+      "rank": 7072415,
       "name": 10158427,
       "pts": 692,
       "villages": 123
     },
     {
-      "rank": 6721883,
+      "rank": 6731364,
       "name": 10727209,
-      "pts": 677,
+      "pts": 678,
       "villages": 123
     },
     {
@@ -145,19 +145,19 @@
       "villages": 63
     },
     {
-      "rank": 6365257,
+      "rank": 6365277,
       "name": 8960795,
       "pts": 633,
       "villages": 6
     },
     {
-      "rank": 6133541,
+      "rank": 6133665,
       "name": 849360377,
       "pts": 596,
       "villages": 73
     },
     {
-      "rank": 6101970,
+      "rank": 6102022,
       "name": 849028865,
       "pts": 593,
       "villages": 70
@@ -169,13 +169,13 @@
       "villages": 70
     },
     {
-      "rank": 5762803,
+      "rank": 5762806,
       "name": 11245031,
       "pts": 571,
       "villages": 6
     },
     {
-      "rank": 5702378,
+      "rank": 5702311,
       "name": 11235164,
       "pts": 574,
       "villages": 123
@@ -199,19 +199,19 @@
       "villages": 6
     },
     {
-      "rank": 5529039,
+      "rank": 5529065,
       "name": 11473738,
       "pts": 552,
       "villages": 6
     },
     {
-      "rank": 5515335,
+      "rank": 5514852,
       "name": 11540638,
       "pts": 978,
       "villages": 123
     },
     {
-      "rank": 5445451,
+      "rank": 5445634,
       "name": 848975395,
       "pts": 526,
       "villages": 83
@@ -223,37 +223,37 @@
       "villages": 63
     },
     {
-      "rank": 5416747,
+      "rank": 5416750,
       "name": 11517343,
       "pts": 519,
       "villages": 123
     },
     {
-      "rank": 5363894,
+      "rank": 5363902,
       "name": 848914450,
       "pts": 669,
       "villages": 53
     },
     {
-      "rank": 5325096,
+      "rank": 5328699,
       "name": 849339702,
       "pts": 507,
       "villages": 63
     },
     {
-      "rank": 5298193,
+      "rank": 5298235,
       "name": 3891786,
       "pts": 567,
       "villages": 73
     },
     {
-      "rank": 5281880,
+      "rank": 5291760,
       "name": 11001646,
-      "pts": 619,
+      "pts": 620,
       "villages": 63
     },
     {
-      "rank": 5216268,
+      "rank": 5214959,
       "name": 11454242,
       "pts": 694,
       "villages": 123
@@ -271,19 +271,19 @@
       "villages": 279
     },
     {
-      "rank": 5062049,
+      "rank": 5062186,
       "name": 10950521,
       "pts": 462,
       "villages": 102
     },
     {
-      "rank": 5029683,
+      "rank": 5029824,
       "name": 849091871,
       "pts": 545,
       "villages": 1
     },
     {
-      "rank": 5027065,
+      "rank": 5027202,
       "name": 849340918,
       "pts": 500,
       "villages": 61
@@ -303,249 +303,249 @@
   ],
   "tribes": [
     {
-      "rank": 164132375,
+      "rank": 164145739,
       "name": 63,
       "tag": "The Saviors",
       "pts": 17,
-      "villages": 164132375
+      "villages": 164145739
     },
     {
-      "rank": 102885085,
+      "rank": 102880518,
       "name": 123,
       "tag": "The Kingdom",
       "pts": 17,
-      "villages": 102885085
+      "villages": 102880518
     },
     {
-      "rank": 99498374,
+      "rank": 99499713,
       "name": 6,
       "tag": "Walking dead",
       "pts": 20,
-      "villages": 99498374
+      "villages": 99499713
     },
     {
-      "rank": 72254677,
+      "rank": 72256319,
       "name": 70,
       "tag": "Done Joking",
       "pts": 19,
-      "villages": 72254677
+      "villages": 72256319
     },
     {
-      "rank": 63748375,
+      "rank": 63758828,
       "name": 73,
       "tag": "Kings Incorporated",
       "pts": 18,
-      "villages": 63748375
+      "villages": 63758828
     },
     {
-      "rank": 52094620,
+      "rank": 52096983,
       "name": 53,
       "tag": "Walking dea2",
       "pts": 19,
-      "villages": 52094620
+      "villages": 52096983
     },
     {
-      "rank": 50413652,
+      "rank": 50436411,
       "name": 1,
       "tag": "Matter",
       "pts": 19,
-      "villages": 50413652
+      "villages": 50436411
     },
     {
-      "rank": 40302476,
+      "rank": 40303138,
       "name": 428,
       "tag": "Walking Dead 3",
       "pts": 20,
-      "villages": 40302476
+      "villages": 40303138
     },
     {
-      "rank": 38046787,
+      "rank": 38048032,
       "name": 21,
       "tag": "Dark Crystal",
       "pts": 15,
-      "villages": 38046787
+      "villages": 38048032
     },
     {
-      "rank": 38116755,
+      "rank": 38117745,
       "name": 83,
       "tag": "Eternal Dawn",
       "pts": 19,
-      "villages": 38116755
+      "villages": 38117745
     },
     {
-      "rank": 33450044,
+      "rank": 33451062,
       "name": 279,
       "tag": "Imperium Romanum",
       "pts": 19,
-      "villages": 33450044
+      "villages": 33451062
     },
     {
-      "rank": 29120548,
+      "rank": 29100013,
       "name": 156,
       "tag": "Eternal Dusk",
       "pts": 14,
-      "villages": 29120548
+      "villages": 29100013
     },
     {
-      "rank": 33656215,
+      "rank": 33665933,
       "name": 61,
       "tag": "Photon",
       "pts": 14,
-      "villages": 33656215
+      "villages": 33665933
     },
     {
-      "rank": 30456974,
+      "rank": 30456642,
       "name": 102,
       "tag": "Big vikingar",
       "pts": 18,
-      "villages": 30456974
+      "villages": 30456642
     },
     {
-      "rank": 24838493,
+      "rank": 24839650,
       "name": 257,
       "tag": "Winning Dna",
       "pts": 18,
-      "villages": 24838493
+      "villages": 24839650
     },
     {
-      "rank": 24849305,
+      "rank": 24849167,
       "name": 7,
       "tag": "The Originals",
       "pts": 19,
-      "villages": 24849305
+      "villages": 24849167
     },
     {
-      "rank": 22830810,
+      "rank": 22831267,
       "name": 188,
       "tag": "Zero Division",
       "pts": 15,
-      "villages": 22830810
+      "villages": 22831267
     },
     {
-      "rank": 23568304,
+      "rank": 23570527,
       "name": 210,
       "tag": "ShowMe",
       "pts": 19,
-      "villages": 23568304
+      "villages": 23570527
     },
     {
-      "rank": 19105649,
+      "rank": 19112703,
       "name": 189,
       "tag": "Memory of Temp",
       "pts": 17,
-      "villages": 19105649
+      "villages": 19112703
     },
     {
-      "rank": 15718728,
+      "rank": 15727166,
       "name": 62,
       "tag": "White Rose",
       "pts": 18,
-      "villages": 15718728
+      "villages": 15727166
     },
     {
-      "rank": 16163078,
+      "rank": 16163454,
       "name": 2,
       "tag": "Origin",
       "pts": 13,
-      "villages": 16163078
+      "villages": 16163454
     },
     {
-      "rank": 14496321,
+      "rank": 14496501,
       "name": 46,
       "tag": "The 0riginals",
       "pts": 19,
-      "villages": 14496321
+      "villages": 14496501
     },
     {
-      "rank": 15973395,
+      "rank": 15974095,
       "name": 204,
       "tag": "cooperation",
       "pts": 17,
-      "villages": 15973395
+      "villages": 15974095
     },
     {
-      "rank": 9290132,
+      "rank": 9290469,
       "name": 174,
       "tag": "Wavin' Flag",
       "pts": 11,
-      "villages": 9290132
+      "villages": 9290469
     },
     {
-      "rank": 7895864,
+      "rank": 7896137,
       "name": 133,
       "tag": "Immortals",
       "pts": 16,
-      "villages": 7895864
+      "villages": 7896137
     },
     {
-      "rank": 7757464,
+      "rank": 7748156,
       "name": 412,
       "tag": "Royal B@st@rds Academy",
       "pts": 4,
-      "villages": 7757464
+      "villages": 7748156
     },
     {
-      "rank": 7194581,
+      "rank": 7194937,
       "name": 219,
       "tag": "Zero Division II",
       "pts": 13,
-      "villages": 7194581
+      "villages": 7194937
     },
     {
-      "rank": 6110905,
+      "rank": 6111484,
       "name": 357,
       "tag": "Frost Vanguard",
       "pts": 15,
-      "villages": 6110905
+      "villages": 6111484
     },
     {
-      "rank": 6108475,
+      "rank": 6108411,
       "name": 109,
       "tag": "United Republic",
       "pts": 5,
-      "villages": 6108475
+      "villages": 6108411
     },
     {
-      "rank": 6367267,
+      "rank": 6367541,
       "name": 366,
       "tag": "OPUS DEI",
       "pts": 20,
-      "villages": 6367267
+      "villages": 6367541
     },
     {
-      "rank": 4797303,
+      "rank": 4797568,
       "name": 154,
       "tag": "+KNIGHTS OF CAMELOT+",
       "pts": 20,
-      "villages": 4797303
+      "villages": 4797568
     },
     {
-      "rank": 5139451,
+      "rank": 5140014,
       "name": 184,
       "tag": "IN SEARCH",
       "pts": 8,
-      "villages": 5139451
+      "villages": 5140014
     },
     {
-      "rank": 4635906,
+      "rank": 4645906,
       "name": 22,
       "tag": "Lee's Army",
       "pts": 18,
-      "villages": 4635906
+      "villages": 4645906
     },
     {
-      "rank": 4011992,
+      "rank": 4012429,
       "name": 170,
       "tag": "Reapers Riot",
       "pts": 10,
-      "villages": 4011992
+      "villages": 4012429
     },
     {
-      "rank": 4052396,
+      "rank": 4052511,
       "name": 66,
       "tag": "The Wolf Pack",
       "pts": 4,
-      "villages": 4052396
+      "villages": 4052511
     },
     {
       "rank": 4445642,
@@ -555,18 +555,18 @@
       "villages": 4445642
     },
     {
-      "rank": 3236542,
+      "rank": 3236663,
       "name": 340,
       "tag": "VENDETTA",
       "pts": 13,
-      "villages": 3236542
+      "villages": 3236663
     },
     {
-      "rank": 3094149,
+      "rank": 3094478,
       "name": 120,
       "tag": "****SABER****",
       "pts": 17,
-      "villages": 3094149
+      "villages": 3094478
     },
     {
       "rank": 2687882,
@@ -576,11 +576,11 @@
       "villages": 2687882
     },
     {
-      "rank": 2092993,
+      "rank": 2093067,
       "name": 187,
       "tag": "The Eye",
       "pts": 6,
-      "villages": 2092993
+      "villages": 2093067
     },
     {
       "rank": 2331990,
@@ -590,11 +590,11 @@
       "villages": 2331990
     },
     {
-      "rank": 1947812,
+      "rank": 1947844,
       "name": 334,
       "tag": "Lama",
       "pts": 5,
-      "villages": 1947812
+      "villages": 1947844
     },
     {
       "rank": 1761648,
@@ -611,11 +611,11 @@
       "villages": 1746126
     },
     {
-      "rank": 1768804,
+      "rank": 1768812,
       "name": 93,
       "tag": "K O N T O L",
       "pts": 8,
-      "villages": 1768804
+      "villages": 1768812
     },
     {
       "rank": 1552714,
@@ -625,11 +625,11 @@
       "villages": 1552714
     },
     {
-      "rank": 1649142,
+      "rank": 1649352,
       "name": 293,
       "tag": "Inglourious Basterds",
       "pts": 7,
-      "villages": 1649142
+      "villages": 1649352
     },
     {
       "rank": 1563139,
