@@ -1,0 +1,656 @@
+{
+  "players": [
+    {
+      "rank": 37800630,
+      "name": 9049602,
+      "pts": 3240,
+      "villages": 66
+    },
+    {
+      "rank": 33073659,
+      "name": 10372525,
+      "pts": 3072,
+      "villages": 15
+    },
+    {
+      "rank": 26186001,
+      "name": 11246718,
+      "pts": 2854,
+      "villages": 15
+    },
+    {
+      "rank": 25365894,
+      "name": 8553536,
+      "pts": 2446,
+      "villages": 15
+    },
+    {
+      "rank": 24823788,
+      "name": 11500213,
+      "pts": 2222,
+      "villages": 15
+    },
+    {
+      "rank": 23754163,
+      "name": 1988084,
+      "pts": 2345,
+      "villages": 15
+    },
+    {
+      "rank": 23197386,
+      "name": 11562535,
+      "pts": 2217,
+      "villages": 15
+    },
+    {
+      "rank": 21671295,
+      "name": 10991860,
+      "pts": 2060,
+      "villages": 347
+    },
+    {
+      "rank": 21577009,
+      "name": 11412290,
+      "pts": 2068,
+      "villages": 15
+    },
+    {
+      "rank": 21383030,
+      "name": 848970822,
+      "pts": 1865,
+      "villages": 15
+    },
+    {
+      "rank": 20420092,
+      "name": 11219178,
+      "pts": 1978,
+      "villages": 15
+    },
+    {
+      "rank": 19899010,
+      "name": 11211289,
+      "pts": 1840,
+      "villages": 15
+    },
+    {
+      "rank": 19761564,
+      "name": 849225457,
+      "pts": 1692,
+      "villages": 144
+    },
+    {
+      "rank": 18989929,
+      "name": 849295833,
+      "pts": 1884,
+      "villages": 66
+    },
+    {
+      "rank": 18848182,
+      "name": 11001646,
+      "pts": 1864,
+      "villages": 15
+    },
+    {
+      "rank": 17347579,
+      "name": 1704209,
+      "pts": 1700,
+      "villages": 15
+    },
+    {
+      "rank": 16896754,
+      "name": 448825,
+      "pts": 1655,
+      "villages": 15
+    },
+    {
+      "rank": 16033714,
+      "name": 849205192,
+      "pts": 1593,
+      "villages": 144
+    },
+    {
+      "rank": 15892147,
+      "name": 849297099,
+      "pts": 1579,
+      "villages": 347
+    },
+    {
+      "rank": 15802416,
+      "name": 849100017,
+      "pts": 1485,
+      "villages": 15
+    },
+    {
+      "rank": 15412750,
+      "name": 3405514,
+      "pts": 1555,
+      "villages": 15
+    },
+    {
+      "rank": 15334660,
+      "name": 11116419,
+      "pts": 1450,
+      "villages": 15
+    },
+    {
+      "rank": 14746858,
+      "name": 849296058,
+      "pts": 1551,
+      "villages": 144
+    },
+    {
+      "rank": 14504418,
+      "name": 11327937,
+      "pts": 1475,
+      "villages": 15
+    },
+    {
+      "rank": 14411935,
+      "name": 11434617,
+      "pts": 1455,
+      "villages": 245
+    },
+    {
+      "rank": 14373027,
+      "name": 10210454,
+      "pts": 1362,
+      "villages": 66
+    },
+    {
+      "rank": 14297234,
+      "name": 10172770,
+      "pts": 1469,
+      "villages": 15
+    },
+    {
+      "rank": 13777554,
+      "name": 849277893,
+      "pts": 1332,
+      "villages": 499
+    },
+    {
+      "rank": 13729576,
+      "name": 11490842,
+      "pts": 1365,
+      "villages": 15
+    },
+    {
+      "rank": 13328291,
+      "name": 11472685,
+      "pts": 1319,
+      "villages": 245
+    },
+    {
+      "rank": 12690665,
+      "name": 849028865,
+      "pts": 1204,
+      "villages": 245
+    },
+    {
+      "rank": 12150125,
+      "name": 2735260,
+      "pts": 1213,
+      "villages": 66
+    },
+    {
+      "rank": 10852617,
+      "name": 11181835,
+      "pts": 1008,
+      "villages": 66
+    },
+    {
+      "rank": 10511294,
+      "name": 4949695,
+      "pts": 879,
+      "villages": 245
+    },
+    {
+      "rank": 10396313,
+      "name": 2020285,
+      "pts": 1063,
+      "villages": 347
+    },
+    {
+      "rank": 10159242,
+      "name": 11473738,
+      "pts": 1024,
+      "villages": 245
+    },
+    {
+      "rank": 9702912,
+      "name": 849303247,
+      "pts": 940,
+      "villages": 347
+    },
+    {
+      "rank": 9687213,
+      "name": 9795523,
+      "pts": 1090,
+      "villages": 144
+    },
+    {
+      "rank": 9572179,
+      "name": 11042560,
+      "pts": 955,
+      "villages": 66
+    },
+    {
+      "rank": 9508482,
+      "name": 849139142,
+      "pts": 1092,
+      "villages": 280
+    },
+    {
+      "rank": 9487720,
+      "name": 504127,
+      "pts": 1076,
+      "villages": 347
+    },
+    {
+      "rank": 9425954,
+      "name": 9738245,
+      "pts": 953,
+      "villages": 66
+    },
+    {
+      "rank": 8990743,
+      "name": 849333750,
+      "pts": 903,
+      "villages": 280
+    },
+    {
+      "rank": 8881839,
+      "name": 10056868,
+      "pts": 919,
+      "villages": 144
+    },
+    {
+      "rank": 8261110,
+      "name": 849097282,
+      "pts": 800,
+      "villages": 66
+    },
+    {
+      "rank": 8240191,
+      "name": 4682397,
+      "pts": 819,
+      "villages": 347
+    },
+    {
+      "rank": 7944183,
+      "name": 11536813,
+      "pts": 770,
+      "villages": 66
+    },
+    {
+      "rank": 7915885,
+      "name": 10284053,
+      "pts": 794,
+      "villages": 144
+    },
+    {
+      "rank": 7485333,
+      "name": 849293262,
+      "pts": 763,
+      "villages": 66
+    },
+    {
+      "rank": 7241830,
+      "name": 849291745,
+      "pts": 682,
+      "villages": 66
+    }
+  ],
+  "tribes": [
+    {
+      "rank": 381930675,
+      "name": 15,
+      "tag": "Be A Man",
+      "pts": 19,
+      "villages": 381930675
+    },
+    {
+      "rank": 197342335,
+      "name": 66,
+      "tag": "East Coast",
+      "pts": 20,
+      "villages": 197342335
+    },
+    {
+      "rank": 127349287,
+      "name": 144,
+      "tag": "Deadly Duo South",
+      "pts": 18,
+      "villages": 127349287
+    },
+    {
+      "rank": 127637311,
+      "name": 347,
+      "tag": "Lizard Lizard",
+      "pts": 16,
+      "villages": 127637311
+    },
+    {
+      "rank": 97594880,
+      "name": 245,
+      "tag": "Roar",
+      "pts": 15,
+      "villages": 97594880
+    },
+    {
+      "rank": 63787897,
+      "name": 485,
+      "tag": "Leave Me Alone",
+      "pts": 19,
+      "villages": 63787897
+    },
+    {
+      "rank": 61934321,
+      "name": 280,
+      "tag": "The Benchwarmers",
+      "pts": 18,
+      "villages": 61934321
+    },
+    {
+      "rank": 29938837,
+      "name": 65,
+      "tag": "Gondorians",
+      "pts": 15,
+      "villages": 29938837
+    },
+    {
+      "rank": 21815260,
+      "name": 45,
+      "tag": "Deadly Duo North",
+      "pts": 15,
+      "villages": 21815260
+    },
+    {
+      "rank": 20170885,
+      "name": 251,
+      "tag": "V.D. 2",
+      "pts": 13,
+      "villages": 20170885
+    },
+    {
+      "rank": 14870257,
+      "name": 76,
+      "tag": "The Dawn",
+      "pts": 16,
+      "villages": 14870257
+    },
+    {
+      "rank": 13777867,
+      "name": 499,
+      "tag": "La Fonky Family",
+      "pts": 1,
+      "villages": 13777867
+    },
+    {
+      "rank": 9885941,
+      "name": 93,
+      "tag": "Lizard Lizard Lizard",
+      "pts": 8,
+      "villages": 9885941
+    },
+    {
+      "rank": 7517607,
+      "name": 2,
+      "tag": "BLACK",
+      "pts": 7,
+      "villages": 7517607
+    },
+    {
+      "rank": 5758174,
+      "name": 259,
+      "tag": "Peaky Blinders",
+      "pts": 7,
+      "villages": 5758174
+    },
+    {
+      "rank": 5766085,
+      "name": 378,
+      "tag": "cotr",
+      "pts": 1,
+      "villages": 5766085
+    },
+    {
+      "rank": 5397315,
+      "name": 488,
+      "tag": "Berserkers",
+      "pts": 1,
+      "villages": 5397315
+    },
+    {
+      "rank": 4282434,
+      "name": 94,
+      "tag": "STACKER",
+      "pts": 5,
+      "villages": 4282434
+    },
+    {
+      "rank": 3671484,
+      "name": 477,
+      "tag": "just me",
+      "pts": 1,
+      "villages": 3671484
+    },
+    {
+      "rank": 3071062,
+      "name": 75,
+      "tag": "+KNIGHTS OF CAMELOT+",
+      "pts": 14,
+      "villages": 3071062
+    },
+    {
+      "rank": 3208800,
+      "name": 102,
+      "tag": "Chocolate bears",
+      "pts": 8,
+      "villages": 3208800
+    },
+    {
+      "rank": 2306543,
+      "name": 227,
+      "tag": "East Coast (too)",
+      "pts": 8,
+      "villages": 2306543
+    },
+    {
+      "rank": 2095951,
+      "name": 128,
+      "tag": "+ KNIGHTS OF CAMELOT +",
+      "pts": 5,
+      "villages": 2095951
+    },
+    {
+      "rank": 2418894,
+      "name": 220,
+      "tag": "The Real Lions",
+      "pts": 6,
+      "villages": 2418894
+    },
+    {
+      "rank": 1951422,
+      "name": 402,
+      "tag": "Teletubbies",
+      "pts": 4,
+      "villages": 1951422
+    },
+    {
+      "rank": 1843252,
+      "name": 467,
+      "tag": "-XXL-",
+      "pts": 1,
+      "villages": 1843252
+    },
+    {
+      "rank": 1354169,
+      "name": 153,
+      "tag": "Ankle Biters",
+      "pts": 2,
+      "villages": 1354169
+    },
+    {
+      "rank": 1283813,
+      "name": 472,
+      "tag": "Corner",
+      "pts": 4,
+      "villages": 1283813
+    },
+    {
+      "rank": 1356821,
+      "name": 54,
+      "tag": "3rd.",
+      "pts": 1,
+      "villages": 1356821
+    },
+    {
+      "rank": 1227149,
+      "name": 219,
+      "tag": "V.D.",
+      "pts": 7,
+      "villages": 1227149
+    },
+    {
+      "rank": 1003249,
+      "name": 1,
+      "tag": "The Zoo Crew",
+      "pts": 3,
+      "villages": 1003249
+    },
+    {
+      "rank": 958749,
+      "name": 503,
+      "tag": "The One And Only",
+      "pts": 1,
+      "villages": 958749
+    },
+    {
+      "rank": 508910,
+      "name": 10,
+      "tag": "United Turtle",
+      "pts": 2,
+      "villages": 508910
+    },
+    {
+      "rank": 464083,
+      "name": 418,
+      "tag": "~XTREME ~",
+      "pts": 7,
+      "villages": 464083
+    },
+    {
+      "rank": 482079,
+      "name": 80,
+      "tag": "Valley Of Blossoms",
+      "pts": 3,
+      "villages": 482079
+    },
+    {
+      "rank": 408589,
+      "name": 496,
+      "tag": "New England",
+      "pts": 1,
+      "villages": 408589
+    },
+    {
+      "rank": 283587,
+      "name": 120,
+      "tag": "Fire Dragons",
+      "pts": 1,
+      "villages": 283587
+    },
+    {
+      "rank": 226262,
+      "name": 369,
+      "tag": "vikingarna från broby",
+      "pts": 1,
+      "villages": 226262
+    },
+    {
+      "rank": 159974,
+      "name": 293,
+      "tag": "Bored",
+      "pts": 1,
+      "villages": 159974
+    },
+    {
+      "rank": 149882,
+      "name": 478,
+      "tag": "2old4this",
+      "pts": 1,
+      "villages": 149882
+    },
+    {
+      "rank": 206563,
+      "name": 32,
+      "tag": "WHITE",
+      "pts": 1,
+      "villages": 206563
+    },
+    {
+      "rank": 168659,
+      "name": 174,
+      "tag": "Independent",
+      "pts": 1,
+      "villages": 168659
+    },
+    {
+      "rank": 136444,
+      "name": 417,
+      "tag": "NOYPI",
+      "pts": 1,
+      "villages": 136444
+    },
+    {
+      "rank": 119895,
+      "name": 431,
+      "tag": "Looney",
+      "pts": 2,
+      "villages": 119895
+    },
+    {
+      "rank": 114977,
+      "name": 458,
+      "tag": "1821-B",
+      "pts": 1,
+      "villages": 114977
+    },
+    {
+      "rank": 65721,
+      "name": 159,
+      "tag": "A NEW WORLD",
+      "pts": 1,
+      "villages": 65721
+    },
+    {
+      "rank": 18786,
+      "name": 481,
+      "tag": "Blues Brothers",
+      "pts": 1,
+      "villages": 18786
+    },
+    {
+      "rank": 24120,
+      "name": 113,
+      "tag": "TwistD Evolution",
+      "pts": 1,
+      "villages": 24120
+    },
+    {
+      "rank": 6546,
+      "name": 463,
+      "tag": "THE RUMBLING",
+      "pts": 1,
+      "villages": 6546
+    },
+    {
+      "rank": 3957,
+      "name": 257,
+      "tag": "RLV!",
+      "pts": 1,
+      "villages": 3957
+    }
+  ]
+}
