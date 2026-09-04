@@ -1,0 +1,32 @@
+{
+  "players": [
+    {
+      "rank": 2444,
+      "name": 919183919,
+      "pts": 1,
+      "villages": 2
+    },
+    {
+      "rank": 767,
+      "name": 919706101,
+      "pts": 1,
+      "villages": 1
+    }
+  ],
+  "tribes": [
+    {
+      "rank": 767,
+      "name": 1,
+      "tag": "AAAA",
+      "pts": 1,
+      "villages": 767
+    },
+    {
+      "rank": 2444,
+      "name": 2,
+      "tag": "brteam",
+      "pts": 1,
+      "villages": 2444
+    }
+  ]
+}
