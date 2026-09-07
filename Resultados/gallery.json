@@ -1,5 +1,5 @@
 {
-  "last_update": "06/09/2026 08:18:58",
+  "last_update": "07/09/2026 08:50:39",
   "servers": {
     ".BR": {
       "brs1": {
@@ -1133,6 +1133,14 @@
           }
         ],
         "tribes": [
+          {
+            "title": "Análise Tática (Dinâmica)",
+            "path": "Resultados/.DS/de258/Tribes/mapa_conquest_hotspot_de258.png"
+          },
+          {
+            "title": "Conquistas (24h)",
+            "path": "Resultados/.DS/de258/Tribes/mapa_top15_conquistas_de258.png"
+          },
           {
             "title": "Dominância K",
             "path": "Resultados/.DS/de258/Tribes/mapa_top15_dominancia_K_de258.png"
