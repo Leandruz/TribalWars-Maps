@@ -1,0 +1,32 @@
+{
+  "players": [
+    {
+      "rank": 1819,
+      "name": 920062777,
+      "pts": 1,
+      "villages": 1
+    },
+    {
+      "rank": 1057,
+      "name": 919504453,
+      "pts": 1,
+      "villages": 2
+    }
+  ],
+  "tribes": [
+    {
+      "rank": 1819,
+      "name": 1,
+      "tag": "zzzz",
+      "pts": 1,
+      "villages": 1819
+    },
+    {
+      "rank": 1057,
+      "name": 2,
+      "tag": "aaaa",
+      "pts": 1,
+      "villages": 1057
+    }
+  ]
+}

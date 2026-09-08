@@ -1,0 +1,50 @@
+{
+  "players": [
+    {
+      "rank": 16294,
+      "name": 11524930,
+      "pts": 2,
+      "villages": 0
+    },
+    {
+      "rank": 16294,
+      "name": 849119578,
+      "pts": 2,
+      "villages": 0
+    },
+    {
+      "rank": 16294,
+      "name": 849129877,
+      "pts": 2,
+      "villages": 0
+    },
+    {
+      "rank": 16294,
+      "name": 849406631,
+      "pts": 2,
+      "villages": 0
+    },
+    {
+      "rank": 16294,
+      "name": 849409470,
+      "pts": 2,
+      "villages": 0
+    }
+  ],
+  "tribes": [
+    {
+      "rank": 28346,
+      "name": 1,
+      "tag": "olympus",
+      "pts": 5,
+      "villages": 28346
+    },
+    {
+      "rank": 3432,
+      "name": 2,
+      "tag": "friends",
+      "pts": 5,
+      "villages": 3432
+    }
+  ]
+}
