@@ -1,0 +1,656 @@
+{
+  "players": [
+    {
+      "rank": 13502803,
+      "name": 848971185,
+      "pts": 2348,
+      "villages": 206
+    },
+    {
+      "rank": 5088221,
+      "name": 849379805,
+      "pts": 983,
+      "villages": 448
+    },
+    {
+      "rank": 3779473,
+      "name": 849108287,
+      "pts": 557,
+      "villages": 40
+    },
+    {
+      "rank": 2846220,
+      "name": 10958803,
+      "pts": 315,
+      "villages": 40
+    },
+    {
+      "rank": 2623115,
+      "name": 849393908,
+      "pts": 372,
+      "villages": 40
+    },
+    {
+      "rank": 2327823,
+      "name": 9424408,
+      "pts": 349,
+      "villages": 40
+    },
+    {
+      "rank": 2318773,
+      "name": 11291361,
+      "pts": 302,
+      "villages": 178
+    },
+    {
+      "rank": 1956884,
+      "name": 849361329,
+      "pts": 348,
+      "villages": 423
+    },
+    {
+      "rank": 1859233,
+      "name": 2734850,
+      "pts": 222,
+      "villages": 40
+    },
+    {
+      "rank": 1638351,
+      "name": 10725639,
+      "pts": 239,
+      "villages": 423
+    },
+    {
+      "rank": 1550722,
+      "name": 669261,
+      "pts": 231,
+      "villages": 53
+    },
+    {
+      "rank": 1531089,
+      "name": 11481109,
+      "pts": 246,
+      "villages": 178
+    },
+    {
+      "rank": 1381640,
+      "name": 4296775,
+      "pts": 198,
+      "villages": 40
+    },
+    {
+      "rank": 1358212,
+      "name": 11486758,
+      "pts": 181,
+      "villages": 423
+    },
+    {
+      "rank": 1253467,
+      "name": 849111514,
+      "pts": 170,
+      "villages": 423
+    },
+    {
+      "rank": 1245156,
+      "name": 11468481,
+      "pts": 200,
+      "villages": 423
+    },
+    {
+      "rank": 1163335,
+      "name": 849244107,
+      "pts": 216,
+      "villages": 40
+    },
+    {
+      "rank": 1158682,
+      "name": 4623070,
+      "pts": 185,
+      "villages": 40
+    },
+    {
+      "rank": 1136464,
+      "name": 849181889,
+      "pts": 149,
+      "villages": 40
+    },
+    {
+      "rank": 1080603,
+      "name": 10308855,
+      "pts": 157,
+      "villages": 423
+    },
+    {
+      "rank": 1071257,
+      "name": 11469925,
+      "pts": 148,
+      "villages": 423
+    },
+    {
+      "rank": 1052647,
+      "name": 2954602,
+      "pts": 214,
+      "villages": 423
+    },
+    {
+      "rank": 988214,
+      "name": 848911256,
+      "pts": 167,
+      "villages": 178
+    },
+    {
+      "rank": 970265,
+      "name": 11173991,
+      "pts": 176,
+      "villages": 178
+    },
+    {
+      "rank": 958244,
+      "name": 11584283,
+      "pts": 156,
+      "villages": 38
+    },
+    {
+      "rank": 885887,
+      "name": 10600854,
+      "pts": 156,
+      "villages": 38
+    },
+    {
+      "rank": 846146,
+      "name": 11575851,
+      "pts": 105,
+      "villages": 423
+    },
+    {
+      "rank": 829295,
+      "name": 9696766,
+      "pts": 158,
+      "villages": 423
+    },
+    {
+      "rank": 824832,
+      "name": 9867527,
+      "pts": 121,
+      "villages": 2
+    },
+    {
+      "rank": 817704,
+      "name": 849393974,
+      "pts": 112,
+      "villages": 16
+    },
+    {
+      "rank": 810204,
+      "name": 848974806,
+      "pts": 118,
+      "villages": 423
+    },
+    {
+      "rank": 803337,
+      "name": 849394464,
+      "pts": 101,
+      "villages": 53
+    },
+    {
+      "rank": 779831,
+      "name": 11554206,
+      "pts": 98,
+      "villages": 40
+    },
+    {
+      "rank": 764178,
+      "name": 849399472,
+      "pts": 120,
+      "villages": 423
+    },
+    {
+      "rank": 762987,
+      "name": 11320147,
+      "pts": 138,
+      "villages": 423
+    },
+    {
+      "rank": 695360,
+      "name": 849371208,
+      "pts": 129,
+      "villages": 40
+    },
+    {
+      "rank": 688798,
+      "name": 11379158,
+      "pts": 134,
+      "villages": 40
+    },
+    {
+      "rank": 670875,
+      "name": 849398662,
+      "pts": 91,
+      "villages": 2
+    },
+    {
+      "rank": 637644,
+      "name": 849398532,
+      "pts": 103,
+      "villages": 178
+    },
+    {
+      "rank": 629913,
+      "name": 849234519,
+      "pts": 87,
+      "villages": 2
+    },
+    {
+      "rank": 622443,
+      "name": 849385755,
+      "pts": 114,
+      "villages": 16
+    },
+    {
+      "rank": 592503,
+      "name": 848939989,
+      "pts": 92,
+      "villages": 16
+    },
+    {
+      "rank": 588307,
+      "name": 849108500,
+      "pts": 106,
+      "villages": 423
+    },
+    {
+      "rank": 559678,
+      "name": 849360932,
+      "pts": 92,
+      "villages": 40
+    },
+    {
+      "rank": 550419,
+      "name": 849212468,
+      "pts": 125,
+      "villages": 448
+    },
+    {
+      "rank": 534109,
+      "name": 849061389,
+      "pts": 96,
+      "villages": 40
+    },
+    {
+      "rank": 528146,
+      "name": 849364256,
+      "pts": 72,
+      "villages": 423
+    },
+    {
+      "rank": 523233,
+      "name": 8892774,
+      "pts": 90,
+      "villages": 178
+    },
+    {
+      "rank": 514373,
+      "name": 11433890,
+      "pts": 67,
+      "villages": 186
+    },
+    {
+      "rank": 511734,
+      "name": 849300431,
+      "pts": 73,
+      "villages": 38
+    }
+  ],
+  "tribes": [
+    {
+      "rank": 23983857,
+      "name": 40,
+      "tag": "The Swarm",
+      "pts": 21,
+      "villages": 23983857
+    },
+    {
+      "rank": 18417329,
+      "name": 423,
+      "tag": "Fumigation",
+      "pts": 21,
+      "villages": 18417329
+    },
+    {
+      "rank": 13502803,
+      "name": 206,
+      "tag": "coco",
+      "pts": 1,
+      "villages": 13502803
+    },
+    {
+      "rank": 9889526,
+      "name": 178,
+      "tag": "I Thought she was 18",
+      "pts": 21,
+      "villages": 9889526
+    },
+    {
+      "rank": 7675776,
+      "name": 448,
+      "tag": "Rams of Amun",
+      "pts": 13,
+      "villages": 7675776
+    },
+    {
+      "rank": 5974053,
+      "name": 53,
+      "tag": "Extra Swarmy",
+      "pts": 17,
+      "villages": 5974053
+    },
+    {
+      "rank": 4587943,
+      "name": 38,
+      "tag": "Snowpl0wers",
+      "pts": 18,
+      "villages": 4587943
+    },
+    {
+      "rank": 4873037,
+      "name": 2,
+      "tag": "Questionable Diplomacy",
+      "pts": 14,
+      "villages": 4873037
+    },
+    {
+      "rank": 3602049,
+      "name": 16,
+      "tag": "Too Lazy To Care",
+      "pts": 12,
+      "villages": 3602049
+    },
+    {
+      "rank": 3034224,
+      "name": 145,
+      "tag": "CacTus",
+      "pts": 22,
+      "villages": 3034224
+    },
+    {
+      "rank": 2005801,
+      "name": 262,
+      "tag": "Bang!",
+      "pts": 17,
+      "villages": 2005801
+    },
+    {
+      "rank": 1893333,
+      "name": 66,
+      "tag": "A Questionable Academy",
+      "pts": 17,
+      "villages": 1893333
+    },
+    {
+      "rank": 1346498,
+      "name": 343,
+      "tag": "Scott",
+      "pts": 22,
+      "villages": 1346498
+    },
+    {
+      "rank": 1566329,
+      "name": 344,
+      "tag": "The Little Guys",
+      "pts": 20,
+      "villages": 1566329
+    },
+    {
+      "rank": 1351326,
+      "name": 376,
+      "tag": "VV SOUTH",
+      "pts": 20,
+      "villages": 1351326
+    },
+    {
+      "rank": 1226768,
+      "name": 652,
+      "tag": "Leon Rex Academy",
+      "pts": 13,
+      "villages": 1226768
+    },
+    {
+      "rank": 1016174,
+      "name": 41,
+      "tag": "The Exiled",
+      "pts": 15,
+      "villages": 1016174
+    },
+    {
+      "rank": 736877,
+      "name": 499,
+      "tag": "Mom and son",
+      "pts": 22,
+      "villages": 736877
+    },
+    {
+      "rank": 659217,
+      "name": 512,
+      "tag": "Artificial Intelligence",
+      "pts": 22,
+      "villages": 659217
+    },
+    {
+      "rank": 604449,
+      "name": 583,
+      "tag": "Slashdot",
+      "pts": 15,
+      "villages": 604449
+    },
+    {
+      "rank": 470762,
+      "name": 220,
+      "tag": "Ope!",
+      "pts": 10,
+      "villages": 470762
+    },
+    {
+      "rank": 441481,
+      "name": 487,
+      "tag": "Shadow Wolf Extreme",
+      "pts": 21,
+      "villages": 441481
+    },
+    {
+      "rank": 365328,
+      "name": 672,
+      "tag": "Medieval Brotherhood United",
+      "pts": 21,
+      "villages": 365328
+    },
+    {
+      "rank": 267794,
+      "name": 117,
+      "tag": "Woodland Elves",
+      "pts": 20,
+      "villages": 267794
+    },
+    {
+      "rank": 340470,
+      "name": 629,
+      "tag": "Seriously Casual",
+      "pts": 20,
+      "villages": 340470
+    },
+    {
+      "rank": 257215,
+      "name": 82,
+      "tag": "Roman Empire",
+      "pts": 13,
+      "villages": 257215
+    },
+    {
+      "rank": 232476,
+      "name": 33,
+      "tag": "Former100",
+      "pts": 20,
+      "villages": 232476
+    },
+    {
+      "rank": 569046,
+      "name": 186,
+      "tag": "Solo-ish",
+      "pts": 2,
+      "villages": 569046
+    },
+    {
+      "rank": 208190,
+      "name": 726,
+      "tag": "ARSENAL",
+      "pts": 22,
+      "villages": 208190
+    },
+    {
+      "rank": 237954,
+      "name": 163,
+      "tag": "CT Academy",
+      "pts": 15,
+      "villages": 237954
+    },
+    {
+      "rank": 283931,
+      "name": 329,
+      "tag": "HunTer",
+      "pts": 17,
+      "villages": 283931
+    },
+    {
+      "rank": 286393,
+      "name": 865,
+      "tag": "Knights of Shadow",
+      "pts": 10,
+      "villages": 286393
+    },
+    {
+      "rank": 204819,
+      "name": 708,
+      "tag": "Omnium Gatherum",
+      "pts": 22,
+      "villages": 204819
+    },
+    {
+      "rank": 192680,
+      "name": 594,
+      "tag": "Agdadamo",
+      "pts": 13,
+      "villages": 192680
+    },
+    {
+      "rank": 187297,
+      "name": 395,
+      "tag": "Veni, Vidi, Vici",
+      "pts": 12,
+      "villages": 187297
+    },
+    {
+      "rank": 152656,
+      "name": 554,
+      "tag": "ODD ANGRY SHOT",
+      "pts": 22,
+      "villages": 152656
+    },
+    {
+      "rank": 252084,
+      "name": 225,
+      "tag": "Swarm Farmers",
+      "pts": 9,
+      "villages": 252084
+    },
+    {
+      "rank": 255477,
+      "name": 829,
+      "tag": "Swarm3",
+      "pts": 3,
+      "villages": 255477
+    },
+    {
+      "rank": 281050,
+      "name": 682,
+      "tag": "Placehilder",
+      "pts": 3,
+      "villages": 281050
+    },
+    {
+      "rank": 168308,
+      "name": 798,
+      "tag": "Koko Krunchers",
+      "pts": 7,
+      "villages": 168308
+    },
+    {
+      "rank": 186035,
+      "name": 259,
+      "tag": "Guardians of Valhalla",
+      "pts": 20,
+      "villages": 186035
+    },
+    {
+      "rank": 177163,
+      "name": 589,
+      "tag": "Academy of Dusk",
+      "pts": 9,
+      "villages": 177163
+    },
+    {
+      "rank": 115075,
+      "name": 200,
+      "tag": "Mayhem",
+      "pts": 15,
+      "villages": 115075
+    },
+    {
+      "rank": 148339,
+      "name": 248,
+      "tag": "Just The Rim",
+      "pts": 16,
+      "villages": 148339
+    },
+    {
+      "rank": 90560,
+      "name": 612,
+      "tag": "Artificial Intelligence Academy",
+      "pts": 17,
+      "villages": 90560
+    },
+    {
+      "rank": 117806,
+      "name": 515,
+      "tag": "V.V Academy",
+      "pts": 19,
+      "villages": 117806
+    },
+    {
+      "rank": 164860,
+      "name": 341,
+      "tag": "The South",
+      "pts": 7,
+      "villages": 164860
+    },
+    {
+      "rank": 65033,
+      "name": 469,
+      "tag": "Brother Hood Of Swords",
+      "pts": 20,
+      "villages": 65033
+    },
+    {
+      "rank": 83911,
+      "name": 381,
+      "tag": "Vlag",
+      "pts": 22,
+      "villages": 83911
+    },
+    {
+      "rank": 91789,
+      "name": 585,
+      "tag": "ATEN",
+      "pts": 19,
+      "villages": 91789
+    }
+  ]
+}
