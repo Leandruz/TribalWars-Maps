@@ -1,5 +1,5 @@
 {
-  "last_update": "13/09/2026 08:46:54",
+  "last_update": "14/09/2026 09:30:29",
   "servers": {
     ".BR": {
       "brs1": {
@@ -54,6 +54,61 @@
           {
             "title": "Ranking Pontos",
             "path": "Resultados/.BR/brs1/Tribes/mapa_top15_tribos_brs1.png"
+          }
+        ]
+      },
+      "brp11": {
+        "name": "BRP11",
+        "players": [
+          {
+            "title": "Dominância K",
+            "path": "Resultados/.BR/brp11/Players/mapa_top15_dominancia_jogadores_K_brp11.png"
+          },
+          {
+            "title": "Ranking Pontos",
+            "path": "Resultados/.BR/brp11/Players/mapa_top15_jogadores_brp11.png"
+          },
+          {
+            "title": "Ranking ODA",
+            "path": "Resultados/.BR/brp11/Players/mapa_top15_oda_jogadores_brp11.png"
+          },
+          {
+            "title": "Ranking ODD",
+            "path": "Resultados/.BR/brp11/Players/mapa_top15_odd_jogadores_brp11.png"
+          },
+          {
+            "title": "Ranking ODS",
+            "path": "Resultados/.BR/brp11/Players/mapa_top15_ods_jogadores_brp11.png"
+          },
+          {
+            "title": "Média de Noblagens",
+            "path": "Resultados/.BR/brp11/Players/mapa_top15_xgoal_jogadores_brp11.png"
+          }
+        ],
+        "tribes": [
+          {
+            "title": "Análise Tática (Dinâmica)",
+            "path": "Resultados/.BR/brp11/Tribes/mapa_conquest_hotspot_brp11.png"
+          },
+          {
+            "title": "Conquistas (24h)",
+            "path": "Resultados/.BR/brp11/Tribes/mapa_top15_conquistas_brp11.png"
+          },
+          {
+            "title": "Dominância K",
+            "path": "Resultados/.BR/brp11/Tribes/mapa_top15_dominancia_K_brp11.png"
+          },
+          {
+            "title": "Ranking ODA",
+            "path": "Resultados/.BR/brp11/Tribes/mapa_top15_oda_tribos_brp11.png"
+          },
+          {
+            "title": "Ranking ODD",
+            "path": "Resultados/.BR/brp11/Tribes/mapa_top15_odd_tribos_brp11.png"
+          },
+          {
+            "title": "Ranking Pontos",
+            "path": "Resultados/.BR/brp11/Tribes/mapa_top15_tribos_brp11.png"
           }
         ]
       },
