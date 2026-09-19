@@ -1,5 +1,5 @@
 {
-  "last_update": "18/09/2026 08:44:09",
+  "last_update": "19/09/2026 08:29:19",
   "servers": {
     ".BR": {
       "brs1": {
@@ -1101,6 +1101,53 @@
           {
             "title": "Ranking Pontos",
             "path": "Resultados/.DS/dec4/Tribes/mapa_top15_tribos_dec4.png"
+          }
+        ]
+      },
+      "dec1": {
+        "name": "DEC1",
+        "players": [
+          {
+            "title": "Dominância K",
+            "path": "Resultados/.DS/dec1/Players/mapa_top15_dominancia_jogadores_K_dec1.png"
+          },
+          {
+            "title": "Ranking Pontos",
+            "path": "Resultados/.DS/dec1/Players/mapa_top15_jogadores_dec1.png"
+          },
+          {
+            "title": "Ranking ODA",
+            "path": "Resultados/.DS/dec1/Players/mapa_top15_oda_jogadores_dec1.png"
+          },
+          {
+            "title": "Ranking ODD",
+            "path": "Resultados/.DS/dec1/Players/mapa_top15_odd_jogadores_dec1.png"
+          },
+          {
+            "title": "Ranking ODS",
+            "path": "Resultados/.DS/dec1/Players/mapa_top15_ods_jogadores_dec1.png"
+          },
+          {
+            "title": "Média de Noblagens",
+            "path": "Resultados/.DS/dec1/Players/mapa_top15_xgoal_jogadores_dec1.png"
+          }
+        ],
+        "tribes": [
+          {
+            "title": "Dominância K",
+            "path": "Resultados/.DS/dec1/Tribes/mapa_top15_dominancia_K_dec1.png"
+          },
+          {
+            "title": "Ranking ODA",
+            "path": "Resultados/.DS/dec1/Tribes/mapa_top15_oda_tribos_dec1.png"
+          },
+          {
+            "title": "Ranking ODD",
+            "path": "Resultados/.DS/dec1/Tribes/mapa_top15_odd_tribos_dec1.png"
+          },
+          {
+            "title": "Ranking Pontos",
+            "path": "Resultados/.DS/dec1/Tribes/mapa_top15_tribos_dec1.png"
           }
         ]
       },
