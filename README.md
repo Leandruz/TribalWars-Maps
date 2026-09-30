@@ -8,7 +8,7 @@ Sistema automático de geração de infográficos de guerra para o jogo TribalWa
 
 ## 🚀 Como Funciona?
 
-O projeto utiliza a API oficial da InnoGames para capturar dados em tempo real e gera mapas de alta definição:
+O projeto utiliza a base de dados (arquivos do jogo) oficial da InnoGames para capturar dados em tempo real e gera mapas de alta definição:
 
 - **Top 15 Famílias/Jogadores**: Rankings por Pontos, ODA, ODD, ODS e Dominância (K).
 - **Relatório de Conquistas**: Rastreamento de noblagens das últimas 24h.
