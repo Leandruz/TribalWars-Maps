@@ -1,0 +1,38 @@
+{
+  "players": [
+    {
+      "rank": 1516,
+      "name": 919183919,
+      "pts": 1,
+      "villages": 1
+    },
+    {
+      "rank": 965,
+      "name": 7380225,
+      "pts": 1,
+      "villages": 2
+    },
+    {
+      "rank": 71,
+      "name": 919683630,
+      "pts": 1,
+      "villages": 0
+    }
+  ],
+  "tribes": [
+    {
+      "rank": 1516,
+      "name": 1,
+      "tag": "teste",
+      "pts": 1,
+      "villages": 1516
+    },
+    {
+      "rank": 965,
+      "name": 2,
+      "tag": "AAAA",
+      "pts": 1,
+      "villages": 965
+    }
+  ]
+}
