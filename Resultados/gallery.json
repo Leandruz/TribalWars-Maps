@@ -1,5 +1,5 @@
 {
-  "last_update": "07/10/2026 10:48:05",
+  "last_update": "08/10/2026 11:09:47",
   "servers": {
     ".BR": {
       "brs1": {
@@ -219,6 +219,100 @@
           {
             "title": "Ranking Pontos",
             "path": "Resultados/.BR/brc2/Tribes/mapa_top15_tribos_brc2.png"
+          }
+        ]
+      },
+      "br146": {
+        "name": "BR146",
+        "players": [
+          {
+            "title": "Dominância K",
+            "path": "Resultados/.BR/br146/Players/mapa_top15_dominancia_jogadores_K_br146.png"
+          },
+          {
+            "title": "Ranking Pontos",
+            "path": "Resultados/.BR/br146/Players/mapa_top15_jogadores_br146.png"
+          },
+          {
+            "title": "Ranking ODA",
+            "path": "Resultados/.BR/br146/Players/mapa_top15_oda_jogadores_br146.png"
+          },
+          {
+            "title": "Ranking ODD",
+            "path": "Resultados/.BR/br146/Players/mapa_top15_odd_jogadores_br146.png"
+          },
+          {
+            "title": "Ranking ODS",
+            "path": "Resultados/.BR/br146/Players/mapa_top15_ods_jogadores_br146.png"
+          },
+          {
+            "title": "Média de Noblagens",
+            "path": "Resultados/.BR/br146/Players/mapa_top15_xgoal_jogadores_br146.png"
+          }
+        ],
+        "tribes": [
+          {
+            "title": "Dominância K",
+            "path": "Resultados/.BR/br146/Tribes/mapa_top15_dominancia_K_br146.png"
+          },
+          {
+            "title": "Ranking ODA",
+            "path": "Resultados/.BR/br146/Tribes/mapa_top15_oda_tribos_br146.png"
+          },
+          {
+            "title": "Ranking ODD",
+            "path": "Resultados/.BR/br146/Tribes/mapa_top15_odd_tribos_br146.png"
+          },
+          {
+            "title": "Ranking Pontos",
+            "path": "Resultados/.BR/br146/Tribes/mapa_top15_tribos_br146.png"
+          }
+        ]
+      },
+      "br145": {
+        "name": "BR145",
+        "players": [
+          {
+            "title": "Dominância K",
+            "path": "Resultados/.BR/br145/Players/mapa_top15_dominancia_jogadores_K_br145.png"
+          },
+          {
+            "title": "Ranking Pontos",
+            "path": "Resultados/.BR/br145/Players/mapa_top15_jogadores_br145.png"
+          },
+          {
+            "title": "Ranking ODA",
+            "path": "Resultados/.BR/br145/Players/mapa_top15_oda_jogadores_br145.png"
+          },
+          {
+            "title": "Ranking ODD",
+            "path": "Resultados/.BR/br145/Players/mapa_top15_odd_jogadores_br145.png"
+          },
+          {
+            "title": "Ranking ODS",
+            "path": "Resultados/.BR/br145/Players/mapa_top15_ods_jogadores_br145.png"
+          },
+          {
+            "title": "Média de Noblagens",
+            "path": "Resultados/.BR/br145/Players/mapa_top15_xgoal_jogadores_br145.png"
+          }
+        ],
+        "tribes": [
+          {
+            "title": "Dominância K",
+            "path": "Resultados/.BR/br145/Tribes/mapa_top15_dominancia_K_br145.png"
+          },
+          {
+            "title": "Ranking ODA",
+            "path": "Resultados/.BR/br145/Tribes/mapa_top15_oda_tribos_br145.png"
+          },
+          {
+            "title": "Ranking ODD",
+            "path": "Resultados/.BR/br145/Tribes/mapa_top15_odd_tribos_br145.png"
+          },
+          {
+            "title": "Ranking Pontos",
+            "path": "Resultados/.BR/br145/Tribes/mapa_top15_tribos_br145.png"
           }
         ]
       },
@@ -1156,6 +1250,100 @@
           {
             "title": "Ranking Pontos",
             "path": "Resultados/.DS/dec1/Tribes/mapa_top15_tribos_dec1.png"
+          }
+        ]
+      },
+      "de261": {
+        "name": "DE261",
+        "players": [
+          {
+            "title": "Dominância K",
+            "path": "Resultados/.DS/de261/Players/mapa_top15_dominancia_jogadores_K_de261.png"
+          },
+          {
+            "title": "Ranking Pontos",
+            "path": "Resultados/.DS/de261/Players/mapa_top15_jogadores_de261.png"
+          },
+          {
+            "title": "Ranking ODA",
+            "path": "Resultados/.DS/de261/Players/mapa_top15_oda_jogadores_de261.png"
+          },
+          {
+            "title": "Ranking ODD",
+            "path": "Resultados/.DS/de261/Players/mapa_top15_odd_jogadores_de261.png"
+          },
+          {
+            "title": "Ranking ODS",
+            "path": "Resultados/.DS/de261/Players/mapa_top15_ods_jogadores_de261.png"
+          },
+          {
+            "title": "Média de Noblagens",
+            "path": "Resultados/.DS/de261/Players/mapa_top15_xgoal_jogadores_de261.png"
+          }
+        ],
+        "tribes": [
+          {
+            "title": "Dominância K",
+            "path": "Resultados/.DS/de261/Tribes/mapa_top15_dominancia_K_de261.png"
+          },
+          {
+            "title": "Ranking ODA",
+            "path": "Resultados/.DS/de261/Tribes/mapa_top15_oda_tribos_de261.png"
+          },
+          {
+            "title": "Ranking ODD",
+            "path": "Resultados/.DS/de261/Tribes/mapa_top15_odd_tribos_de261.png"
+          },
+          {
+            "title": "Ranking Pontos",
+            "path": "Resultados/.DS/de261/Tribes/mapa_top15_tribos_de261.png"
+          }
+        ]
+      },
+      "de260": {
+        "name": "DE260",
+        "players": [
+          {
+            "title": "Dominância K",
+            "path": "Resultados/.DS/de260/Players/mapa_top15_dominancia_jogadores_K_de260.png"
+          },
+          {
+            "title": "Ranking Pontos",
+            "path": "Resultados/.DS/de260/Players/mapa_top15_jogadores_de260.png"
+          },
+          {
+            "title": "Ranking ODA",
+            "path": "Resultados/.DS/de260/Players/mapa_top15_oda_jogadores_de260.png"
+          },
+          {
+            "title": "Ranking ODD",
+            "path": "Resultados/.DS/de260/Players/mapa_top15_odd_jogadores_de260.png"
+          },
+          {
+            "title": "Ranking ODS",
+            "path": "Resultados/.DS/de260/Players/mapa_top15_ods_jogadores_de260.png"
+          },
+          {
+            "title": "Média de Noblagens",
+            "path": "Resultados/.DS/de260/Players/mapa_top15_xgoal_jogadores_de260.png"
+          }
+        ],
+        "tribes": [
+          {
+            "title": "Dominância K",
+            "path": "Resultados/.DS/de260/Tribes/mapa_top15_dominancia_K_de260.png"
+          },
+          {
+            "title": "Ranking ODA",
+            "path": "Resultados/.DS/de260/Tribes/mapa_top15_oda_tribos_de260.png"
+          },
+          {
+            "title": "Ranking ODD",
+            "path": "Resultados/.DS/de260/Tribes/mapa_top15_odd_tribos_de260.png"
+          },
+          {
+            "title": "Ranking Pontos",
+            "path": "Resultados/.DS/de260/Tribes/mapa_top15_tribos_de260.png"
           }
         ]
       },
@@ -3305,6 +3493,53 @@
           {
             "title": "Ranking Pontos",
             "path": "Resultados/.PT/ptc1/Tribes/mapa_top15_tribos_ptc1.png"
+          }
+        ]
+      },
+      "pt118": {
+        "name": "PT118",
+        "players": [
+          {
+            "title": "Dominância K",
+            "path": "Resultados/.PT/pt118/Players/mapa_top15_dominancia_jogadores_K_pt118.png"
+          },
+          {
+            "title": "Ranking Pontos",
+            "path": "Resultados/.PT/pt118/Players/mapa_top15_jogadores_pt118.png"
+          },
+          {
+            "title": "Ranking ODA",
+            "path": "Resultados/.PT/pt118/Players/mapa_top15_oda_jogadores_pt118.png"
+          },
+          {
+            "title": "Ranking ODD",
+            "path": "Resultados/.PT/pt118/Players/mapa_top15_odd_jogadores_pt118.png"
+          },
+          {
+            "title": "Ranking ODS",
+            "path": "Resultados/.PT/pt118/Players/mapa_top15_ods_jogadores_pt118.png"
+          },
+          {
+            "title": "Média de Noblagens",
+            "path": "Resultados/.PT/pt118/Players/mapa_top15_xgoal_jogadores_pt118.png"
+          }
+        ],
+        "tribes": [
+          {
+            "title": "Dominância K",
+            "path": "Resultados/.PT/pt118/Tribes/mapa_top15_dominancia_K_pt118.png"
+          },
+          {
+            "title": "Ranking ODA",
+            "path": "Resultados/.PT/pt118/Tribes/mapa_top15_oda_tribos_pt118.png"
+          },
+          {
+            "title": "Ranking ODD",
+            "path": "Resultados/.PT/pt118/Tribes/mapa_top15_odd_tribos_pt118.png"
+          },
+          {
+            "title": "Ranking Pontos",
+            "path": "Resultados/.PT/pt118/Tribes/mapa_top15_tribos_pt118.png"
           }
         ]
       },
