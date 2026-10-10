@@ -1,5 +1,5 @@
 {
-  "last_update": "09/10/2026 11:09:08",
+  "last_update": "10/10/2026 10:20:38",
   "servers": {
     ".BR": {
       "brs1": {
@@ -251,6 +251,14 @@
           }
         ],
         "tribes": [
+          {
+            "title": "Análise Tática (Dinâmica)",
+            "path": "Resultados/.BR/br146/Tribes/mapa_conquest_hotspot_br146.png"
+          },
+          {
+            "title": "Conquistas (24h)",
+            "path": "Resultados/.BR/br146/Tribes/mapa_top15_conquistas_br146.png"
+          },
           {
             "title": "Dominância K",
             "path": "Resultados/.BR/br146/Tribes/mapa_top15_dominancia_K_br146.png"
@@ -3572,6 +3580,14 @@
           }
         ],
         "tribes": [
+          {
+            "title": "Análise Tática (Dinâmica)",
+            "path": "Resultados/.PT/pt118/Tribes/mapa_conquest_hotspot_pt118.png"
+          },
+          {
+            "title": "Conquistas (24h)",
+            "path": "Resultados/.PT/pt118/Tribes/mapa_top15_conquistas_pt118.png"
+          },
           {
             "title": "Dominância K",
             "path": "Resultados/.PT/pt118/Tribes/mapa_top15_dominancia_K_pt118.png"
