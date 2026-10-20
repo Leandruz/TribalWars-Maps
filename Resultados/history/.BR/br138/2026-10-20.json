@@ -1,0 +1,656 @@
+{
+  "players": [
+    {
+      "rank": 30947511,
+      "name": 919940016,
+      "pts": 2550,
+      "villages": 7
+    },
+    {
+      "rank": 30107026,
+      "name": 918763227,
+      "pts": 2508,
+      "villages": 7
+    },
+    {
+      "rank": 25850020,
+      "name": 919866147,
+      "pts": 2145,
+      "villages": 7
+    },
+    {
+      "rank": 22164445,
+      "name": 918916774,
+      "pts": 1828,
+      "villages": 7
+    },
+    {
+      "rank": 19181194,
+      "name": 918660220,
+      "pts": 1884,
+      "villages": 7
+    },
+    {
+      "rank": 18546209,
+      "name": 919485653,
+      "pts": 1527,
+      "villages": 7
+    },
+    {
+      "rank": 18405833,
+      "name": 919950330,
+      "pts": 1518,
+      "villages": 7
+    },
+    {
+      "rank": 18387028,
+      "name": 919955575,
+      "pts": 1545,
+      "villages": 7
+    },
+    {
+      "rank": 16952729,
+      "name": 919956320,
+      "pts": 1401,
+      "villages": 7
+    },
+    {
+      "rank": 16873832,
+      "name": 919698735,
+      "pts": 1408,
+      "villages": 7
+    },
+    {
+      "rank": 16475053,
+      "name": 5437231,
+      "pts": 1379,
+      "villages": 7
+    },
+    {
+      "rank": 15912157,
+      "name": 919364333,
+      "pts": 1395,
+      "villages": 7
+    },
+    {
+      "rank": 15637485,
+      "name": 919789448,
+      "pts": 1416,
+      "villages": 43
+    },
+    {
+      "rank": 15422523,
+      "name": 919685196,
+      "pts": 1334,
+      "villages": 7
+    },
+    {
+      "rank": 15420231,
+      "name": 7460366,
+      "pts": 1441,
+      "villages": 7
+    },
+    {
+      "rank": 14460839,
+      "name": 919376272,
+      "pts": 1304,
+      "villages": 7
+    },
+    {
+      "rank": 14331029,
+      "name": 919930033,
+      "pts": 1219,
+      "villages": 7
+    },
+    {
+      "rank": 14251052,
+      "name": 918974927,
+      "pts": 1190,
+      "villages": 7
+    },
+    {
+      "rank": 14234689,
+      "name": 919788259,
+      "pts": 1213,
+      "villages": 7
+    },
+    {
+      "rank": 13678499,
+      "name": 919221372,
+      "pts": 1170,
+      "villages": 7
+    },
+    {
+      "rank": 13486464,
+      "name": 919779393,
+      "pts": 1293,
+      "villages": 7
+    },
+    {
+      "rank": 13265441,
+      "name": 919823909,
+      "pts": 1220,
+      "villages": 7
+    },
+    {
+      "rank": 12903081,
+      "name": 919224403,
+      "pts": 1103,
+      "villages": 7
+    },
+    {
+      "rank": 12786588,
+      "name": 919958056,
+      "pts": 1076,
+      "villages": 7
+    },
+    {
+      "rank": 12733833,
+      "name": 919957568,
+      "pts": 1197,
+      "villages": 7
+    },
+    {
+      "rank": 12643384,
+      "name": 919872532,
+      "pts": 1052,
+      "villages": 7
+    },
+    {
+      "rank": 12286574,
+      "name": 919950530,
+      "pts": 1174,
+      "villages": 7
+    },
+    {
+      "rank": 12151311,
+      "name": 7421655,
+      "pts": 1100,
+      "villages": 7
+    },
+    {
+      "rank": 12111099,
+      "name": 919858719,
+      "pts": 1110,
+      "villages": 7
+    },
+    {
+      "rank": 11993537,
+      "name": 7568417,
+      "pts": 1168,
+      "villages": 43
+    },
+    {
+      "rank": 11984937,
+      "name": 919505784,
+      "pts": 999,
+      "villages": 7
+    },
+    {
+      "rank": 11968189,
+      "name": 919805474,
+      "pts": 989,
+      "villages": 0
+    },
+    {
+      "rank": 11862410,
+      "name": 919110496,
+      "pts": 1053,
+      "villages": 7
+    },
+    {
+      "rank": 11726950,
+      "name": 919827796,
+      "pts": 1083,
+      "villages": 7
+    },
+    {
+      "rank": 11694202,
+      "name": 919958459,
+      "pts": 972,
+      "villages": 7
+    },
+    {
+      "rank": 11367875,
+      "name": 8071150,
+      "pts": 983,
+      "villages": 7
+    },
+    {
+      "rank": 11352496,
+      "name": 7140372,
+      "pts": 962,
+      "villages": 7
+    },
+    {
+      "rank": 11328933,
+      "name": 919827042,
+      "pts": 950,
+      "villages": 7
+    },
+    {
+      "rank": 11109170,
+      "name": 647896,
+      "pts": 1080,
+      "villages": 530
+    },
+    {
+      "rank": 11049575,
+      "name": 7673523,
+      "pts": 995,
+      "villages": 7
+    },
+    {
+      "rank": 11010516,
+      "name": 919697783,
+      "pts": 908,
+      "villages": 530
+    },
+    {
+      "rank": 10970349,
+      "name": 919024571,
+      "pts": 990,
+      "villages": 7
+    },
+    {
+      "rank": 10709623,
+      "name": 919261198,
+      "pts": 1056,
+      "villages": 530
+    },
+    {
+      "rank": 10664445,
+      "name": 919842713,
+      "pts": 976,
+      "villages": 7
+    },
+    {
+      "rank": 10188704,
+      "name": 919682189,
+      "pts": 855,
+      "villages": 7
+    },
+    {
+      "rank": 10059478,
+      "name": 919961695,
+      "pts": 952,
+      "villages": 7
+    },
+    {
+      "rank": 10004053,
+      "name": 6664497,
+      "pts": 870,
+      "villages": 7
+    },
+    {
+      "rank": 9912438,
+      "name": 919113246,
+      "pts": 983,
+      "villages": 7
+    },
+    {
+      "rank": 9648980,
+      "name": 919834951,
+      "pts": 919,
+      "villages": 7
+    },
+    {
+      "rank": 9591399,
+      "name": 919955272,
+      "pts": 940,
+      "villages": 7
+    }
+  ],
+  "tribes": [
+    {
+      "rank": 759349398,
+      "name": 7,
+      "tag": "CROCODILO",
+      "pts": 58,
+      "villages": 600220028
+    },
+    {
+      "rank": 94876628,
+      "name": 559,
+      "tag": "CROCODILOOS AEY",
+      "pts": 24,
+      "villages": 94876628
+    },
+    {
+      "rank": 70947829,
+      "name": 530,
+      "tag": "Snakes: A Sociedade do Véu Negro",
+      "pts": 52,
+      "villages": 69963109
+    },
+    {
+      "rank": 54969821,
+      "name": 764,
+      "tag": "The Nomads",
+      "pts": 19,
+      "villages": 54969821
+    },
+    {
+      "rank": 46202027,
+      "name": 43,
+      "tag": "CROCODILO LESTE",
+      "pts": 5,
+      "villages": 46202027
+    },
+    {
+      "rank": 31301374,
+      "name": 710,
+      "tag": "LENDAS DA CROCO",
+      "pts": 16,
+      "villages": 31301374
+    },
+    {
+      "rank": 15862929,
+      "name": 50,
+      "tag": "Centro de Atenção Psicosocial...",
+      "pts": 10,
+      "villages": 15862929
+    },
+    {
+      "rank": 4849841,
+      "name": 1046,
+      "tag": "FOLHA",
+      "pts": 17,
+      "villages": 4849841
+    },
+    {
+      "rank": 2754633,
+      "name": 823,
+      "tag": "THE LAST",
+      "pts": 1,
+      "villages": 2754633
+    },
+    {
+      "rank": 948627,
+      "name": 1116,
+      "tag": "Cobrinhas Prime",
+      "pts": 27,
+      "villages": 948627
+    },
+    {
+      "rank": 1034015,
+      "name": 1252,
+      "tag": "Cemitério da KOT",
+      "pts": 1,
+      "villages": 1034015
+    },
+    {
+      "rank": 299298,
+      "name": 124,
+      "tag": "Império Romano",
+      "pts": 1,
+      "villages": 299298
+    },
+    {
+      "rank": 516091,
+      "name": 171,
+      "tag": "LOBOS",
+      "pts": 1,
+      "villages": 516091
+    },
+    {
+      "rank": 214017,
+      "name": 280,
+      "tag": "NÔMADES DA PRAGA²",
+      "pts": 51,
+      "villages": 211897
+    },
+    {
+      "rank": 280019,
+      "name": 899,
+      "tag": "Amigos do shaka²",
+      "pts": 1,
+      "villages": 280019
+    },
+    {
+      "rank": 256092,
+      "name": 1255,
+      "tag": "Legends of Continent 67 (End)",
+      "pts": 3,
+      "villages": 256092
+    },
+    {
+      "rank": 321664,
+      "name": 520,
+      "tag": "Relicários",
+      "pts": 1,
+      "villages": 321664
+    },
+    {
+      "rank": 330995,
+      "name": 1145,
+      "tag": "Gordos Nerds e Virgens",
+      "pts": 1,
+      "villages": 330995
+    },
+    {
+      "rank": 332932,
+      "name": 461,
+      "tag": "Metaleiros de Plantão",
+      "pts": 1,
+      "villages": 332932
+    },
+    {
+      "rank": 307439,
+      "name": 616,
+      "tag": "Rocky",
+      "pts": 1,
+      "villages": 307439
+    },
+    {
+      "rank": 103049,
+      "name": 1059,
+      "tag": "Yakuza BR23",
+      "pts": 30,
+      "villages": 103049
+    },
+    {
+      "rank": 67682,
+      "name": 1260,
+      "tag": "Funeral Pyre",
+      "pts": 1,
+      "villages": 67682
+    },
+    {
+      "rank": 119955,
+      "name": 472,
+      "tag": "MATADORES",
+      "pts": 6,
+      "villages": 119955
+    },
+    {
+      "rank": 244590,
+      "name": 1239,
+      "tag": "ED SENPAI",
+      "pts": 26,
+      "villages": 244590
+    },
+    {
+      "rank": 74684,
+      "name": 134,
+      "tag": "BOPE+ AKT",
+      "pts": 1,
+      "villages": 74684
+    },
+    {
+      "rank": 225071,
+      "name": 1249,
+      "tag": "EDINHO2",
+      "pts": 24,
+      "villages": 225071
+    },
+    {
+      "rank": 195271,
+      "name": 1237,
+      "tag": "Clube do ED",
+      "pts": 23,
+      "villages": 195271
+    },
+    {
+      "rank": 73290,
+      "name": 910,
+      "tag": "Nova Ordem Mundial",
+      "pts": 1,
+      "villages": 73290
+    },
+    {
+      "rank": 173226,
+      "name": 648,
+      "tag": "CROC",
+      "pts": 1,
+      "villages": 173226
+    },
+    {
+      "rank": 121282,
+      "name": 1259,
+      "tag": "O último dos mortais",
+      "pts": 1,
+      "villages": 121282
+    },
+    {
+      "rank": 98128,
+      "name": 1248,
+      "tag": "EDINHO1",
+      "pts": 12,
+      "villages": 98128
+    },
+    {
+      "rank": 28674,
+      "name": 1220,
+      "tag": "CAVALEIROS",
+      "pts": 1,
+      "villages": 28674
+    },
+    {
+      "rank": 62315,
+      "name": 725,
+      "tag": "Clã da Água Turva",
+      "pts": 1,
+      "villages": 62315
+    },
+    {
+      "rank": 27071,
+      "name": 1163,
+      "tag": "positivo",
+      "pts": 1,
+      "villages": 27071
+    },
+    {
+      "rank": 26100,
+      "name": 1005,
+      "tag": "CROCODILO BANGUELA",
+      "pts": 1,
+      "villages": 26100
+    },
+    {
+      "rank": 16626,
+      "name": 1077,
+      "tag": "LOBINHO",
+      "pts": 1,
+      "villages": 16626
+    },
+    {
+      "rank": 54730,
+      "name": 263,
+      "tag": "Casa da Mãe Joana 1",
+      "pts": 1,
+      "villages": 54730
+    },
+    {
+      "rank": 11641,
+      "name": 1214,
+      "tag": "Os Tuguinhas",
+      "pts": 1,
+      "villages": 11641
+    },
+    {
+      "rank": 23059,
+      "name": 1156,
+      "tag": "YYYY",
+      "pts": 3,
+      "villages": 23059
+    },
+    {
+      "rank": 21766,
+      "name": 1251,
+      "tag": "kobrinha1",
+      "pts": 2,
+      "villages": 21766
+    },
+    {
+      "rank": 18337,
+      "name": 1,
+      "tag": "Centro de Atenção Psicosocial",
+      "pts": 2,
+      "villages": 18337
+    },
+    {
+      "rank": 2376,
+      "name": 715,
+      "tag": "[HONRA]",
+      "pts": 1,
+      "villages": 2376
+    },
+    {
+      "rank": 3744,
+      "name": 1110,
+      "tag": "ELTER LENDÁRIO!",
+      "pts": 1,
+      "villages": 3744
+    },
+    {
+      "rank": 12693,
+      "name": 1075,
+      "tag": "ODiN",
+      "pts": 1,
+      "villages": 12693
+    },
+    {
+      "rank": 3613,
+      "name": 1241,
+      "tag": "Yakuza 2",
+      "pts": 2,
+      "villages": 3613
+    },
+    {
+      "rank": 7606,
+      "name": 439,
+      "tag": "Casa da Mãe Joana 2",
+      "pts": 1,
+      "villages": 7606
+    },
+    {
+      "rank": 8753,
+      "name": 10,
+      "tag": "LORDES DO DESTINO",
+      "pts": 1,
+      "villages": 8753
+    },
+    {
+      "rank": 3125,
+      "name": 838,
+      "tag": "quad",
+      "pts": 1,
+      "villages": 3125
+    },
+    {
+      "rank": 2008,
+      "name": 264,
+      "tag": "usvéio",
+      "pts": 1,
+      "villages": 2008
+    },
+    {
+      "rank": 0,
+      "name": 1242,
+      "tag": "PANGARÉ",
+      "pts": 1,
+      "villages": 0
+    }
+  ]
+}
