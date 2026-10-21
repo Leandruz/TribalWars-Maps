@@ -1,0 +1,32 @@
+{
+  "players": [
+    {
+      "rank": 3933,
+      "name": 919626796,
+      "pts": 1,
+      "villages": 1
+    },
+    {
+      "rank": 2654,
+      "name": 919876588,
+      "pts": 1,
+      "villages": 2
+    }
+  ],
+  "tribes": [
+    {
+      "rank": 2654,
+      "name": 2,
+      "tag": "QUE SERVIDOR HORRIVEL",
+      "pts": 1,
+      "villages": 2654
+    },
+    {
+      "rank": 3933,
+      "name": 1,
+      "tag": "kwak",
+      "pts": 1,
+      "villages": 3933
+    }
+  ]
+}
