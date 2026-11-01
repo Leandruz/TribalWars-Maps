@@ -1,0 +1,656 @@
+{
+  "players": [
+    {
+      "rank": 19483546,
+      "name": 8927127,
+      "pts": 1897,
+      "villages": 21
+    },
+    {
+      "rank": 15575909,
+      "name": 1577214596,
+      "pts": 1968,
+      "villages": 18
+    },
+    {
+      "rank": 14633539,
+      "name": 9544769,
+      "pts": 1432,
+      "villages": 18
+    },
+    {
+      "rank": 13338986,
+      "name": 2972046,
+      "pts": 1281,
+      "villages": 21
+    },
+    {
+      "rank": 11660735,
+      "name": 1577484474,
+      "pts": 1235,
+      "villages": 21
+    },
+    {
+      "rank": 11626642,
+      "name": 1576491434,
+      "pts": 1388,
+      "villages": 21
+    },
+    {
+      "rank": 10475400,
+      "name": 1577422997,
+      "pts": 1144,
+      "villages": 54
+    },
+    {
+      "rank": 9124474,
+      "name": 1577321151,
+      "pts": 964,
+      "villages": 18
+    },
+    {
+      "rank": 8302938,
+      "name": 1211,
+      "pts": 1117,
+      "villages": 18
+    },
+    {
+      "rank": 7962254,
+      "name": 663711,
+      "pts": 800,
+      "villages": 18
+    },
+    {
+      "rank": 7238416,
+      "name": 1576979193,
+      "pts": 903,
+      "villages": 21
+    },
+    {
+      "rank": 6783009,
+      "name": 1576435917,
+      "pts": 679,
+      "villages": 18
+    },
+    {
+      "rank": 6766228,
+      "name": 2944962,
+      "pts": 750,
+      "villages": 54
+    },
+    {
+      "rank": 6331557,
+      "name": 1577382950,
+      "pts": 572,
+      "villages": 54
+    },
+    {
+      "rank": 6169312,
+      "name": 1577403419,
+      "pts": 617,
+      "villages": 54
+    },
+    {
+      "rank": 5956574,
+      "name": 1577010966,
+      "pts": 693,
+      "villages": 18
+    },
+    {
+      "rank": 5899826,
+      "name": 1575996358,
+      "pts": 727,
+      "villages": 54
+    },
+    {
+      "rank": 5589535,
+      "name": 10192925,
+      "pts": 512,
+      "villages": 21
+    },
+    {
+      "rank": 5492543,
+      "name": 1577452009,
+      "pts": 537,
+      "villages": 21
+    },
+    {
+      "rank": 5472369,
+      "name": 1576475933,
+      "pts": 612,
+      "villages": 21
+    },
+    {
+      "rank": 5219534,
+      "name": 1576057874,
+      "pts": 543,
+      "villages": 18
+    },
+    {
+      "rank": 5068342,
+      "name": 1577321222,
+      "pts": 489,
+      "villages": 18
+    },
+    {
+      "rank": 4953795,
+      "name": 9541583,
+      "pts": 866,
+      "villages": 21
+    },
+    {
+      "rank": 4881256,
+      "name": 2327236,
+      "pts": 698,
+      "villages": 21
+    },
+    {
+      "rank": 4753146,
+      "name": 1577286275,
+      "pts": 462,
+      "villages": 28
+    },
+    {
+      "rank": 4699146,
+      "name": 1576506923,
+      "pts": 468,
+      "villages": 21
+    },
+    {
+      "rank": 4627361,
+      "name": 1807708,
+      "pts": 484,
+      "villages": 18
+    },
+    {
+      "rank": 4612048,
+      "name": 1577216559,
+      "pts": 454,
+      "villages": 18
+    },
+    {
+      "rank": 4602478,
+      "name": 1576163673,
+      "pts": 718,
+      "villages": 18
+    },
+    {
+      "rank": 4551646,
+      "name": 1576450468,
+      "pts": 827,
+      "villages": 18
+    },
+    {
+      "rank": 4231103,
+      "name": 1577150723,
+      "pts": 437,
+      "villages": 21
+    },
+    {
+      "rank": 4194957,
+      "name": 1577077942,
+      "pts": 420,
+      "villages": 54
+    },
+    {
+      "rank": 4082904,
+      "name": 1576005182,
+      "pts": 517,
+      "villages": 21
+    },
+    {
+      "rank": 3834417,
+      "name": 1577108278,
+      "pts": 385,
+      "villages": 21
+    },
+    {
+      "rank": 3725829,
+      "name": 1577399767,
+      "pts": 371,
+      "villages": 54
+    },
+    {
+      "rank": 3234546,
+      "name": 1577432124,
+      "pts": 362,
+      "villages": 18
+    },
+    {
+      "rank": 3189556,
+      "name": 8513790,
+      "pts": 325,
+      "villages": 21
+    },
+    {
+      "rank": 2995390,
+      "name": 9768272,
+      "pts": 571,
+      "villages": 41
+    },
+    {
+      "rank": 2815288,
+      "name": 1577269554,
+      "pts": 358,
+      "villages": 21
+    },
+    {
+      "rank": 2621532,
+      "name": 3016955,
+      "pts": 308,
+      "villages": 18
+    },
+    {
+      "rank": 2452068,
+      "name": 1577441533,
+      "pts": 242,
+      "villages": 21
+    },
+    {
+      "rank": 2427195,
+      "name": 8370596,
+      "pts": 494,
+      "villages": 41
+    },
+    {
+      "rank": 2283644,
+      "name": 257785,
+      "pts": 222,
+      "villages": 597
+    },
+    {
+      "rank": 2192393,
+      "name": 1577064397,
+      "pts": 318,
+      "villages": 18
+    },
+    {
+      "rank": 2143435,
+      "name": 1577183691,
+      "pts": 211,
+      "villages": 18
+    },
+    {
+      "rank": 1925151,
+      "name": 2051862,
+      "pts": 225,
+      "villages": 191
+    },
+    {
+      "rank": 1878435,
+      "name": 1576651635,
+      "pts": 193,
+      "villages": 77
+    },
+    {
+      "rank": 1871678,
+      "name": 1577384888,
+      "pts": 205,
+      "villages": 32
+    },
+    {
+      "rank": 1740587,
+      "name": 1577076020,
+      "pts": 174,
+      "villages": 27
+    },
+    {
+      "rank": 1730770,
+      "name": 1577157759,
+      "pts": 172,
+      "villages": 41
+    }
+  ],
+  "tribes": [
+    {
+      "rank": 117746931,
+      "name": 21,
+      "tag": "High und Hungrig",
+      "pts": 22,
+      "villages": 117746931
+    },
+    {
+      "rank": 109246405,
+      "name": 18,
+      "tag": "Noot Troll Edition",
+      "pts": 20,
+      "villages": 109246405
+    },
+    {
+      "rank": 48128723,
+      "name": 54,
+      "tag": "Schafmelker",
+      "pts": 13,
+      "villages": 48128723
+    },
+    {
+      "rank": 14364569,
+      "name": 41,
+      "tag": "Casual All-Stars",
+      "pts": 12,
+      "villages": 14364569
+    },
+    {
+      "rank": 12867670,
+      "name": 44,
+      "tag": "GeldspieltkeineRolex",
+      "pts": 20,
+      "villages": 12867670
+    },
+    {
+      "rank": 17860061,
+      "name": 191,
+      "tag": "Panther",
+      "pts": 25,
+      "villages": 17860061
+    },
+    {
+      "rank": 16356259,
+      "name": 77,
+      "tag": "Bockwurstbowle",
+      "pts": 24,
+      "villages": 16356259
+    },
+    {
+      "rank": 13294800,
+      "name": 32,
+      "tag": "DieUnendlicheGeschichteDerGilde",
+      "pts": 25,
+      "villages": 13294800
+    },
+    {
+      "rank": 9062844,
+      "name": 15,
+      "tag": "WIDERSTAND",
+      "pts": 17,
+      "villages": 9062844
+    },
+    {
+      "rank": 7257688,
+      "name": 155,
+      "tag": "GeldspieltkeineRolex.",
+      "pts": 18,
+      "villages": 7257688
+    },
+    {
+      "rank": 4484117,
+      "name": 122,
+      "tag": "Murmel",
+      "pts": 20,
+      "villages": 4484117
+    },
+    {
+      "rank": 7863575,
+      "name": 140,
+      "tag": "-The Cool Bean-",
+      "pts": 15,
+      "villages": 7863575
+    },
+    {
+      "rank": 6956599,
+      "name": 28,
+      "tag": "Whisky",
+      "pts": 7,
+      "villages": 6956599
+    },
+    {
+      "rank": 6541837,
+      "name": 439,
+      "tag": "Sauhaufen",
+      "pts": 23,
+      "villages": 6541837
+    },
+    {
+      "rank": 6403987,
+      "name": 27,
+      "tag": "DuckTales",
+      "pts": 19,
+      "villages": 6403987
+    },
+    {
+      "rank": 5179789,
+      "name": 131,
+      "tag": "GildAlon",
+      "pts": 19,
+      "villages": 5179789
+    },
+    {
+      "rank": 4312696,
+      "name": 493,
+      "tag": "Kampfeinheit Eichhörnchen",
+      "pts": 17,
+      "villages": 4312696
+    },
+    {
+      "rank": 2729307,
+      "name": 35,
+      "tag": "KnockOut",
+      "pts": 11,
+      "villages": 2729307
+    },
+    {
+      "rank": 2342016,
+      "name": 597,
+      "tag": "Cologne",
+      "pts": 2,
+      "villages": 2342016
+    },
+    {
+      "rank": 2026332,
+      "name": 193,
+      "tag": "Turma Invicta",
+      "pts": 21,
+      "villages": 2026332
+    },
+    {
+      "rank": 1943173,
+      "name": 443,
+      "tag": "DieLetzteBastion",
+      "pts": 23,
+      "villages": 1943173
+    },
+    {
+      "rank": 1575568,
+      "name": 106,
+      "tag": "TeamworkPlus",
+      "pts": 25,
+      "villages": 1575568
+    },
+    {
+      "rank": 1620896,
+      "name": 65,
+      "tag": "Die Schwarze Garde",
+      "pts": 17,
+      "villages": 1620896
+    },
+    {
+      "rank": 1306553,
+      "name": 434,
+      "tag": "Riders in the Sky",
+      "pts": 12,
+      "villages": 1306553
+    },
+    {
+      "rank": 1107575,
+      "name": 25,
+      "tag": "Freunde",
+      "pts": 19,
+      "villages": 1107575
+    },
+    {
+      "rank": 1074391,
+      "name": 379,
+      "tag": "GERECHTIGKEIT",
+      "pts": 25,
+      "villages": 1074391
+    },
+    {
+      "rank": 1070192,
+      "name": 47,
+      "tag": "BIENEN",
+      "pts": 16,
+      "villages": 1070192
+    },
+    {
+      "rank": 850276,
+      "name": 112,
+      "tag": "Kreuzritter",
+      "pts": 16,
+      "villages": 850276
+    },
+    {
+      "rank": 877880,
+      "name": 189,
+      "tag": "Stern des Südens",
+      "pts": 12,
+      "villages": 877880
+    },
+    {
+      "rank": 771782,
+      "name": 109,
+      "tag": "Flaggentauschclub",
+      "pts": 19,
+      "villages": 771782
+    },
+    {
+      "rank": 704825,
+      "name": 312,
+      "tag": "Liebe Leute Leben",
+      "pts": 17,
+      "villages": 704825
+    },
+    {
+      "rank": 662432,
+      "name": 250,
+      "tag": "Nadeln des Sturms",
+      "pts": 7,
+      "villages": 662432
+    },
+    {
+      "rank": 621391,
+      "name": 455,
+      "tag": "Bier Partei!",
+      "pts": 14,
+      "villages": 621391
+    },
+    {
+      "rank": 471755,
+      "name": 329,
+      "tag": "Glumanda will ran da!",
+      "pts": 3,
+      "villages": 471755
+    },
+    {
+      "rank": 482469,
+      "name": 416,
+      "tag": "Phönix",
+      "pts": 13,
+      "villages": 482469
+    },
+    {
+      "rank": 475101,
+      "name": 442,
+      "tag": "Sparta",
+      "pts": 19,
+      "villages": 475101
+    },
+    {
+      "rank": 414468,
+      "name": 492,
+      "tag": "CasualDope",
+      "pts": 6,
+      "villages": 414468
+    },
+    {
+      "rank": 390519,
+      "name": 184,
+      "tag": "Land und Leute",
+      "pts": 7,
+      "villages": 390519
+    },
+    {
+      "rank": 377300,
+      "name": 393,
+      "tag": "ANTIFA",
+      "pts": 5,
+      "villages": 377300
+    },
+    {
+      "rank": 392325,
+      "name": 175,
+      "tag": "Kings of GerMMAny",
+      "pts": 14,
+      "villages": 392325
+    },
+    {
+      "rank": 330350,
+      "name": 6,
+      "tag": "Non-Player Character",
+      "pts": 6,
+      "villages": 330350
+    },
+    {
+      "rank": 334476,
+      "name": 275,
+      "tag": "SpassAmSpiel",
+      "pts": 10,
+      "villages": 334476
+    },
+    {
+      "rank": 124312,
+      "name": 382,
+      "tag": "schowiedaklein",
+      "pts": 2,
+      "villages": 124312
+    },
+    {
+      "rank": 314042,
+      "name": 5,
+      "tag": "HUMMELN",
+      "pts": 9,
+      "villages": 314042
+    },
+    {
+      "rank": 317871,
+      "name": 24,
+      "tag": "KÖNIGS KLASSE",
+      "pts": 8,
+      "villages": 317871
+    },
+    {
+      "rank": 312376,
+      "name": 468,
+      "tag": "Bier ist geil 4.0",
+      "pts": 3,
+      "villages": 312376
+    },
+    {
+      "rank": 262149,
+      "name": 599,
+      "tag": "Hobby",
+      "pts": 3,
+      "villages": 262149
+    },
+    {
+      "rank": 278107,
+      "name": 84,
+      "tag": "StayAtHome",
+      "pts": 5,
+      "villages": 278107
+    },
+    {
+      "rank": 231760,
+      "name": 547,
+      "tag": "keiner",
+      "pts": 2,
+      "villages": 231760
+    },
+    {
+      "rank": 286484,
+      "name": 503,
+      "tag": "Casual",
+      "pts": 15,
+      "villages": 286484
+    }
+  ]
+}
