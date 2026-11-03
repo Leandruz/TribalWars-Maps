@@ -1,0 +1,62 @@
+{
+  "players": [
+    {
+      "rank": 931,
+      "name": 919930063,
+      "pts": 1,
+      "villages": 2
+    },
+    {
+      "rank": 681,
+      "name": 6232498,
+      "pts": 1,
+      "villages": 1
+    },
+    {
+      "rank": 540,
+      "name": 918853616,
+      "pts": 1,
+      "villages": 2
+    },
+    {
+      "rank": 426,
+      "name": 919990952,
+      "pts": 1,
+      "villages": 2
+    },
+    {
+      "rank": 356,
+      "name": 7519843,
+      "pts": 1,
+      "villages": 1
+    },
+    {
+      "rank": 231,
+      "name": 919852076,
+      "pts": 1,
+      "villages": 0
+    },
+    {
+      "rank": 90,
+      "name": 919796259,
+      "pts": 1,
+      "villages": 1
+    }
+  ],
+  "tribes": [
+    {
+      "rank": 1195,
+      "name": 1,
+      "tag": "EUROPA",
+      "pts": 3,
+      "villages": 1195
+    },
+    {
+      "rank": 4830,
+      "name": 2,
+      "tag": "LOBOS",
+      "pts": 3,
+      "villages": 4830
+    }
+  ]
+}
