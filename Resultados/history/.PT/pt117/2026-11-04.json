@@ -1,0 +1,656 @@
+{
+  "players": [
+    {
+      "rank": 6082958,
+      "name": 2012146,
+      "pts": 708,
+      "villages": 180
+    },
+    {
+      "rank": 3408789,
+      "name": 848869166,
+      "pts": 463,
+      "villages": 180
+    },
+    {
+      "rank": 2954932,
+      "name": 2981346,
+      "pts": 441,
+      "villages": 180
+    },
+    {
+      "rank": 2282624,
+      "name": 2182808,
+      "pts": 284,
+      "villages": 132
+    },
+    {
+      "rank": 2092397,
+      "name": 848965775,
+      "pts": 318,
+      "villages": 180
+    },
+    {
+      "rank": 2083556,
+      "name": 849082459,
+      "pts": 255,
+      "villages": 253
+    },
+    {
+      "rank": 1918624,
+      "name": 768959,
+      "pts": 200,
+      "villages": 28
+    },
+    {
+      "rank": 1858174,
+      "name": 3133289,
+      "pts": 251,
+      "villages": 180
+    },
+    {
+      "rank": 1694181,
+      "name": 1296808,
+      "pts": 199,
+      "villages": 28
+    },
+    {
+      "rank": 1674366,
+      "name": 849050670,
+      "pts": 281,
+      "villages": 180
+    },
+    {
+      "rank": 1508093,
+      "name": 848931140,
+      "pts": 238,
+      "villages": 180
+    },
+    {
+      "rank": 1375637,
+      "name": 2912446,
+      "pts": 196,
+      "villages": 132
+    },
+    {
+      "rank": 1343495,
+      "name": 3003687,
+      "pts": 152,
+      "villages": 180
+    },
+    {
+      "rank": 1313441,
+      "name": 1289380,
+      "pts": 146,
+      "villages": 132
+    },
+    {
+      "rank": 1255717,
+      "name": 2927434,
+      "pts": 243,
+      "villages": 180
+    },
+    {
+      "rank": 1193932,
+      "name": 2971323,
+      "pts": 218,
+      "villages": 28
+    },
+    {
+      "rank": 1173590,
+      "name": 2589668,
+      "pts": 171,
+      "villages": 300
+    },
+    {
+      "rank": 1171936,
+      "name": 2665059,
+      "pts": 156,
+      "villages": 132
+    },
+    {
+      "rank": 1136623,
+      "name": 848867354,
+      "pts": 154,
+      "villages": 132
+    },
+    {
+      "rank": 1107924,
+      "name": 2001687,
+      "pts": 121,
+      "villages": 180
+    },
+    {
+      "rank": 1033547,
+      "name": 1842872,
+      "pts": 121,
+      "villages": 28
+    },
+    {
+      "rank": 1024092,
+      "name": 848964262,
+      "pts": 153,
+      "villages": 132
+    },
+    {
+      "rank": 1015695,
+      "name": 2202865,
+      "pts": 115,
+      "villages": 28
+    },
+    {
+      "rank": 1015679,
+      "name": 403105,
+      "pts": 164,
+      "villages": 28
+    },
+    {
+      "rank": 993338,
+      "name": 3051970,
+      "pts": 116,
+      "villages": 108
+    },
+    {
+      "rank": 981585,
+      "name": 849047033,
+      "pts": 135,
+      "villages": 185
+    },
+    {
+      "rank": 957751,
+      "name": 286560,
+      "pts": 116,
+      "villages": 180
+    },
+    {
+      "rank": 956588,
+      "name": 2953631,
+      "pts": 127,
+      "villages": 300
+    },
+    {
+      "rank": 945508,
+      "name": 1403707,
+      "pts": 123,
+      "villages": 180
+    },
+    {
+      "rank": 944570,
+      "name": 2373394,
+      "pts": 115,
+      "villages": 132
+    },
+    {
+      "rank": 928792,
+      "name": 2051276,
+      "pts": 162,
+      "villages": 35
+    },
+    {
+      "rank": 900297,
+      "name": 3335,
+      "pts": 139,
+      "villages": 300
+    },
+    {
+      "rank": 889645,
+      "name": 849036595,
+      "pts": 166,
+      "villages": 300
+    },
+    {
+      "rank": 872952,
+      "name": 849085284,
+      "pts": 117,
+      "villages": 132
+    },
+    {
+      "rank": 860089,
+      "name": 848991843,
+      "pts": 115,
+      "villages": 132
+    },
+    {
+      "rank": 857453,
+      "name": 3032485,
+      "pts": 108,
+      "villages": 180
+    },
+    {
+      "rank": 828116,
+      "name": 849071782,
+      "pts": 104,
+      "villages": 180
+    },
+    {
+      "rank": 820179,
+      "name": 2255373,
+      "pts": 162,
+      "villages": 180
+    },
+    {
+      "rank": 793952,
+      "name": 848962601,
+      "pts": 106,
+      "villages": 180
+    },
+    {
+      "rank": 769206,
+      "name": 3121405,
+      "pts": 100,
+      "villages": 132
+    },
+    {
+      "rank": 750888,
+      "name": 1699998,
+      "pts": 115,
+      "villages": 180
+    },
+    {
+      "rank": 745162,
+      "name": 2322487,
+      "pts": 106,
+      "villages": 28
+    },
+    {
+      "rank": 740602,
+      "name": 2703615,
+      "pts": 90,
+      "villages": 35
+    },
+    {
+      "rank": 740144,
+      "name": 848983754,
+      "pts": 93,
+      "villages": 180
+    },
+    {
+      "rank": 736532,
+      "name": 2783407,
+      "pts": 83,
+      "villages": 300
+    },
+    {
+      "rank": 729978,
+      "name": 3132577,
+      "pts": 120,
+      "villages": 28
+    },
+    {
+      "rank": 717891,
+      "name": 2667343,
+      "pts": 115,
+      "villages": 132
+    },
+    {
+      "rank": 711709,
+      "name": 352362,
+      "pts": 112,
+      "villages": 185
+    },
+    {
+      "rank": 700188,
+      "name": 849070762,
+      "pts": 81,
+      "villages": 180
+    },
+    {
+      "rank": 699827,
+      "name": 849001659,
+      "pts": 92,
+      "villages": 132
+    }
+  ],
+  "tribes": [
+    {
+      "rank": 39373115,
+      "name": 180,
+      "tag": "|KAYI|",
+      "pts": 39,
+      "villages": 39373115
+    },
+    {
+      "rank": 22009568,
+      "name": 132,
+      "tag": "-KAYI BOYU-",
+      "pts": 36,
+      "villages": 22009568
+    },
+    {
+      "rank": 18033136,
+      "name": 28,
+      "tag": "Corruption",
+      "pts": 40,
+      "villages": 18033136
+    },
+    {
+      "rank": 13609300,
+      "name": 300,
+      "tag": "Corruption|",
+      "pts": 40,
+      "villages": 13609300
+    },
+    {
+      "rank": 12364340,
+      "name": 35,
+      "tag": "Corruption!",
+      "pts": 38,
+      "villages": 12364340
+    },
+    {
+      "rank": 12490829,
+      "name": 185,
+      "tag": ".KAYI.",
+      "pts": 39,
+      "villages": 12490829
+    },
+    {
+      "rank": 9148346,
+      "name": 253,
+      "tag": "+KAYI+",
+      "pts": 33,
+      "villages": 9148346
+    },
+    {
+      "rank": 6149113,
+      "name": 108,
+      "tag": "- Corruption",
+      "pts": 36,
+      "villages": 6149113
+    },
+    {
+      "rank": 4139661,
+      "name": 256,
+      "tag": "Supreme",
+      "pts": 39,
+      "villages": 4139661
+    },
+    {
+      "rank": 1702899,
+      "name": 355,
+      "tag": "Trynta",
+      "pts": 27,
+      "villages": 1702899
+    },
+    {
+      "rank": 1104609,
+      "name": 422,
+      "tag": "Peaky Blinders Division",
+      "pts": 36,
+      "villages": 1104609
+    },
+    {
+      "rank": 1063807,
+      "name": 473,
+      "tag": "Team Arrebenta",
+      "pts": 20,
+      "villages": 1063807
+    },
+    {
+      "rank": 913621,
+      "name": 47,
+      "tag": "Brutos",
+      "pts": 34,
+      "villages": 913621
+    },
+    {
+      "rank": 867539,
+      "name": 75,
+      "tag": "Nova Ordem Mundial",
+      "pts": 36,
+      "villages": 867539
+    },
+    {
+      "rank": 588403,
+      "name": 148,
+      "tag": "OASOS FAVAIOS ALLSTARS 2",
+      "pts": 39,
+      "villages": 588403
+    },
+    {
+      "rank": 716884,
+      "name": 85,
+      "tag": "Peaky Blinders Order",
+      "pts": 36,
+      "villages": 716884
+    },
+    {
+      "rank": 646954,
+      "name": 126,
+      "tag": "Tugas",
+      "pts": 29,
+      "villages": 646954
+    },
+    {
+      "rank": 502548,
+      "name": 195,
+      "tag": "Guerreiros do Apocalipse !",
+      "pts": 38,
+      "villages": 502548
+    },
+    {
+      "rank": 446385,
+      "name": 380,
+      "tag": "Super-Bock",
+      "pts": 20,
+      "villages": 446385
+    },
+    {
+      "rank": 456299,
+      "name": 419,
+      "tag": "O último suspiro",
+      "pts": 16,
+      "villages": 456299
+    },
+    {
+      "rank": 343250,
+      "name": 391,
+      "tag": "OASOS FAVAIOS ALLSTARS 4",
+      "pts": 23,
+      "villages": 343250
+    },
+    {
+      "rank": 416643,
+      "name": 42,
+      "tag": "Wolfpack",
+      "pts": 30,
+      "villages": 416643
+    },
+    {
+      "rank": 491790,
+      "name": 407,
+      "tag": "Tou só a ver",
+      "pts": 9,
+      "villages": 491790
+    },
+    {
+      "rank": 236884,
+      "name": 197,
+      "tag": "Bloodhound Syndicate",
+      "pts": 25,
+      "villages": 236884
+    },
+    {
+      "rank": 543409,
+      "name": 51,
+      "tag": "SALDANHA",
+      "pts": 6,
+      "villages": 543409
+    },
+    {
+      "rank": 341475,
+      "name": 229,
+      "tag": "Máfia",
+      "pts": 17,
+      "villages": 341475
+    },
+    {
+      "rank": 294137,
+      "name": 484,
+      "tag": "Legião Sombria",
+      "pts": 23,
+      "villages": 294137
+    },
+    {
+      "rank": 355686,
+      "name": 54,
+      "tag": "LUTO NACIONAL",
+      "pts": 13,
+      "villages": 355686
+    },
+    {
+      "rank": 271436,
+      "name": 359,
+      "tag": "V A N G U A R D A",
+      "pts": 21,
+      "villages": 271436
+    },
+    {
+      "rank": 279282,
+      "name": 246,
+      "tag": "God Of War",
+      "pts": 12,
+      "villages": 279282
+    },
+    {
+      "rank": 142360,
+      "name": 297,
+      "tag": "Pro noob",
+      "pts": 16,
+      "villages": 142360
+    },
+    {
+      "rank": 202153,
+      "name": 10,
+      "tag": "OASOS FAVAIOS ALLSTARS 1",
+      "pts": 24,
+      "villages": 202153
+    },
+    {
+      "rank": 173026,
+      "name": 415,
+      "tag": "Em Obras",
+      "pts": 13,
+      "villages": 173026
+    },
+    {
+      "rank": 204113,
+      "name": 46,
+      "tag": "~corrupt",
+      "pts": 15,
+      "villages": 204113
+    },
+    {
+      "rank": 192016,
+      "name": 2,
+      "tag": "Erro De Calculo 2",
+      "pts": 7,
+      "villages": 192016
+    },
+    {
+      "rank": 150581,
+      "name": 443,
+      "tag": "Marcha da Morte",
+      "pts": 19,
+      "villages": 150581
+    },
+    {
+      "rank": 116607,
+      "name": 68,
+      "tag": "A Última Ceifa",
+      "pts": 11,
+      "villages": 116607
+    },
+    {
+      "rank": 136647,
+      "name": 122,
+      "tag": "#Why so Serious!?",
+      "pts": 14,
+      "villages": 136647
+    },
+    {
+      "rank": 143301,
+      "name": 74,
+      "tag": "Sparta",
+      "pts": 8,
+      "villages": 143301
+    },
+    {
+      "rank": 97928,
+      "name": 61,
+      "tag": "DOOM EMPIRE",
+      "pts": 10,
+      "villages": 97928
+    },
+    {
+      "rank": 115980,
+      "name": 219,
+      "tag": "Aliens",
+      "pts": 6,
+      "villages": 115980
+    },
+    {
+      "rank": 49398,
+      "name": 425,
+      "tag": "Cercados",
+      "pts": 5,
+      "villages": 49398
+    },
+    {
+      "rank": 47192,
+      "name": 228,
+      "tag": "OASOS FAVAIOS ALL STARS 3",
+      "pts": 12,
+      "villages": 47192
+    },
+    {
+      "rank": 60457,
+      "name": 140,
+      "tag": "Survivors",
+      "pts": 7,
+      "villages": 60457
+    },
+    {
+      "rank": 99285,
+      "name": 188,
+      "tag": "Em Construção",
+      "pts": 6,
+      "villages": 99285
+    },
+    {
+      "rank": 37647,
+      "name": 3,
+      "tag": "PPS Team",
+      "pts": 12,
+      "villages": 37647
+    },
+    {
+      "rank": 31507,
+      "name": 373,
+      "tag": "Sarnadas TC",
+      "pts": 5,
+      "villages": 31507
+    },
+    {
+      "rank": 65674,
+      "name": 418,
+      "tag": "Alone",
+      "pts": 2,
+      "villages": 65674
+    },
+    {
+      "rank": 25468,
+      "name": 462,
+      "tag": "qweqwe",
+      "pts": 14,
+      "villages": 25468
+    },
+    {
+      "rank": 7159,
+      "name": 164,
+      "tag": "Amigos Unidos",
+      "pts": 11,
+      "villages": 7159
+    }
+  ]
+}
