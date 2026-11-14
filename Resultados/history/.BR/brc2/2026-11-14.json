@@ -1,0 +1,656 @@
+{
+  "players": [
+    {
+      "rank": 13934400,
+      "name": 918879230,
+      "pts": 1183,
+      "villages": 51
+    },
+    {
+      "rank": 13200706,
+      "name": 7614462,
+      "pts": 1152,
+      "villages": 51
+    },
+    {
+      "rank": 13123844,
+      "name": 7576357,
+      "pts": 1130,
+      "villages": 51
+    },
+    {
+      "rank": 8860177,
+      "name": 919417890,
+      "pts": 749,
+      "villages": 51
+    },
+    {
+      "rank": 8808580,
+      "name": 919660389,
+      "pts": 800,
+      "villages": 51
+    },
+    {
+      "rank": 7335713,
+      "name": 7069219,
+      "pts": 611,
+      "villages": 51
+    },
+    {
+      "rank": 6892966,
+      "name": 919452936,
+      "pts": 605,
+      "villages": 51
+    },
+    {
+      "rank": 6721661,
+      "name": 6664497,
+      "pts": 583,
+      "villages": 133
+    },
+    {
+      "rank": 6424172,
+      "name": 919775080,
+      "pts": 594,
+      "villages": 133
+    },
+    {
+      "rank": 6413382,
+      "name": 7918236,
+      "pts": 569,
+      "villages": 51
+    },
+    {
+      "rank": 5918996,
+      "name": 918884845,
+      "pts": 521,
+      "villages": 51
+    },
+    {
+      "rank": 5681682,
+      "name": 919959595,
+      "pts": 486,
+      "villages": 51
+    },
+    {
+      "rank": 5359217,
+      "name": 919147770,
+      "pts": 450,
+      "villages": 51
+    },
+    {
+      "rank": 5329106,
+      "name": 5581943,
+      "pts": 563,
+      "villages": 51
+    },
+    {
+      "rank": 5303259,
+      "name": 919513645,
+      "pts": 501,
+      "villages": 51
+    },
+    {
+      "rank": 5243675,
+      "name": 919702041,
+      "pts": 481,
+      "villages": 51
+    },
+    {
+      "rank": 4948987,
+      "name": 7068127,
+      "pts": 461,
+      "villages": 51
+    },
+    {
+      "rank": 4885096,
+      "name": 919309370,
+      "pts": 430,
+      "villages": 51
+    },
+    {
+      "rank": 4873116,
+      "name": 919361443,
+      "pts": 447,
+      "villages": 51
+    },
+    {
+      "rank": 4767991,
+      "name": 920008193,
+      "pts": 473,
+      "villages": 51
+    },
+    {
+      "rank": 4715244,
+      "name": 919677235,
+      "pts": 488,
+      "villages": 400
+    },
+    {
+      "rank": 4519482,
+      "name": 2201405,
+      "pts": 509,
+      "villages": 400
+    },
+    {
+      "rank": 4513027,
+      "name": 919124713,
+      "pts": 465,
+      "villages": 133
+    },
+    {
+      "rank": 4461410,
+      "name": 919249262,
+      "pts": 417,
+      "villages": 51
+    },
+    {
+      "rank": 4148675,
+      "name": 919753927,
+      "pts": 425,
+      "villages": 51
+    },
+    {
+      "rank": 3136880,
+      "name": 920056044,
+      "pts": 375,
+      "villages": 400
+    },
+    {
+      "rank": 1925315,
+      "name": 919918262,
+      "pts": 210,
+      "villages": 133
+    },
+    {
+      "rank": 1923462,
+      "name": 920007791,
+      "pts": 204,
+      "villages": 394
+    },
+    {
+      "rank": 1919534,
+      "name": 919660436,
+      "pts": 191,
+      "villages": 133
+    },
+    {
+      "rank": 1893051,
+      "name": 919197985,
+      "pts": 205,
+      "villages": 398
+    },
+    {
+      "rank": 1690848,
+      "name": 986187,
+      "pts": 180,
+      "villages": 405
+    },
+    {
+      "rank": 1640923,
+      "name": 919511408,
+      "pts": 193,
+      "villages": 277
+    },
+    {
+      "rank": 1335308,
+      "name": 920105570,
+      "pts": 156,
+      "villages": 343
+    },
+    {
+      "rank": 1067385,
+      "name": 792988,
+      "pts": 102,
+      "villages": 393
+    },
+    {
+      "rank": 989390,
+      "name": 919723542,
+      "pts": 99,
+      "villages": 133
+    },
+    {
+      "rank": 805801,
+      "name": 919729628,
+      "pts": 90,
+      "villages": 133
+    },
+    {
+      "rank": 668766,
+      "name": 920100170,
+      "pts": 112,
+      "villages": 403
+    },
+    {
+      "rank": 544893,
+      "name": 919938833,
+      "pts": 66,
+      "villages": 133
+    },
+    {
+      "rank": 479021,
+      "name": 919416874,
+      "pts": 49,
+      "villages": 395
+    },
+    {
+      "rank": 459158,
+      "name": 920068728,
+      "pts": 53,
+      "villages": 277
+    },
+    {
+      "rank": 395175,
+      "name": 5699343,
+      "pts": 40,
+      "villages": 0
+    },
+    {
+      "rank": 380596,
+      "name": 920048116,
+      "pts": 39,
+      "villages": 133
+    },
+    {
+      "rank": 345931,
+      "name": 919844526,
+      "pts": 45,
+      "villages": 277
+    },
+    {
+      "rank": 261453,
+      "name": 920025923,
+      "pts": 32,
+      "villages": 31
+    },
+    {
+      "rank": 232075,
+      "name": 8099783,
+      "pts": 28,
+      "villages": 0
+    },
+    {
+      "rank": 231778,
+      "name": 920115539,
+      "pts": 61,
+      "villages": 343
+    },
+    {
+      "rank": 230939,
+      "name": 919700179,
+      "pts": 51,
+      "villages": 403
+    },
+    {
+      "rank": 220675,
+      "name": 5394998,
+      "pts": 110,
+      "villages": 133
+    },
+    {
+      "rank": 218851,
+      "name": 919819276,
+      "pts": 29,
+      "villages": 298
+    },
+    {
+      "rank": 210700,
+      "name": 919727844,
+      "pts": 39,
+      "villages": 403
+    }
+  ],
+  "tribes": [
+    {
+      "rank": 139214935,
+      "name": 51,
+      "tag": "Coleguinhas",
+      "pts": 20,
+      "villages": 139214935
+    },
+    {
+      "rank": 24649388,
+      "name": 133,
+      "tag": "Coleguinhas!",
+      "pts": 11,
+      "villages": 24649388
+    },
+    {
+      "rank": 12701257,
+      "name": 400,
+      "tag": "Civil war",
+      "pts": 7,
+      "villages": 12701257
+    },
+    {
+      "rank": 2116857,
+      "name": 343,
+      "tag": "# MONSTERS APACHES #",
+      "pts": 15,
+      "villages": 2116857
+    },
+    {
+      "rank": 2446012,
+      "name": 277,
+      "tag": "PUNKS FOREVER!",
+      "pts": 3,
+      "villages": 2446012
+    },
+    {
+      "rank": 1310332,
+      "name": 403,
+      "tag": "CONTRA APOCALIPSE",
+      "pts": 13,
+      "villages": 1310332
+    },
+    {
+      "rank": 2004150,
+      "name": 398,
+      "tag": "EA COLL",
+      "pts": 2,
+      "villages": 2004150
+    },
+    {
+      "rank": 1923462,
+      "name": 394,
+      "tag": "OS RENEGADOS",
+      "pts": 1,
+      "villages": 1923462
+    },
+    {
+      "rank": 1690848,
+      "name": 405,
+      "tag": "SEMTAG",
+      "pts": 1,
+      "villages": 1690848
+    },
+    {
+      "rank": 1067385,
+      "name": 393,
+      "tag": "The end",
+      "pts": 1,
+      "villages": 1067385
+    },
+    {
+      "rank": 479021,
+      "name": 395,
+      "tag": "Comedores de CooL",
+      "pts": 1,
+      "villages": 479021
+    },
+    {
+      "rank": 198722,
+      "name": 3,
+      "tag": "Forte",
+      "pts": 7,
+      "villages": 198722
+    },
+    {
+      "rank": 337845,
+      "name": 31,
+      "tag": "CORRA!",
+      "pts": 13,
+      "villages": 337845
+    },
+    {
+      "rank": 174564,
+      "name": 39,
+      "tag": "kAos",
+      "pts": 3,
+      "villages": 174564
+    },
+    {
+      "rank": 244895,
+      "name": 298,
+      "tag": "Nozes",
+      "pts": 3,
+      "villages": 244895
+    },
+    {
+      "rank": 35179,
+      "name": 396,
+      "tag": "Skulls",
+      "pts": 2,
+      "villages": 35179
+    },
+    {
+      "rank": 33654,
+      "name": 352,
+      "tag": "RESISTÊNCIA",
+      "pts": 1,
+      "villages": 33654
+    },
+    {
+      "rank": 44955,
+      "name": 380,
+      "tag": "Tô pela paz",
+      "pts": 3,
+      "villages": 44955
+    },
+    {
+      "rank": 94819,
+      "name": 71,
+      "tag": "Revolução",
+      "pts": 15,
+      "villages": 94819
+    },
+    {
+      "rank": 84784,
+      "name": 76,
+      "tag": "Vox Mortis",
+      "pts": 14,
+      "villages": 84784
+    },
+    {
+      "rank": 44884,
+      "name": 367,
+      "tag": "Sem Noção",
+      "pts": 10,
+      "villages": 44884
+    },
+    {
+      "rank": 76029,
+      "name": 161,
+      "tag": "Vem Tranquilo 21",
+      "pts": 13,
+      "villages": 76029
+    },
+    {
+      "rank": 105268,
+      "name": 340,
+      "tag": "Tribo do Cha1",
+      "pts": 12,
+      "villages": 105268
+    },
+    {
+      "rank": 66946,
+      "name": 77,
+      "tag": "Ordem Sombria",
+      "pts": 11,
+      "villages": 66946
+    },
+    {
+      "rank": 29401,
+      "name": 171,
+      "tag": "Alvorecer Dourado",
+      "pts": 4,
+      "villages": 29401
+    },
+    {
+      "rank": 69502,
+      "name": 75,
+      "tag": "Zalgo Cult",
+      "pts": 11,
+      "villages": 69502
+    },
+    {
+      "rank": 85897,
+      "name": 341,
+      "tag": "Tribo do Cha2",
+      "pts": 11,
+      "villages": 85897
+    },
+    {
+      "rank": 16892,
+      "name": 344,
+      "tag": "NONAME",
+      "pts": 6,
+      "villages": 16892
+    },
+    {
+      "rank": 81647,
+      "name": 73,
+      "tag": "Os Observadores",
+      "pts": 10,
+      "villages": 81647
+    },
+    {
+      "rank": 71639,
+      "name": 74,
+      "tag": "Panteras Sombrias",
+      "pts": 10,
+      "villages": 71639
+    },
+    {
+      "rank": 76906,
+      "name": 306,
+      "tag": "Hello1",
+      "pts": 10,
+      "villages": 76906
+    },
+    {
+      "rank": 67471,
+      "name": 22,
+      "tag": "Hashiras",
+      "pts": 10,
+      "villages": 67471
+    },
+    {
+      "rank": 25818,
+      "name": 83,
+      "tag": "CASA13",
+      "pts": 9,
+      "villages": 25818
+    },
+    {
+      "rank": 39774,
+      "name": 406,
+      "tag": "TROPA DE ELITE",
+      "pts": 1,
+      "villages": 39774
+    },
+    {
+      "rank": 10606,
+      "name": 53,
+      "tag": "_Game_Over_",
+      "pts": 7,
+      "villages": 10606
+    },
+    {
+      "rank": 54078,
+      "name": 307,
+      "tag": "Bye Bye1",
+      "pts": 6,
+      "villages": 54078
+    },
+    {
+      "rank": 49920,
+      "name": 308,
+      "tag": "Dog1",
+      "pts": 7,
+      "villages": 49920
+    },
+    {
+      "rank": 25651,
+      "name": 4,
+      "tag": "DOMINIO DA NOITE",
+      "pts": 5,
+      "villages": 25651
+    },
+    {
+      "rank": 8913,
+      "name": 82,
+      "tag": "Laughing Jack",
+      "pts": 5,
+      "villages": 8913
+    },
+    {
+      "rank": 21355,
+      "name": 72,
+      "tag": "Recanto do Malandro",
+      "pts": 4,
+      "villages": 21355
+    },
+    {
+      "rank": 7040,
+      "name": 287,
+      "tag": "Los comanches",
+      "pts": 4,
+      "villages": 7040
+    },
+    {
+      "rank": 10818,
+      "name": 397,
+      "tag": "ALONE",
+      "pts": 1,
+      "villages": 10818
+    },
+    {
+      "rank": 23714,
+      "name": 78,
+      "tag": "CASA8",
+      "pts": 3,
+      "villages": 23714
+    },
+    {
+      "rank": 1631,
+      "name": 93,
+      "tag": "Clube das Winx!",
+      "pts": 2,
+      "villages": 1631
+    },
+    {
+      "rank": 468,
+      "name": 399,
+      "tag": "comedoresdekus",
+      "pts": 1,
+      "villages": 468
+    },
+    {
+      "rank": 36,
+      "name": 404,
+      "tag": "GOD OF DREAMS AND RESURRECTION",
+      "pts": 1,
+      "villages": 36
+    },
+    {
+      "rank": 2046,
+      "name": 407,
+      "tag": "REIS TW",
+      "pts": 1,
+      "villages": 2046
+    },
+    {
+      "rank": 256,
+      "name": 408,
+      "tag": "Sacro imperious Romano germanico",
+      "pts": 1,
+      "villages": 256
+    },
+    {
+      "rank": 395,
+      "name": 385,
+      "tag": "ANTI PP",
+      "pts": 1,
+      "villages": 395
+    },
+    {
+      "rank": 5121,
+      "name": 371,
+      "tag": "Liga dos Barões",
+      "pts": 1,
+      "villages": 5121
+    }
+  ]
+}
