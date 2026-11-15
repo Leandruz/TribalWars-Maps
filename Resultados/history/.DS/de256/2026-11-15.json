@@ -1,0 +1,656 @@
+{
+  "players": [
+    {
+      "rank": 3029190,
+      "name": 1577431585,
+      "pts": 297,
+      "villages": 258
+    },
+    {
+      "rank": 2801575,
+      "name": 1577376383,
+      "pts": 263,
+      "villages": 258
+    },
+    {
+      "rank": 2729606,
+      "name": 8850996,
+      "pts": 269,
+      "villages": 258
+    },
+    {
+      "rank": 2680515,
+      "name": 1577529350,
+      "pts": 280,
+      "villages": 258
+    },
+    {
+      "rank": 2623130,
+      "name": 1577249166,
+      "pts": 251,
+      "villages": 258
+    },
+    {
+      "rank": 2499022,
+      "name": 9767168,
+      "pts": 214,
+      "villages": 213
+    },
+    {
+      "rank": 2333523,
+      "name": 1577294135,
+      "pts": 245,
+      "villages": 327
+    },
+    {
+      "rank": 2272471,
+      "name": 1576212530,
+      "pts": 228,
+      "villages": 258
+    },
+    {
+      "rank": 2238755,
+      "name": 1577457934,
+      "pts": 231,
+      "villages": 258
+    },
+    {
+      "rank": 2208788,
+      "name": 1577511401,
+      "pts": 233,
+      "villages": 213
+    },
+    {
+      "rank": 2094943,
+      "name": 1577443830,
+      "pts": 227,
+      "villages": 197
+    },
+    {
+      "rank": 2072306,
+      "name": 7674115,
+      "pts": 209,
+      "villages": 258
+    },
+    {
+      "rank": 2057342,
+      "name": 1577139362,
+      "pts": 212,
+      "villages": 327
+    },
+    {
+      "rank": 2026459,
+      "name": 1577422303,
+      "pts": 200,
+      "villages": 197
+    },
+    {
+      "rank": 2005122,
+      "name": 8213975,
+      "pts": 207,
+      "villages": 258
+    },
+    {
+      "rank": 1984546,
+      "name": 1577531224,
+      "pts": 207,
+      "villages": 213
+    },
+    {
+      "rank": 1847264,
+      "name": 1577271571,
+      "pts": 190,
+      "villages": 258
+    },
+    {
+      "rank": 1845686,
+      "name": 1577535333,
+      "pts": 192,
+      "villages": 258
+    },
+    {
+      "rank": 1841261,
+      "name": 1577443553,
+      "pts": 188,
+      "villages": 258
+    },
+    {
+      "rank": 1822387,
+      "name": 1576173395,
+      "pts": 202,
+      "villages": 317
+    },
+    {
+      "rank": 1637413,
+      "name": 9239802,
+      "pts": 185,
+      "villages": 197
+    },
+    {
+      "rank": 1619253,
+      "name": 1576629728,
+      "pts": 170,
+      "villages": 197
+    },
+    {
+      "rank": 1607422,
+      "name": 1576968985,
+      "pts": 170,
+      "villages": 258
+    },
+    {
+      "rank": 1500069,
+      "name": 1577448714,
+      "pts": 165,
+      "villages": 258
+    },
+    {
+      "rank": 1489785,
+      "name": 1577189027,
+      "pts": 159,
+      "villages": 258
+    },
+    {
+      "rank": 1429686,
+      "name": 1576854399,
+      "pts": 181,
+      "villages": 258
+    },
+    {
+      "rank": 1397087,
+      "name": 1577160674,
+      "pts": 143,
+      "villages": 197
+    },
+    {
+      "rank": 1380985,
+      "name": 1577312326,
+      "pts": 157,
+      "villages": 317
+    },
+    {
+      "rank": 1379909,
+      "name": 1577395197,
+      "pts": 141,
+      "villages": 327
+    },
+    {
+      "rank": 1379648,
+      "name": 1577312768,
+      "pts": 144,
+      "villages": 258
+    },
+    {
+      "rank": 1377583,
+      "name": 1577150104,
+      "pts": 169,
+      "villages": 327
+    },
+    {
+      "rank": 1359843,
+      "name": 8312700,
+      "pts": 135,
+      "villages": 197
+    },
+    {
+      "rank": 1301054,
+      "name": 1577343731,
+      "pts": 139,
+      "villages": 213
+    },
+    {
+      "rank": 1249913,
+      "name": 1577420340,
+      "pts": 130,
+      "villages": 213
+    },
+    {
+      "rank": 1228654,
+      "name": 9411745,
+      "pts": 133,
+      "villages": 213
+    },
+    {
+      "rank": 1216467,
+      "name": 1577504258,
+      "pts": 129,
+      "villages": 258
+    },
+    {
+      "rank": 1163411,
+      "name": 1577430163,
+      "pts": 127,
+      "villages": 258
+    },
+    {
+      "rank": 1132667,
+      "name": 1577514249,
+      "pts": 141,
+      "villages": 197
+    },
+    {
+      "rank": 1074733,
+      "name": 1577504680,
+      "pts": 113,
+      "villages": 197
+    },
+    {
+      "rank": 1073833,
+      "name": 1577336312,
+      "pts": 103,
+      "villages": 258
+    },
+    {
+      "rank": 1062786,
+      "name": 8112171,
+      "pts": 120,
+      "villages": 197
+    },
+    {
+      "rank": 1013140,
+      "name": 1230608,
+      "pts": 111,
+      "villages": 197
+    },
+    {
+      "rank": 1000060,
+      "name": 1577174730,
+      "pts": 114,
+      "villages": 213
+    },
+    {
+      "rank": 995852,
+      "name": 1577367743,
+      "pts": 102,
+      "villages": 258
+    },
+    {
+      "rank": 984107,
+      "name": 1577271722,
+      "pts": 108,
+      "villages": 213
+    },
+    {
+      "rank": 981463,
+      "name": 7846445,
+      "pts": 102,
+      "villages": 258
+    },
+    {
+      "rank": 946360,
+      "name": 1576881667,
+      "pts": 99,
+      "villages": 213
+    },
+    {
+      "rank": 937048,
+      "name": 1577376256,
+      "pts": 108,
+      "villages": 197
+    },
+    {
+      "rank": 916043,
+      "name": 1577462011,
+      "pts": 91,
+      "villages": 258
+    },
+    {
+      "rank": 904800,
+      "name": 1577314538,
+      "pts": 108,
+      "villages": 258
+    }
+  ],
+  "tribes": [
+    {
+      "rank": 43313660,
+      "name": 258,
+      "tag": "Zirkus der Unschuldigen",
+      "pts": 25,
+      "villages": 43313660
+    },
+    {
+      "rank": 21297949,
+      "name": 213,
+      "tag": "Axt zum Gruße",
+      "pts": 22,
+      "villages": 21297949
+    },
+    {
+      "rank": 20488123,
+      "name": 197,
+      "tag": "Das Puppenhaus",
+      "pts": 22,
+      "villages": 20488123
+    },
+    {
+      "rank": 11610487,
+      "name": 327,
+      "tag": "Arbeitslose Sommerklicker",
+      "pts": 17,
+      "villages": 11610487
+    },
+    {
+      "rank": 11241390,
+      "name": 317,
+      "tag": "The Berserker V2",
+      "pts": 22,
+      "villages": 11241390
+    },
+    {
+      "rank": 5841361,
+      "name": 57,
+      "tag": "Bruderschaft ohne Timing",
+      "pts": 25,
+      "villages": 5841361
+    },
+    {
+      "rank": 3074107,
+      "name": 383,
+      "tag": "Brot und Brötchen",
+      "pts": 22,
+      "villages": 3074107
+    },
+    {
+      "rank": 3333431,
+      "name": 692,
+      "tag": "Randstark",
+      "pts": 21,
+      "villages": 3333431
+    },
+    {
+      "rank": 3398511,
+      "name": 298,
+      "tag": "Du bist gut genug!",
+      "pts": 25,
+      "villages": 3398511
+    },
+    {
+      "rank": 2620850,
+      "name": 296,
+      "tag": "Ägypten",
+      "pts": 23,
+      "villages": 2620850
+    },
+    {
+      "rank": 1698735,
+      "name": 301,
+      "tag": "Gemeinsam Stark",
+      "pts": 24,
+      "villages": 1698735
+    },
+    {
+      "rank": 2220274,
+      "name": 295,
+      "tag": "Aggressivität",
+      "pts": 21,
+      "villages": 2220274
+    },
+    {
+      "rank": 2123053,
+      "name": 150,
+      "tag": "Readel Madrid",
+      "pts": 14,
+      "villages": 2123053
+    },
+    {
+      "rank": 1914582,
+      "name": 497,
+      "tag": "Die Apokalyptischen Reiter",
+      "pts": 10,
+      "villages": 1914582
+    },
+    {
+      "rank": 2054851,
+      "name": 309,
+      "tag": "LateGame",
+      "pts": 13,
+      "villages": 2054851
+    },
+    {
+      "rank": 1106785,
+      "name": 648,
+      "tag": "RIP FCK",
+      "pts": 9,
+      "villages": 1106785
+    },
+    {
+      "rank": 1790463,
+      "name": 274,
+      "tag": "DLRG Spezialeinheit",
+      "pts": 24,
+      "villages": 1790463
+    },
+    {
+      "rank": 1628198,
+      "name": 322,
+      "tag": "Die Könige vom KR",
+      "pts": 4,
+      "villages": 1628198
+    },
+    {
+      "rank": 1129649,
+      "name": 678,
+      "tag": "Originale Nichtskönner",
+      "pts": 6,
+      "villages": 1129649
+    },
+    {
+      "rank": 1114697,
+      "name": 561,
+      "tag": "PAPA",
+      "pts": 25,
+      "villages": 1114697
+    },
+    {
+      "rank": 1269957,
+      "name": 417,
+      "tag": "Brothers Of Destruction",
+      "pts": 22,
+      "villages": 1269957
+    },
+    {
+      "rank": 1025860,
+      "name": 515,
+      "tag": "Südkurve",
+      "pts": 19,
+      "villages": 1025860
+    },
+    {
+      "rank": 1144929,
+      "name": 418,
+      "tag": "Creatio ex Nihilo",
+      "pts": 21,
+      "villages": 1144929
+    },
+    {
+      "rank": 1151180,
+      "name": 440,
+      "tag": "Kartenrandkrieger",
+      "pts": 3,
+      "villages": 1151180
+    },
+    {
+      "rank": 1015050,
+      "name": 328,
+      "tag": "Ballermann",
+      "pts": 16,
+      "villages": 1015050
+    },
+    {
+      "rank": 683133,
+      "name": 487,
+      "tag": "Asche zu Asche",
+      "pts": 12,
+      "villages": 683133
+    },
+    {
+      "rank": 374810,
+      "name": 472,
+      "tag": "Senat",
+      "pts": 19,
+      "villages": 374810
+    },
+    {
+      "rank": 550547,
+      "name": 677,
+      "tag": "Darkness",
+      "pts": 10,
+      "villages": 550547
+    },
+    {
+      "rank": 824736,
+      "name": 551,
+      "tag": "AFFEN",
+      "pts": 23,
+      "villages": 824736
+    },
+    {
+      "rank": 364045,
+      "name": 523,
+      "tag": "Sparta",
+      "pts": 16,
+      "villages": 364045
+    },
+    {
+      "rank": 703784,
+      "name": 293,
+      "tag": "Drachenabwehrkommando",
+      "pts": 17,
+      "villages": 703784
+    },
+    {
+      "rank": 471625,
+      "name": 388,
+      "tag": "Runenkrieger",
+      "pts": 14,
+      "villages": 471625
+    },
+    {
+      "rank": 534995,
+      "name": 196,
+      "tag": "Puppen im Lategame",
+      "pts": 10,
+      "villages": 534995
+    },
+    {
+      "rank": 325169,
+      "name": 697,
+      "tag": "Hlunken Bande",
+      "pts": 7,
+      "villages": 325169
+    },
+    {
+      "rank": 384316,
+      "name": 629,
+      "tag": "Wir lieben Zwiebeln",
+      "pts": 25,
+      "villages": 384316
+    },
+    {
+      "rank": 226539,
+      "name": 668,
+      "tag": "Besser spät als nie",
+      "pts": 12,
+      "villages": 226539
+    },
+    {
+      "rank": 57554,
+      "name": 474,
+      "tag": "Sekt",
+      "pts": 9,
+      "villages": 57554
+    },
+    {
+      "rank": 57409,
+      "name": 157,
+      "tag": "Kartenrand oder so",
+      "pts": 1,
+      "villages": 57409
+    },
+    {
+      "rank": 74863,
+      "name": 24,
+      "tag": "Die Unbeugsamen",
+      "pts": 10,
+      "villages": 74863
+    },
+    {
+      "rank": 149362,
+      "name": 332,
+      "tag": "Westliches Bündniss",
+      "pts": 3,
+      "villages": 149362
+    },
+    {
+      "rank": 214635,
+      "name": 508,
+      "tag": "Gallien",
+      "pts": 1,
+      "villages": 214635
+    },
+    {
+      "rank": 103500,
+      "name": 315,
+      "tag": "Unbehandelte Bioblumenwiese",
+      "pts": 2,
+      "villages": 103500
+    },
+    {
+      "rank": 57068,
+      "name": 33,
+      "tag": "Die letzte Gehirnzelle",
+      "pts": 1,
+      "villages": 57068
+    },
+    {
+      "rank": 161497,
+      "name": 656,
+      "tag": "Wir lieben Knoblauch",
+      "pts": 11,
+      "villages": 161497
+    },
+    {
+      "rank": 97377,
+      "name": 108,
+      "tag": "Lichtwächter",
+      "pts": 7,
+      "villages": 97377
+    },
+    {
+      "rank": 86500,
+      "name": 402,
+      "tag": "~Highlanders~",
+      "pts": 2,
+      "villages": 86500
+    },
+    {
+      "rank": 97380,
+      "name": 456,
+      "tag": "Silent Order",
+      "pts": 4,
+      "villages": 97380
+    },
+    {
+      "rank": 95951,
+      "name": 689,
+      "tag": "Träumer",
+      "pts": 1,
+      "villages": 95951
+    },
+    {
+      "rank": 69108,
+      "name": 454,
+      "tag": "Senat West",
+      "pts": 6,
+      "villages": 69108
+    },
+    {
+      "rank": 43167,
+      "name": 463,
+      "tag": "Virus",
+      "pts": 5,
+      "villages": 43167
+    }
+  ]
+}
