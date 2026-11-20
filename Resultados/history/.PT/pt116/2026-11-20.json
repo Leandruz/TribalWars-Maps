@@ -1,0 +1,656 @@
+{
+  "players": [
+    {
+      "rank": 8670471,
+      "name": 2981346,
+      "pts": 833,
+      "villages": 14
+    },
+    {
+      "rank": 7986339,
+      "name": 2737215,
+      "pts": 767,
+      "villages": 14
+    },
+    {
+      "rank": 6590973,
+      "name": 848874230,
+      "pts": 639,
+      "villages": 14
+    },
+    {
+      "rank": 6233745,
+      "name": 848958655,
+      "pts": 687,
+      "villages": 14
+    },
+    {
+      "rank": 5324659,
+      "name": 3078821,
+      "pts": 535,
+      "villages": 14
+    },
+    {
+      "rank": 3553710,
+      "name": 3079191,
+      "pts": 374,
+      "villages": 14
+    },
+    {
+      "rank": 3532519,
+      "name": 2307927,
+      "pts": 369,
+      "villages": 14
+    },
+    {
+      "rank": 3198545,
+      "name": 619027,
+      "pts": 325,
+      "villages": 14
+    },
+    {
+      "rank": 3089928,
+      "name": 760201,
+      "pts": 306,
+      "villages": 14
+    },
+    {
+      "rank": 2635770,
+      "name": 2159543,
+      "pts": 252,
+      "villages": 14
+    },
+    {
+      "rank": 2578659,
+      "name": 2101821,
+      "pts": 275,
+      "villages": 14
+    },
+    {
+      "rank": 2260561,
+      "name": 2980677,
+      "pts": 252,
+      "villages": 14
+    },
+    {
+      "rank": 2221034,
+      "name": 84982,
+      "pts": 238,
+      "villages": 14
+    },
+    {
+      "rank": 2204839,
+      "name": 848958540,
+      "pts": 233,
+      "villages": 14
+    },
+    {
+      "rank": 2113191,
+      "name": 848948970,
+      "pts": 221,
+      "villages": 14
+    },
+    {
+      "rank": 2101110,
+      "name": 2779792,
+      "pts": 207,
+      "villages": 14
+    },
+    {
+      "rank": 2026503,
+      "name": 848898150,
+      "pts": 290,
+      "villages": 14
+    },
+    {
+      "rank": 2014480,
+      "name": 3163526,
+      "pts": 206,
+      "villages": 14
+    },
+    {
+      "rank": 1951467,
+      "name": 3108439,
+      "pts": 232,
+      "villages": 14
+    },
+    {
+      "rank": 1888708,
+      "name": 848984667,
+      "pts": 207,
+      "villages": 14
+    },
+    {
+      "rank": 1787823,
+      "name": 1986759,
+      "pts": 198,
+      "villages": 14
+    },
+    {
+      "rank": 1786353,
+      "name": 1403707,
+      "pts": 193,
+      "villages": 14
+    },
+    {
+      "rank": 1721354,
+      "name": 2590148,
+      "pts": 178,
+      "villages": 14
+    },
+    {
+      "rank": 1441852,
+      "name": 848901793,
+      "pts": 163,
+      "villages": 14
+    },
+    {
+      "rank": 1344247,
+      "name": 2313046,
+      "pts": 177,
+      "villages": 194
+    },
+    {
+      "rank": 1314721,
+      "name": 849033966,
+      "pts": 178,
+      "villages": 14
+    },
+    {
+      "rank": 1258261,
+      "name": 849079115,
+      "pts": 145,
+      "villages": 122
+    },
+    {
+      "rank": 1134609,
+      "name": 1312629,
+      "pts": 165,
+      "villages": 122
+    },
+    {
+      "rank": 1110015,
+      "name": 849037794,
+      "pts": 170,
+      "villages": 14
+    },
+    {
+      "rank": 1103577,
+      "name": 2789015,
+      "pts": 108,
+      "villages": 14
+    },
+    {
+      "rank": 1091410,
+      "name": 849081369,
+      "pts": 134,
+      "villages": 196
+    },
+    {
+      "rank": 955947,
+      "name": 2572657,
+      "pts": 105,
+      "villages": 14
+    },
+    {
+      "rank": 916416,
+      "name": 849041483,
+      "pts": 98,
+      "villages": 14
+    },
+    {
+      "rank": 869671,
+      "name": 2708736,
+      "pts": 104,
+      "villages": 14
+    },
+    {
+      "rank": 832507,
+      "name": 2477125,
+      "pts": 89,
+      "villages": 196
+    },
+    {
+      "rank": 825206,
+      "name": 849034074,
+      "pts": 100,
+      "villages": 196
+    },
+    {
+      "rank": 822646,
+      "name": 2765973,
+      "pts": 89,
+      "villages": 14
+    },
+    {
+      "rank": 821755,
+      "name": 2152982,
+      "pts": 90,
+      "villages": 14
+    },
+    {
+      "rank": 803530,
+      "name": 2843202,
+      "pts": 121,
+      "villages": 14
+    },
+    {
+      "rank": 800367,
+      "name": 848989012,
+      "pts": 88,
+      "villages": 14
+    },
+    {
+      "rank": 776834,
+      "name": 849079845,
+      "pts": 84,
+      "villages": 196
+    },
+    {
+      "rank": 770911,
+      "name": 2127285,
+      "pts": 96,
+      "villages": 196
+    },
+    {
+      "rank": 657879,
+      "name": 2636711,
+      "pts": 74,
+      "villages": 14
+    },
+    {
+      "rank": 653484,
+      "name": 2287846,
+      "pts": 82,
+      "villages": 14
+    },
+    {
+      "rank": 651741,
+      "name": 849070852,
+      "pts": 88,
+      "villages": 196
+    },
+    {
+      "rank": 646734,
+      "name": 848997468,
+      "pts": 63,
+      "villages": 14
+    },
+    {
+      "rank": 606738,
+      "name": 849039935,
+      "pts": 104,
+      "villages": 49
+    },
+    {
+      "rank": 599237,
+      "name": 2059928,
+      "pts": 86,
+      "villages": 122
+    },
+    {
+      "rank": 583471,
+      "name": 848986025,
+      "pts": 74,
+      "villages": 122
+    },
+    {
+      "rank": 570962,
+      "name": 849081734,
+      "pts": 80,
+      "villages": 196
+    }
+  ],
+  "tribes": [
+    {
+      "rank": 91250027,
+      "name": 14,
+      "tag": "-Muffins and Cookies.",
+      "pts": 40,
+      "villages": 91250027
+    },
+    {
+      "rank": 12295337,
+      "name": 196,
+      "tag": "VT@ SuicideSquad",
+      "pts": 40,
+      "villages": 12295337
+    },
+    {
+      "rank": 7495673,
+      "name": 122,
+      "tag": "Dire Wolf Pack",
+      "pts": 26,
+      "villages": 7495673
+    },
+    {
+      "rank": 4602609,
+      "name": 338,
+      "tag": "A Resistência",
+      "pts": 35,
+      "villages": 4602609
+    },
+    {
+      "rank": 2247815,
+      "name": 49,
+      "tag": "-Muffins and Cookies",
+      "pts": 9,
+      "villages": 2247815
+    },
+    {
+      "rank": 1948405,
+      "name": 194,
+      "tag": "CemRosto",
+      "pts": 7,
+      "villages": 1948405
+    },
+    {
+      "rank": 911854,
+      "name": 1,
+      "tag": "Guerreiros Tribais e Favaianos 2",
+      "pts": 26,
+      "villages": 911854
+    },
+    {
+      "rank": 646040,
+      "name": 173,
+      "tag": "Valhalla",
+      "pts": 28,
+      "villages": 646040
+    },
+    {
+      "rank": 849429,
+      "name": 9,
+      "tag": "Guerreiros Tribais e Favaianos 1",
+      "pts": 16,
+      "villages": 849429
+    },
+    {
+      "rank": 510890,
+      "name": 218,
+      "tag": "Império dos Dragões",
+      "pts": 16,
+      "villages": 510890
+    },
+    {
+      "rank": 374446,
+      "name": 230,
+      "tag": "FOOLS",
+      "pts": 6,
+      "villages": 374446
+    },
+    {
+      "rank": 202821,
+      "name": 237,
+      "tag": "Dire Wolf Pack²",
+      "pts": 25,
+      "villages": 202821
+    },
+    {
+      "rank": 458685,
+      "name": 348,
+      "tag": "Amigos",
+      "pts": 1,
+      "villages": 458685
+    },
+    {
+      "rank": 174673,
+      "name": 8,
+      "tag": "Tribo do Sul",
+      "pts": 16,
+      "villages": 174673
+    },
+    {
+      "rank": 115440,
+      "name": 280,
+      "tag": "Os anjos do inferno",
+      "pts": 13,
+      "villages": 115440
+    },
+    {
+      "rank": 187243,
+      "name": 84,
+      "tag": "Vacilões de Pacotilha",
+      "pts": 6,
+      "villages": 187243
+    },
+    {
+      "rank": 25194,
+      "name": 281,
+      "tag": "Templar Knights",
+      "pts": 9,
+      "villages": 25194
+    },
+    {
+      "rank": 38258,
+      "name": 175,
+      "tag": "SO NOS!",
+      "pts": 1,
+      "villages": 38258
+    },
+    {
+      "rank": 25174,
+      "name": 362,
+      "tag": "Anime",
+      "pts": 1,
+      "villages": 25174
+    },
+    {
+      "rank": 36914,
+      "name": 360,
+      "tag": "-Burnt and Crumbled",
+      "pts": 1,
+      "villages": 36914
+    },
+    {
+      "rank": 14428,
+      "name": 92,
+      "tag": "solo",
+      "pts": 1,
+      "villages": 14428
+    },
+    {
+      "rank": 22264,
+      "name": 301,
+      "tag": "SEMTRIBO",
+      "pts": 4,
+      "villages": 22264
+    },
+    {
+      "rank": 4534,
+      "name": 355,
+      "tag": "Psicopompos",
+      "pts": 5,
+      "villages": 4534
+    },
+    {
+      "rank": 3608,
+      "name": 323,
+      "tag": "Jahahah",
+      "pts": 3,
+      "villages": 3608
+    },
+    {
+      "rank": 9950,
+      "name": 349,
+      "tag": "Independance Day",
+      "pts": 1,
+      "villages": 9950
+    },
+    {
+      "rank": 5814,
+      "name": 347,
+      "tag": "Vitória",
+      "pts": 1,
+      "villages": 5814
+    },
+    {
+      "rank": 10002,
+      "name": 105,
+      "tag": "nan",
+      "pts": 2,
+      "villages": 10002
+    },
+    {
+      "rank": 14751,
+      "name": 170,
+      "tag": "Malta do Bairro",
+      "pts": 2,
+      "villages": 14751
+    },
+    {
+      "rank": 9743,
+      "name": 169,
+      "tag": "**VAI TUDO!!!**",
+      "pts": 2,
+      "villages": 9743
+    },
+    {
+      "rank": 2321,
+      "name": 104,
+      "tag": "MALANDROS do CÓDIGO",
+      "pts": 2,
+      "villages": 2321
+    },
+    {
+      "rank": 780,
+      "name": 361,
+      "tag": "Killer boys",
+      "pts": 2,
+      "villages": 780
+    },
+    {
+      "rank": 5867,
+      "name": 350,
+      "tag": "topy",
+      "pts": 2,
+      "villages": 5867
+    },
+    {
+      "rank": 3158,
+      "name": 201,
+      "tag": "SELVA",
+      "pts": 2,
+      "villages": 3158
+    },
+    {
+      "rank": 2377,
+      "name": 337,
+      "tag": "Warriors",
+      "pts": 1,
+      "villages": 2377
+    },
+    {
+      "rank": 349,
+      "name": 354,
+      "tag": "Sem tribo",
+      "pts": 1,
+      "villages": 349
+    },
+    {
+      "rank": 155,
+      "name": 352,
+      "tag": "vbcvbc",
+      "pts": 1,
+      "villages": 155
+    },
+    {
+      "rank": 711,
+      "name": 351,
+      "tag": "Nsjs",
+      "pts": 1,
+      "villages": 711
+    },
+    {
+      "rank": 36,
+      "name": 358,
+      "tag": "Nightugas",
+      "pts": 1,
+      "villages": 36
+    },
+    {
+      "rank": 36,
+      "name": 359,
+      "tag": "h300",
+      "pts": 1,
+      "villages": 36
+    },
+    {
+      "rank": 254,
+      "name": 356,
+      "tag": "HITMAN20",
+      "pts": 1,
+      "villages": 254
+    },
+    {
+      "rank": 409,
+      "name": 345,
+      "tag": "Txupamisto",
+      "pts": 1,
+      "villages": 409
+    },
+    {
+      "rank": 1165,
+      "name": 341,
+      "tag": "bandeiras222",
+      "pts": 1,
+      "villages": 1165
+    },
+    {
+      "rank": 541,
+      "name": 357,
+      "tag": "Master",
+      "pts": 1,
+      "villages": 541
+    },
+    {
+      "rank": 1980,
+      "name": 340,
+      "tag": "Assassin's",
+      "pts": 1,
+      "villages": 1980
+    },
+    {
+      "rank": 635,
+      "name": 7,
+      "tag": "Army Of Death",
+      "pts": 2,
+      "villages": 635
+    },
+    {
+      "rank": 1235,
+      "name": 309,
+      "tag": "Roy Roice",
+      "pts": 1,
+      "villages": 1235
+    },
+    {
+      "rank": 80,
+      "name": 50,
+      "tag": "Trouble",
+      "pts": 1,
+      "villages": 80
+    },
+    {
+      "rank": 4696,
+      "name": 121,
+      "tag": "Playing Alone",
+      "pts": 1,
+      "villages": 4696
+    },
+    {
+      "rank": 2349,
+      "name": 123,
+      "tag": "Caze Tv",
+      "pts": 1,
+      "villages": 2349
+    },
+    {
+      "rank": 643,
+      "name": 131,
+      "tag": "Exercito De Elite",
+      "pts": 1,
+      "villages": 643
+    }
+  ]
+}
